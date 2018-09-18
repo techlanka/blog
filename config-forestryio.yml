@@ -4,7 +4,7 @@ highlighter: rouge
 paginate: 100
 language: en-uk
 baseurl: "/blog/"
-title: techlanka.lk | எளிய தமிழில் தொழில்நுட்ப தொடர்பான தகவல்கள்
+title: techlanka.lk | எளிய தமிழில் தொழில்நுட்பம் தொடர்பான தகவல்கள்
 description: Tech blog in tamil for techies.
 cover: assets/images/blog-cover-2.jpg
 logo: assets/images/logo3.png
