@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 paginate: 100
 language: en-uk
-baseurl: "/"
+baseurl: "/blog/"
 title: techlanka.lk
 description: High traffic tamil tech blog from Sri Lanka..
 cover: assets/images/blog-cover-2.jpg
