@@ -15,3 +15,9 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+build:
+  preview_command: ''
+  publish_command: ''
+  preview_env: []
+  publish_env: []
+  output_directory: ''
