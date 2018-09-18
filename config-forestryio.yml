@@ -1,0 +1,52 @@
+---
+markdown: kramdown
+highlighter: rouge
+paginate: 100
+language: en-uk
+baseurl: "/blog/"
+title: techlanka.lk
+description: High traffic tamil tech blog from Sri Lanka.
+cover: assets/images/blog-cover-2.jpg
+logo: assets/images/logo3.png
+logo_dark: assets/images/favicon1.png
+favicon: assets/images/favicon1.png
+production_url: https://techlanka.github.io/techlanka/
+source_url: https://github.com/techlanka/techlanka/
+navigation: true
+subscribers: true
+twitter: techlankaa
+facebook: techlanka
+disqus: false
+disqus_shortname: techlanka-github-io
+google_analytics: UA-69281367-1
+permalink: "/:title"
+plugins:
+- jekyll-paginate
+- jekyll-feed
+feed:
+  path: feed.xml
+safe: false
+lsi: false
+username: techlanka
+repo: techlanka
+branch: master
+relative_source: "../techlanka/"
+destination: "../gh-pages/"
+exclude:
+- assets/css
+- node_modules
+- vendor
+- ".travis.yml"
+- Gemfile
+- Gemfile.lock
+- GHOST.txt
+- gulpfile.js
+- LICENSE
+- package.json
+- Rakefile
+- README.md
+- script.py
+- changelog.md
+- "*.Rmd"
+- ".git*"
+timezone: Etc/UTC
