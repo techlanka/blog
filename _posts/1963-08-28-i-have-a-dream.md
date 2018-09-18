@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: false
+cover: ![background2.jpg]({{site.baseurl}}/_posts/background2.jpg)
 navigation: true
 title: I Have a Dream
 date: 1963-08-28T10:18:00.000Z
