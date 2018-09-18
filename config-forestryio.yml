@@ -3,9 +3,9 @@ markdown: kramdown
 highlighter: rouge
 paginate: 100
 language: en-uk
-baseurl: "/blog/"
+baseurl: "/"
 title: techlanka.lk
-description: High traffic tamil tech blog from Sri Lanka.
+description: High traffic tamil tech blog from Sri Lanka..
 cover: assets/images/blog-cover-2.jpg
 logo: assets/images/logo3.png
 logo_dark: assets/images/favicon1.png
@@ -28,7 +28,7 @@ feed:
 safe: false
 lsi: false
 username: techlanka
-repo: techlanka
+repo: blog
 branch: master
 relative_source: "../techlanka/"
 destination: "../gh-pages/"
