@@ -1,18 +1,22 @@
 ---
 layout: post
 current: post
-cover: assets/images/bus.jpg
+cover: assets/images/intel-lab.jpg
 navigation: True
-title: Gettysburg Address
-date: 1863-11-19 10:18:00
+title: இன்டெல் 9வது ஜென். புரோஸசர்கள் (9th generation processors) அக்டோபரில் அறிமுகம்.
+date: 2018-09-18 10:18:00
 tags:
 class: post-template
 subclass: 'post'
-author: abraham
+author: imran
 ---
 
-Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+Intel launching its 9th generation processors - new Core i9, i7 and i5 processors on October 1st with 8 cores.
 
-Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
+இன்டெல் நிறுவத்தின், 8 கோர்களால் ஆன‌ புதிய புரோஸசர்களான‌ கோர் i9, i7 மற்றும் i5 (new Core i9, i7 and i5 processors on October 1st with 8 cores) அக்டோபர் 1 ஆம் தேதி அறிமுகப்படுத்தப்பட‌ உள்ளன‌. இவை அனைத்தும் 9வது தலைமுறை புரோசசர்களாக‌ வெளியாகவுள்ளன.
 
-But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.
+இன்டெல் கோர் i9-9900K, 8 கோர்களையும் 16 இழையுடனும் (Intel Core i9-9900K with 8 cores and 16 threads) அறிமுகம் செய்யப்படுகிறது. இணைய‌ தகவல்களின்படி, கோர் i9-9900K, கோர் ஐ9 (தொடரில்) பிராண்டின் கீழ் வெளியாகும் முதல் பிரதான‌ டெஸ்க்டாப் புரோஸசராக‌ (Core i9-9900K will be the first mainstream desktop processor) இருக்கும். இதில் முதன் முறையாக 16MB கொள்ளளவுடைய மூன்றாம் நிலை பதுக்கு நினைவகமும் (L3 Cache Memory) உள்ளடக்கப்பட்டுள்ளது.
+
+Core i7-9700K புரோஸசர் எட்டு கோர்கள் கொண்ட‌ (8 Core) முதல் பிரதான வகை புரோஸசராகும். இதன் வேகமானது 3.6 GHz முதல் 4.9 GHz வரை ஊக்கமளிக்கும் ஆற்றலைக் கொண்டது.
+
+எதிர்வரும் 9000 தொடர் இன்டெல் புரோஸசர்கள் ஏற்கனவே இருக்கும் Z3xx தொடர் மதர்போர்டுகளுடன் இணக்கமாக இருப்பதை பல மதர்போர்டு விற்பனையாளர்கள் உறுதிப்படுத்தியுள்ளனர் என்பது குறிப்பிடத்தக்கது.
