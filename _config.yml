@@ -71,7 +71,7 @@ repo: blog
 branch: master
 relative_source: ../blog/
 destination: ../gh-pages/
-production_url:  https://techlanka.github.io/techlanka/
+production_url:  https://techlanka.github.io/blog/
 source_url:  https://github.com/techlanka/blog/
 
 exclude:
