@@ -30,7 +30,7 @@ lsi: false
 username: techlanka
 repo: blog
 branch: master
-relative_source: "../blog/"
+relative_source: "../techlanka/"
 destination: "../gh-pages/"
 exclude:
 - assets/css
