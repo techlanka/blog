@@ -8,6 +8,19 @@
     
       
       <item>
+        <title></title>
+        
+          <description></description>
+        
+        <pubDate>Tue, 18 Sep 2018 12:14:36 +0000</pubDate>
+        <link>
+        /1963-08-28-i-have-a-dream</link>
+        <guid isPermaLink="true">/1963-08-28-i-have-a-dream</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Configure Unicenta oPOS with MySQL Database Server.</title>
         
           <description>&lt;h2 id=&quot;unicentas-default-configuration-when-freshly-installed-is-set-to-use-the-derby-database-server-a-database-server-embedded-inside-of-unicenta-this-is-only-good-for-testing-and-experimental-purposes-but-when-youre-ready-to-deploy-your-unicenta-box-you-should-be-using-it-with-an-external-database-server-like-mysql&quot;&gt;Unicenta’s default configuration when freshly installed is set to use the Derby Database Server. A database server embedded inside of Unicenta. This is only good for testing and experimental purposes. But when you’re ready to deploy your Unicenta box, you should be using it with an external Database Server like MySQL.&lt;/h2&gt;
@@ -303,21 +316,6 @@
         <link>
         /a-full-and-comprehensive-style-test</link>
         <guid isPermaLink="true">/a-full-and-comprehensive-style-test</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>I Have a Dream</title>
-        
-          <description>&lt;p&gt;I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 28 Aug 1963 10:18:00 +0000</pubDate>
-        <link>
-        /i-have-a-dream</link>
-        <guid isPermaLink="true">/i-have-a-dream</guid>
       </item>
       
     
