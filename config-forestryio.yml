@@ -10,7 +10,7 @@ cover: assets/images/blog-cover-2.jpg
 logo: assets/images/logo3.png
 logo_dark: assets/images/favicon1.png
 favicon: assets/images/favicon1.png
-production_url: https://techlanka.github.io/techlanka/
+production_url: https://techlanka.github.io/blog/
 source_url: https://github.com/techlanka/blog/
 navigation: true
 subscribers: true
