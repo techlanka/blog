@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog/
+baseurl: /
 
 # Website info
 title: techlanka.lk
@@ -67,7 +67,7 @@ feed:
 safe: False
 lsi: False
 username: techlanka
-repo: techlanka
+repo: blog
 branch: master
 relative_source: ../techlanka/
 destination: ../gh-pages/
