@@ -17,6 +17,7 @@ favicon: assets/images/favicon1.png
 production_url: https://techlanka.github.io/blog/
 source_url: https://github.com/techlanka/blog/
 
+
 # Social info
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
@@ -69,7 +70,7 @@ lsi: False
 username: techlanka
 repo: blog
 branch: master
-relative_source: ../blog/
+relative_source: ../techlanka/
 destination: ../gh-pages/
 production_url:  https://techlanka.github.io/blog/
 source_url:  https://github.com/techlanka/blog/
