@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: 'assets/images/twitter-blocks.jpg'
 navigation: True
-title: வேடிக்கையான டுவீட் பதில்கள்: தடை செய்தது டுவிட்டர்!
+title: வேடிக்கையான டுவீட் பதில்கள், தடை செய்தது டுவிட்டர்!
 date: 2018-09-19 12:18:00
 tags: Technology
 class: post-template
