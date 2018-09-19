@@ -1,11 +1,11 @@
 ---
 layout: page
-current: about
+current: ''
 title: Contact
 navigation: true
-logo: 'assets/images/favicon.png'
+logo: assets/images/favicon.png
 class: page-template
-subclass: 'post page'
----
+subclass: post page
 
-CALL ME at 779772888
+---
+##EMAIL US AT INFO@TECHLANKA.LK
