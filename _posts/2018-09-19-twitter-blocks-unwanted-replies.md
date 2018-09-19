@@ -7,7 +7,7 @@ title: வேடிக்கையான டுவீட் பதில்க�
 date: 2018-09-19 09:18:00
 tags: Technology, Social Media
 class: post-template
-subclass: 'post tag-fiction'
+subclass: 'post'
 author: mirshad
 ---
 
