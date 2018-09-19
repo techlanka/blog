@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/twitter-blocks.jpg'
+cover: assets/images/twitter-blocks.jpg
 navigation: True
 title: வேடிக்கையான டுவீட் பதில்கள்: தடை செய்தது டுவிட்டர்!
 date: 2018-09-19 09:18:00
@@ -24,8 +24,3 @@ Look these funny Twitter responses for a user who killed mosquito and posted it 
 இந்த வேடிக்கையான‌ டுவீட்டினை டுவிட்டரின் செயற்கை அறிவுத்திறன் (தானியங்கி / artificial intelligence) அமைப்பு கண்டுபிடித்து எச்சரிக்கை அறிவித்து கேள்வி எழுப்பி உள்ளது..
 
 ஜப்பானிய பயனரின் (Japanese Twitter user) @nemuismywife எனும் டுவிட்டர் கணக்கு நிறுத்தப்பட்டது (பயனர் தடை). அவர் பின்னர் @DaydreamMatcha எனும் மற்றொரு கணக்கு உருவாக்கினார், ஆனால் ட்விட்டர் அதனையும் பயனரை வினவியபின் முடக்கிவிட்ட‌து.
-
-
- 
-
- 
