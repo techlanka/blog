@@ -1,11 +1,11 @@
 ---
 layout: page
-current: contact
+current: ''
 title: Contact
 navigation: true
-logo: 'assets/images/favicon.png'
+logo: assets/images/favicon.png
 class: page-template
-subclass: 'post page'
----
+subclass: post page
 
+---
 ##EMAIL US AT INFO@TECHLANKA.LK
