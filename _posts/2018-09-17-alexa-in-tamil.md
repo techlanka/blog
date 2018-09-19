@@ -7,7 +7,7 @@ title: அலெக்சாவுடன் தமிழில் பேசல�
 date: 2018-09-18 10:40:00
 tags: technology
 class: post-template
-subclass: 'post tag-fiction'
+subclass: 'post'
 author: mirshad
 ---
 
