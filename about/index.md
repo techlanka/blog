@@ -8,6 +8,8 @@ class: page-template
 subclass: 'post page'
 ---
 
+Techlanka Solutions 2012 ஆம் ஆண்டிலிருந்து வாடிக்கையாளர்களுக்கு முதற்தர tech  சேவையை வழங்குவதுடன், 3G மற்றும் 4G routers க்கான Unlocking தீர்வு மற்றும் தகவலை வழங்குவதில் மும்முரமாக செயல்பட்டு வந்தது. அண்மை காலமாக தொழிநுட்ப அறிவை மேன்படுத்தும் முயற்ச்சியாக தொழிநுட்ப செய்திகளை தமிழ் மொழியில்  மொழிபெயர்த்து வழங்கும் திட்டத்தின் முதல் கட்டமாக  techlanka.lk எனும் இணைய முகவரியூடாக post கலை வழங்கி வருகின்றோம்.
+
 Techlanka x Solutions serving the clients since 2012 in intense of providing unlocking solution and information for 3G & 4G USB modem that are available in market. It has been a challenge to face each an every personals I meet throughout my journey. With my continued hard work has raised techlanka.lk as No.1 Unlocking Blog from Sri Lanka for past years.
 
 We have taken one more step to take youth through the use of social networking services and develop an understanding and interest in technology. We will be bringing the latest news in the technical world through techlanka.lk in simple English. We also pay special attention to the link collection link that contains more information whenever possible.
