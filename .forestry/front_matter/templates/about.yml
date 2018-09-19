@@ -38,5 +38,3 @@ fields:
   type: file
   hidden: false
   default: ''
-pages:
-- Contact-Us.md
