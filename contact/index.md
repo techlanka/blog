@@ -8,4 +8,5 @@ class: page-template
 subclass: post page
 
 ---
-##EMAIL US AT INFO@TECHLANKA.LK
+
+உங்கள் எண்ணங்களையும் யோசனைகளையும்  info@techlanka.lk என்ற முகவரியில் பகிரவும்
