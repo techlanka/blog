@@ -11,7 +11,7 @@
 
 
 
-    <title>techlanka.lk | எளிய தமிழில் தொழில்நுட்பம் தொடர்பான தகவல்கள்</title>
+    <title>Contact</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -31,13 +31,13 @@
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="techlanka.lk | எளிய தமிழில் தொழில்நுட்பம் தொடர்பான தகவல்கள்" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="techlanka.lk | எளிய தமிழில் தொழில்நுட்பம் தொடர்பான தகவல்கள்" />
+    <meta property="og:title" content="Contact" />
     <meta property="og:description" content="Tech blog in tamil for techies." />
     <meta property="og:url" content="/blog/contact" />
     <meta property="og:image" content="/blog/assets/images/blog-cover-2.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/techlanka" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="techlanka.lk | எளிய தமிழில் தொழில்நுட்பம் தொடர்பான தகவல்கள்" />
+    <meta name="twitter:title" content="Contact" />
     <meta name="twitter:description" content="Tech blog in tamil for techies." />
     <meta name="twitter:url" content="/blog/" />
     <meta name="twitter:image" content="/blog/assets/images/blog-cover-2.jpg" />
@@ -81,11 +81,11 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="techlanka.lk | எளிய தமிழில் தொழில்நுட்பம் தொடர்பான தகவல்கள்" href="/blog/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Contact" href="/blog/feed.xml" />
 
 
 </head>
-<body class="home-template">
+<body class="page-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
@@ -94,18 +94,14 @@
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer " style="background-image:  url(/blog/assets/images/blog-cover-2.jpg) ">
+<header class="site-header outer">
     <div class="inner">
-        <div class="site-header-content">
-            <h1 class="site-title">
-                
-                    <img class="site-logo" src="/blog/assets/images/logo3.png" alt="techlanka.lk | எளிய தமிழில் தொழில்நுட்பம் தொடர்பான தகவல்கள்"/>
-                
-            </h1>
-            <h2 class="site-description">Tech blog in tamil for techies.</h2>
-        </div>
         <nav class="site-nav">
     <div class="site-nav-left">
+        
+            
+                <a class="site-nav-logo" href="/blog/"><img src="/blog/assets/images/logo3.png" alt="techlanka.lk | எளிய தமிழில் தொழில்நுட்பம் தொடர்பான தகவல்கள்" /></a>
+            
         
         
             <ul class="nav" role="menu">
@@ -137,18 +133,50 @@ into the {body} of the default.hbs template -->
     </div>
 </header>
 
-<!-- The main content area -->
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
+
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <div class="post-feed">
-            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+        <article class="post-full post page no-image">
+
+            <header class="post-full-header">
+                <h1 class="post-full-title">Contact</h1>
+            </header>
+
             
 
-        </div>
+            <section class="post-full-content">
+                Techlanka Solutions serving the clients since 2012 in intense of providing unlocking solution and information for 3G & 4G USB modem that are available in market. It has been a challenge to face each an every personals I meet throughout my journey. With my continued hard work has raised techlanka.lk as No.1 Unlocking Blog from Sri Lanka for past years.
+
+We have taken one more step to take youth through the use of social networking services and develop an understanding and interest in technology. We will be bringing the latest news in the technical world through techlanka.lk in simple English. We also pay special attention to the link collection link that contains more information whenever possible.
+
+We also appreciate our members who are already volunteering on behalf of this service and are very much appreciative of spending their time and money for someone else. The tech news, reading, sharing and joining tech news articles from techlanka.lk, We appreciate the support you have been giving us to share knowledge.
+
+Apart from this we offer more services.
+
+We are specialized in Social Media Marketing, Domain registration, Blogger Redesigning (Your expectation), Web Hosting, Unlocking of Modems and Routers, Email for Business Domain,
+
+CCTV surveillance & Bio-metric Time Attendance, Networking with Hardware and Software Solution. We have over 7 years of experience in the industry and our teams of highly experienced and accredited industry experts providing support that adds real value to our network of customers.
+
+            </section>
+
+        </article>
 
     </div>
 </main>
+
+<!-- /post -->
+
+<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
+<script>
+$(function() {
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+});
+</script>
+
 
 
         <!-- Previous/next page links - displayed on every page -->
@@ -236,6 +264,14 @@ into the {body} of the default.hbs template -->
 
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+        <script>
+$(function() {
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+});
+</script>
+
     
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
