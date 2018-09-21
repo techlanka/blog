@@ -1,7 +1,6 @@
 <nav class="site-nav">
     <div class="site-nav-left">
-        {if page.menu %}
-        {% include menu.html}
+        
         {% if page.current != 'home' %}
             {% if site.logo %}
                 <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
@@ -9,6 +8,9 @@
                 <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             {% endif %}
         {% endif %}
+         {% if site.facebook %}
+                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.menu }}">{% include menu.html %}</a>
+            {% endif %}
         {% if page.navigation %}
             {% include navigation.html %}
         {% endif %}
