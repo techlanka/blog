@@ -23,6 +23,7 @@ permalink: "/:title"
 plugins:
 - jekyll-paginate
 - jekyll-feed
+- jekyll-gist
 feed:
   path: feed.xml
 safe: false
