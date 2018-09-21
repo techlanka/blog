@@ -632,9 +632,31 @@ Once you clicked OK you should be redirected to your Unicenta screen. If you’v
         </footer>
 
     </div>
+    
+    <!-- The big email subscribe modal content -->
+    
+        <div id="subscribe" class="subscribe-overlay">
+            <a class="subscribe-overlay-close" href="#"></a>
+            <div class="subscribe-overlay-content">
+                
+                    <img class="subscribe-overlay-logo" src="/blog/assets/images/logo3.png" alt="techlanka.lk | எளிய தமிழில் தொழிநுட்ப செய்திகள்"/>
+                
+                <h1 class="subscribe-overlay-title">Subscribe to techlanka.lk </h1>
+                <p class="subscribe-overlay-description">சமீபத்திய postகளை இலகுவாக உங்கள் ஈமெயில் inboxஇல் பெற்றுக்கொள்ளுங்கள்! </p>
+                <form method="post" action="/subscribe/" class="">
+    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
 
+    <div class="form-group">
+        <input class="subscribe-email" type="email" name="email"  placeholder="youremail@example.com" />
+    </div>
+    <button class="" type="submit" disabled><span>Subscribe</span></button>
+    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+</form>
 
-
+            </div>
+        </div>
+    
+    
     <!-- highlight.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
     <script>$(document).ready(function() {
