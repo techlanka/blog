@@ -1,6 +1,7 @@
 <ul class="nav" role="menu">
-<a>{% include head2.html %}
-    {% include sidebar.html %}</a>
+    {% if page.navigation %}
+            {% include sidebar.html %}
+        {% endif %}
 </ul>
 <br>
 <ul class="nav" role="menu">
