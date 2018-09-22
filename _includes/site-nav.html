@@ -8,9 +8,9 @@
                 <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             {% endif %}
         {% endif %}
-         {% if site.facebook %}
-                <a class="social-link social-link-fb" href="{{ site.baseurl }}">{% include menu.html %}</a>
-            {% endif %}
+         
+        {% include menu.html %}</a>
+    
         {% if page.navigation %}
             {% include navigation.html %}
         {% endif %}
