@@ -19,12 +19,8 @@
     <!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
-
-    <!-- This tag outputs SEO meta+structured data and other important settings -->
-    {% include head.html %}
-
-</head>
-<body {% include sidebar.html %}
+    
+    {% include sidebar.html %}
       
       <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
@@ -62,7 +58,12 @@
   </body>
 </html>
       
-      class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
+
+    <!-- This tag outputs SEO meta+structured data and other important settings -->
+    {% include head.html %}
+
+</head>
+<body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
