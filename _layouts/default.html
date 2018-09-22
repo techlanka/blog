@@ -19,9 +19,6 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
     
-     {% include head2.html %}
-    {% include sidebar.html %}
-    
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
 
@@ -47,6 +44,8 @@
             {% endif %}
         {% endif %}
         
+            {% include head2.html %}
+    {% include sidebar.html %}
         <!-- The footer at the very bottom of the screen -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
