@@ -1,16 +1,17 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/Gmail-lets-you-@-mention-people.jpg'
-navigation: True
+cover: assets/images/Gmail-lets-you-@-mention-people.jpg
+navigation: true
 title: ஜிமெயிலிலும் இப்போது @ உடன் நபர்களைக் குறிப்பிடலாம். ட்விட்டர் போலவே !
-date: 2018-08-24 13:18:00
-tags: Technology, Social Media
+date: 2018-08-24 13:18:00 +0000
+tags:
+- google
 class: post-template
-subclass: 'post tag-fiction'
+subclass: post tag-fiction
 author: mirshad
----
 
+---
 Now Gmail lets you ‘@’ mention people to link them with their email ID in email's body.
 
 ஜிமெயில் சமீபத்தில் அறிவிக்கப்பட்ட சில அறிவுபூர்ணமான புதுப்பித்தல்கள் புது அம்சங்களைக் கொண்டவை. ஸ்மார்ட் கம்போஸ் மற்றும் உள்வரும் செய்திகளுக்கான உறக்கநிலை பொத்தான் ( Snooze Button) ஆகியன உள்ளன.
