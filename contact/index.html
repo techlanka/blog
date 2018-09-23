@@ -97,8 +97,9 @@ into the {body} of the default.hbs template -->
 <header class="site-header outer">
     <div class="inner">
         <nav class="site-nav">
+        
     
-    <div class="site-nav-right">
+    <div class="site-nav-left">
         
             
                 <a class="site-nav-logo" href="/blog/"><img src="/blog/assets/images/logo3.png" alt="techlanka.lk | எளிய தமிழில் தொழிநுட்ப செய்திகள்" /></a>
@@ -121,7 +122,14 @@ into the {body} of the default.hbs template -->
 
         
     </div>
-    <div class="site-nav-left">
+    <div class="site-nav-left"> <!-- Toggleable sidebar -->
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/blog//">Home</a>
+    <a class="sidebar-nav-item" href="/blog//about/">About</a>
+    <a class="sidebar-nav-item" href="/blog//contact/">Contact</a>
+  <div class="sidebar-item">
+  </div> </div>
+    <div class="site-nav-right">
         <div class="social-links">
             
                 <a class="social-link social-link-fb" href="https://facebook.com/techlanka" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
