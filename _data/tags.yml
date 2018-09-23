@@ -1,7 +1,3 @@
-technology:
-  name: technology
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
 fiction:
   name: fiction
   description: False
@@ -14,3 +10,43 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+google:
+  name: google
+  description: You can find all Google related articles here.
+  cover: assets/images/fables.jpg
+microsoft:
+  name: microsoft
+  description: You can find all Microsoft related articles here.
+  cover: assets/images/fables.jpg
+android:
+  name: android
+  description: You can find all Android related articles here.
+  cover: assets/images/fables.jpg
+software:
+  name: software
+  description: You can find all Software related articles here.
+  cover: assets/images/fables.jpg
+gaming:
+  name: gaming
+  description: You can find all Gaming related articles here.
+  cover: assets/images/fables.jpg
+artificial intelligence:
+  name: artificial intelligence
+  description: You can find all Artificial Intelligence (AI) related articles here.
+  cover: assets/images/fables.jpg
+apple:
+  name: apple
+  description: You can find all Apple related articles here.
+  cover: assets/images/speeches.jpg
+social media:
+  name: social media
+  description: You can find all Social Media related articles here.
+  cover: assets/images/speeches.jpg
+tips & tricks:
+  name: tips & tricks
+  description: You can find all Tips & Tricks articles here.
+  cover: assets/images/speeches.jpg
+reviews:
+  name: reviews
+  description: You can find all products & Services reviews here.
+  cover: assets/images/speeches.jpg
