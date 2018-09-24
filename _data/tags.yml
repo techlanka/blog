@@ -25,7 +25,7 @@ ai:
 apple:
   name: apple
   description: You can find all Apple related articles here.
-  cover: assets/images/speeches.jpg
+  cover: assets/images/apple.jpg
 social media:
   name: social media
   description: You can find all Social Media related articles here.
