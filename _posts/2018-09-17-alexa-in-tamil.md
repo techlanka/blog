@@ -5,7 +5,7 @@ cover: 'assets/images/Alexa-enabled-Amazon-Echo.jpg'
 navigation: true
 title: அலெக்சாவுடன் தமிழில் பேசலாம்! தமிழ் மொழியில் Amazon Alexa
 date: 2018-09-18 10:40:00
-tags: artificial intelligence
+tags: ai
 class: post-template
 subclass: 'post'
 author: mirshad

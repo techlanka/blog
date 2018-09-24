@@ -5,7 +5,7 @@ cover :  assets/images/welcome.jpg
 navigation: True
 title: "Configure Unicenta oPOS with MySQL Database Server."
 category: 'softwares'
-tags: [Getting started]
+tags: software
 class: post-template
 subclass: 'post tag-getting-started'
 author: mirshad
