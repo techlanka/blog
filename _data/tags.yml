@@ -17,7 +17,7 @@ software:
 gaming:
   name: gaming
   description: You can find all Gaming related articles here.
-  cover: assets/images/fables.jpg
+  cover: assets/images/gaming.png
 ai:
   name: Artificial Intelligence
   description: You can find all Artificial Intelligence (AI) related articles here.
