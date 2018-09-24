@@ -1,7 +1,7 @@
 google:
   name: google
   description: You can find all Google related articles here.
-  cover: assets/images/fables.jpg
+  cover: assets/images/google.jpg
 microsoft:
   name: microsoft
   description: You can find all Microsoft related articles here.
