@@ -1,7 +1,7 @@
 ---
 markdown: kramdown
 highlighter: rouge
-paginate: 100
+paginate: 10
 language: en-uk
 baseurl: "/blog/"
 title: techlanka.lk | எளிய தமிழில் தொழிநுட்ப செய்திகள்
