@@ -38,3 +38,7 @@ reviews:
   name: reviews
   description: You can find all products & Services reviews here.
   cover: assets/images/speeches.jpg
+security:
+  name: security
+  description: You can find all Security related articles here.
+  cover: assets/images/fables.jpg
