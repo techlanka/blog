@@ -5,7 +5,7 @@ cover: 'assets/images/twitter-blocks.jpg'
 navigation: True
 title: வேடிக்கையான டுவீட் பதில்கள், தடை செய்தது டுவிட்டர்!
 date: 2018-09-19 12:18:00
-tags: social media
+tags: social-media
 class: post-template
 subclass: 'post'
 author: mirshad
