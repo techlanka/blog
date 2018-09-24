@@ -5,7 +5,7 @@ google:
 microsoft:
   name: microsoft
   description: You can find all Microsoft related articles here.
-  cover: assets/images/fables.jpg
+  cover: assets/images/microsoft.jpeg
 android:
   name: android
   description: You can find all Android related articles here.
