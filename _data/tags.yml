@@ -9,7 +9,7 @@ microsoft:
 android:
   name: android
   description: You can find all Android related articles here.
-  cover: assets/images/fables.jpg
+  cover: assets/images/android.jpg
 software:
   name: software
   description: You can find all Software related articles here.
