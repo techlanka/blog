@@ -5,13 +5,13 @@ cover: 'assets/images/twitter-blocks.jpg'
 navigation: True
 title: வேடிக்கையான டுவீட் பதில்கள், தடை செய்தது டுவிட்டர்!
 date: 2018-09-19 12:18:00
-tags: Technology
+tags: social media
 class: post-template
 subclass: 'post'
 author: mirshad
 ---
 
-Look these funny Twitter responses for a user who killed mosquito and posted it on twitter
+Look these funny Twitter responses for a user who killed mosquito and posted it on twitter.
 
 சமீபகாலமாக‌ சமூக வலைத்தளங்கள் (social media) அதன் பயனர்களை துன்புறுத்தல்களில் இருந்து பாதுகாக்கும் முயற்சியை முழுவீச்சில் செயல்படுத்தி வருகின்றது. ஒருவரைப் பற்றி அநாவசிய தவல்களை, குறிப்பிட்ட‌ தகவலினை தவறாக‌ பரப்புதல், பழிவாங்கல்கள் போன்ற‌ பதிவுகளை மிக கவனத்துடன் பரிசீலித்து அவற்றை பிரசுரித்து வருகின்றன.
 
