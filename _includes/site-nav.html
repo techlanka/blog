@@ -7,9 +7,11 @@
                 <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             {% endif %}
         {% endif %}
+        {% if page.navigation2 %}
+{% include navigation2.html %}
+        {% endif %}
         {% if page.navigation %}
         {% include navigation.html %}
-        {% include navigation2.html %}
         {% endif %}
     </div>
         
