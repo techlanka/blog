@@ -12,7 +12,6 @@ logo_dark: assets/images/favicon1.png
 favicon: assets/images/favicon1.png
 production_url: https://techlanka.github.io/blog/
 source_url: https://github.com/techlanka/blog/
-navigation2: true
 navigation: true
 subscribers: true
 twitter: techlankaa
