@@ -13,7 +13,7 @@ android:
 software:
   name: software
   description: You can find all Software related articles here.
-  cover: assets/images/fables.jpg
+  cover: assets/images/programming.jpg
 gaming:
   name: gaming
   description: You can find all Gaming related articles here.
