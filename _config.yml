@@ -10,7 +10,7 @@ baseurl: /blog/
 # Website info
 title: techlanka.lk | எளிய தமிழில் தொழிநுட்ப செய்திகள்
 description: Tamil Blog for Latest Technology News
-cover: assets/images/blog-cover-5.png
+cover: assets/images/blog-cover-3.jpg
 logo: assets/images/logo3.png
 logo_dark: assets/images/favicon1.png
 favicon: assets/images/favicon1.png
@@ -19,6 +19,7 @@ source_url: https://github.com/jekyller/jasper2/
 
 
 # Social info
+navigation1: True
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
