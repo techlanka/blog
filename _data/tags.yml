@@ -21,7 +21,7 @@ gaming:
 ai:
   name: Artificial Intelligence
   description: You can find all Artificial Intelligence (AI) related articles here.
-  cover: assets/images/ai.jpeg
+  cover: assets/images/intelligence.jpeg
 apple:
   name: apple
   description: You can find all Apple related articles here.
