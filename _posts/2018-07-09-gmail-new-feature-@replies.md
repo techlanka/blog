@@ -5,8 +5,7 @@ cover: assets/images/Gmail-lets-you-@-mention-people.jpg
 navigation: true
 title: ஜிமெயிலிலும் இப்போது @ உடன் நபர்களைக் குறிப்பிடலாம். ட்விட்டர் போலவே !
 date: 2018-08-24 13:18:00 +0000
-tags:
-- google
+tags: google
 class: post-template
 subclass: post tag-fiction
 author: mirshad
