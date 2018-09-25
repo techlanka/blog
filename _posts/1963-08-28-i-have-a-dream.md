@@ -5,10 +5,10 @@ cover: assets/images/advanced.jpg
 navigation: true
 title: I Have a Dream
 date: 1963-08-28T10:18:00.000Z
-tags: speeches
+tags: google
 class: post-template
 subclass: post tag-speeches
-author: martin
+author: imran
 published: true
 ---
 
