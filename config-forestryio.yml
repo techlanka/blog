@@ -6,12 +6,13 @@ language: en-uk
 baseurl: "/blog/"
 title: techlanka.lk | எளிய தமிழில் தொழிநுட்ப செய்திகள்
 description: Tamil Blog for Latest Technology News
-cover: assets/images/blog-cover-5.png
+cover: assets/images/blog-cover-3.jpg
 logo: assets/images/logo3.png
 logo_dark: assets/images/favicon1.png
 favicon: assets/images/favicon1.png
 production_url: https://techlanka.github.io/blog/
 source_url: https://github.com/techlanka/blog/
+navigation1: true
 navigation: true
 subscribers: true
 twitter: techlankaa
