@@ -16,10 +16,10 @@ imran:
   url_full: False
   url: False
   bio: Imran is Basically a Accoutant and a leisure time Blogger.
-  picture: assets/images/johm.jpg
+  picture: assets/images/john.jpg
   facebook: False
   twitter: False
-  cover: assets/images/hannah-cover.jpg
+  cover: False
 john:
   username: john
   name: John O'Nolan
