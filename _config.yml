@@ -19,7 +19,7 @@ source_url: https://github.com/jekyller/jasper2/
 
 
 # Social info
-navigation1: True
+navigation2: true
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
