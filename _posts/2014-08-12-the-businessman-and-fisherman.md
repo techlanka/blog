@@ -5,7 +5,7 @@ cover: assets/images/water.jpg
 navigation: true
 title: The Businessman & The Fisherman
 date: 2014-08-12 10:18:00 +0000
-tags: fables
+tags: apple
 class: post-template
 subclass: post tag-fables
 logo: assets/images/ghost.png
