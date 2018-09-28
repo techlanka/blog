@@ -38,21 +38,6 @@
     
       
       <item>
-        <title>இன்டெல் 9வது ஜென். புரோஸசர்கள் (9th generation processors) அக்டோபரில் அறிமுகம்.</title>
-        
-          <description>&lt;p&gt;Intel launching its 9th generation processors - new Core i9, i7 and i5 processors on October 1st with 8 cores.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Tue, 18 Sep 2018 10:18:00 +0000</pubDate>
-        <link>
-        /launching-9th-generation-processors</link>
-        <guid isPermaLink="true">/launching-9th-generation-processors</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>Configure Unicenta oPOS with MySQL Database Server.</title>
         
           <description>&lt;h2 id=&quot;unicentas-default-configuration-when-freshly-installed-is-set-to-use-the-derby-database-server-a-database-server-embedded-inside-of-unicenta-this-is-only-good-for-testing-and-experimental-purposes-but-when-youre-ready-to-deploy-your-unicenta-box-you-should-be-using-it-with-an-external-database-server-like-mysql&quot;&gt;Unicenta’s default configuration when freshly installed is set to use the Derby Database Server. A database server embedded inside of Unicenta. This is only good for testing and experimental purposes. But when you’re ready to deploy your Unicenta box, you should be using it with an external Database Server like MySQL.&lt;/h2&gt;
