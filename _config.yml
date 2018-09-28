@@ -24,7 +24,7 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: techlankaa # replace by your username
+twitter: techlanka_lk # replace by your username
 facebook: techlanka # replace by your username
 instagram: techlanka #
 
