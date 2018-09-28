@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/blog/tag/tips-and-tricks/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2018-09-28T12:57:31+00:00</updated>
+  <updated>2018-09-28T16:06:16+03:00</updated>
   <id>/blog/tag/tips-and-tricks/feed.xml</id>
 
   
@@ -46,8 +46,8 @@
     <entry>
       <title type="html">Using the Ghost editor</title>
       <link href="/blog/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" />
-      <published>2017-07-27T09:00:00+00:00</published>
-      <updated>2017-07-27T09:00:00+00:00</updated>
+      <published>2017-07-27T12:00:00+03:00</published>
+      <updated>2017-07-27T12:00:00+03:00</updated>
       <id>/blog/the-editor</id>
       <content type="html" xml:base="/blog/the-editor">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
 &lt;p&gt;When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.&lt;/p&gt;

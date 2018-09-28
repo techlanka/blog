@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/blog/tag/gaming/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2018-09-28T12:57:31+00:00</updated>
+  <updated>2018-09-28T16:06:16+03:00</updated>
   <id>/blog/tag/gaming/feed.xml</id>
 
   
@@ -46,8 +46,8 @@
     <entry>
       <title type="html">Managing Ghost users</title>
       <link href="/blog/managing-users" rel="alternate" type="text/html" title="Managing Ghost users" />
-      <published>2017-07-27T07:00:00+00:00</published>
-      <updated>2017-07-27T07:00:00+00:00</updated>
+      <published>2017-07-27T10:00:00+03:00</published>
+      <updated>2017-07-27T10:00:00+03:00</updated>
       <id>/blog/managing-users</id>
       <content type="html" xml:base="/blog/managing-users">&lt;p&gt;Ghost has a number of different user roles for your team&lt;/p&gt;
 &lt;h3 id=&quot;authors&quot;&gt;Authors&lt;/h3&gt;
