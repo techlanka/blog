@@ -4,7 +4,7 @@ current: post
 cover: assets/images/intel-lab.jpg
 navigation: True
 title: இன்டெல் 9வது ஜென். புரோஸசர்கள் (9th generation processors) அக்டோபரில் அறிமுகம்.
-date: 2018-10-18 10:18:00
+date: 2018-09-18 10:18:00
 tags: software
 class: post-template
 subclass: 'post'
