@@ -44,7 +44,7 @@ permalink: /:title
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
 
-  # gems and other configs
+# gems and other configs
 plugins: [jekyll-paginate, jekyll-feed]
 
 feed:
