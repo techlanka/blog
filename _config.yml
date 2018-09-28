@@ -14,8 +14,8 @@ cover: assets/images/blog-cover-3.jpg
 logo: assets/images/logo3.png
 logo_dark: assets/images/favicon1.png
 favicon: assets/images/favicon1.png
-production_url: https://techlanka.github.io/blog/
-source_url: https://github.com/techlanka/blog/
+production_url: https://jekyller.github.io/jasper2/
+source_url: https://github.com/jekyller/jasper2/
 
 
 # Social info
@@ -24,7 +24,7 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: techlanka_lk # replace by your username
+twitter: techlankaa # replace by your username
 facebook: techlanka # replace by your username
 instagram: techlanka #
 
