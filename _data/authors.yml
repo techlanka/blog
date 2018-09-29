@@ -75,3 +75,18 @@ martin:
   facebook: False
   twitter: False
   cover: False
+  
+  <ul>
+    {% for author in site.data.authors %}
+    <li>
+        {{ author.display_name }}
+    </li>
+    {% endfor %}
+</ul>
+<ul>
+    {% for author in site.data.authors %}
+    <li>
+        {{ author[1].name }}
+    </li>
+    {% endfor %}
+</ul>
