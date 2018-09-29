@@ -85,10 +85,3 @@ martin:
     </li>
     {% endfor %}
 </ul>
-<ul>
-    {% for author in site.data.authors %}
-    <li>
-        {{ author[1].name }}
-    </li>
-    {% endfor %}
-</ul>
