@@ -1,18 +1,14 @@
 ---
 layout: default
-current: author
-title: Author Page
+current: authors
+title: Authors Page
 cover: assets/images/author-profile.png
-class: 'author-template'
+class: 'page-template'
 navigation: True
 label: Author
 logo: 'assets/images/favicon1.png'
 ---
-<!-- < default}} -->
-<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
 
-<!-- #author  -->
-<!-- Everything inside the #author tags pulls data from the author -->
 <ul>
 {% for authors in site.data.authors %}
   <li>
