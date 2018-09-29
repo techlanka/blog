@@ -1472,7 +1472,7 @@ Usage (In Ghost editor):
     transform: rotate(90deg);
 }
 
-.floating-header-share-wa
+.floating-header-share-wa,
 .floating-header-share-tw,
 .floating-header-share-fb {
     display: block;
@@ -1485,12 +1485,13 @@ Usage (In Ghost editor):
     transition: all 500ms cubic-bezier(0.19, 1, 0.22, 1);
 }
 
+.floating-header-share-wa {
+    background: #00c53f;
+}
 .floating-header-share-tw {
     background: #33b1ff;
 }
-.floating-header-share-wa {
-    background: #00c53f
-}
+
 .floating-header-share-fb {
     background: #005e99;
 }
@@ -1546,9 +1547,9 @@ Usage (In Ghost editor):
     .floating-header-logo {
         font-size: 1.5rem;
     }
+    .floating-header-share-wa,
     .floating-header-share-tw,
-    .floating-header-share-fb,
-    .floating-header-share-wa {
+    .floating-header-share-fb {
         width: 40px;
         height: 40px;
         line-height: 38px;
