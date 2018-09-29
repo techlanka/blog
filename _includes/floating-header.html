@@ -14,7 +14,7 @@
         <a class="floating-header-share-tw" href="https://wa.me/?text={{ site.production_url }}{{ page.url | remove_first: '/' }}"
             onclick="window.open(this.href, 'share-whatsapp', 'width=550,height=235');return false;">
             {% include instagram.html %}
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}"
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text={{ site.production_url }}{{ page.url | remove_first: '/' }}"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             {% include twitter.html %}
         </a>
