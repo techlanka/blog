@@ -1487,7 +1487,9 @@ Usage (In Ghost editor):
 .floating-header-share-tw {
     background: #33b1ff;
 }
-
+.floating-header-share-wa {
+    background: #00c53f
+        
 .floating-header-share-fb {
     background: #005e99;
 }
