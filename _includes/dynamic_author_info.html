@@ -1,7 +1,0 @@
-<!-- dynamically loading backgrounds for tags,  descriptions and page titles -->
-{% for author in site.data.authors %}
-    {% if page.url contains author[1].username %}
-        {% assign cover = author[1].cover %}
-        {% assign authors_location = author[1].location %}
-    {% endif %}
-{% endfor %}
