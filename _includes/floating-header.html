@@ -11,7 +11,7 @@
     <div class="floating-header-title">{{ page.title }}</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Share it on {% include point.html %}</div>
-        <a class="floating-header-share-tw" href="https://wa.me/?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}"
+        <a class="floating-header-share-tw" href="https://wa.me/?link={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}"
             onclick="window.open(this.href, 'share-whatsapp', 'width=550,height=235');return false;">
             {% include instagram.html %}
         <a class="floating-header-share-tw" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}"
