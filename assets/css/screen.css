@@ -1472,9 +1472,9 @@ Usage (In Ghost editor):
     transform: rotate(90deg);
 }
 
+.floating-header-share-wa
 .floating-header-share-tw,
-.floating-header-share-fb
-.floating-header-share-wa {
+.floating-header-share-fb {
     display: block;
     align-items: center;
     width: 60px;
@@ -1490,7 +1490,7 @@ Usage (In Ghost editor):
 }
 .floating-header-share-wa {
     background: #00c53f
-        
+}
 .floating-header-share-fb {
     background: #005e99;
 }
