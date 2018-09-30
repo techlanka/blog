@@ -22,4 +22,9 @@
         {% include navigation.html %}
         {% endif %}
     </div>
+     <div
+          {% if site.subscribers %}
+            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+        {% endif %}
+    </div>
 </nav>
