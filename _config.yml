@@ -1,7 +1,7 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 10 # it will paginate after this number
+paginate: 50 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -19,7 +19,6 @@ source_url: https://github.com/jekyller/jasper2/
 
 
 # Social info
-home: home.html
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
