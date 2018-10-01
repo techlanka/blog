@@ -32,13 +32,13 @@ social-media:
   cover: assets/images/speeches.jpg
 tips-&-tricks:
   name: tips-&-tricks
-  description: You can find all Tips & Tricks articles here.
+  description: இப்பகுதியில் தொழிநுட்ப Tips & Tricks சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/speeches.jpg
 reviews:
   name: reviews
-  description: You can find all products & Services reviews here.
+  description: இப்பகுதியில் தொழிநுட்ப சாதனங்களின் reviews சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/speeches.jpg
 security:
   name: security
-  description: You can find all Security related articles here.
+  description: இப்பகுதியில் Security சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/security.jpg
