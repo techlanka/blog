@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
-  <link href="/blog/author/imran/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2018-10-01T11:21:55+03:00</updated>
-  <id>/blog/author/imran/feed.xml</id>
+  <link href="/author/imran/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2018-10-01T13:19:37+03:00</updated>
+  <id>/author/imran/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">இன்டெல் 9வது ஜென். புரோஸசர்கள் (9th generation processors) அக்டோபரில் அறிமுகம்.</title>
-      <link href="/blog/launching-9th-generation-processors" rel="alternate" type="text/html" title="இன்டெல் 9வது ஜென். புரோஸசர்கள் (9th generation processors) அக்டோபரில் அறிமுகம்." />
+      <link href="/launching-9th-generation-processors" rel="alternate" type="text/html" title="இன்டெல் 9வது ஜென். புரோஸசர்கள் (9th generation processors) அக்டோபரில் அறிமுகம்." />
       <published>2018-09-18T13:18:00+03:00</published>
       <updated>2018-09-18T13:18:00+03:00</updated>
-      <id>/blog/launching-9th-generation-processors</id>
-      <content type="html" xml:base="/blog/launching-9th-generation-processors">&lt;p&gt;Intel launching its 9th generation processors - new Core i9, i7 and i5 processors on October 1st with 8 cores.&lt;/p&gt;
+      <id>/launching-9th-generation-processors</id>
+      <content type="html" xml:base="/launching-9th-generation-processors">&lt;p&gt;Intel launching its 9th generation processors - new Core i9, i7 and i5 processors on October 1st with 8 cores.&lt;/p&gt;
 
 &lt;p&gt;இன்டெல் நிறுவத்தின், 8 கோர்களால் ஆன‌ புதிய புரோஸசர்களான‌ கோர் i9, i7 மற்றும் i5 (new Core i9, i7 and i5 processors on October 1st with 8 cores) அக்டோபர் 1 ஆம் தேதி அறிமுகப்படுத்தப்பட‌ உள்ளன‌. இவை அனைத்தும் 9வது தலைமுறை புரோசசர்களாக‌ வெளியாகவுள்ளன.&lt;/p&gt;
 
@@ -87,11 +87,11 @@
   
     <entry>
       <title type="html">தமிழில் ஒரு டெஸ்ட்</title>
-      <link href="/blog/test-for" rel="alternate" type="text/html" title="தமிழில் ஒரு டெஸ்ட்" />
+      <link href="/test-for" rel="alternate" type="text/html" title="தமிழில் ஒரு டெஸ்ட்" />
       <published>2017-07-27T13:00:00+03:00</published>
       <updated>2017-07-27T13:00:00+03:00</updated>
-      <id>/blog/test-for-</id>
-      <content type="html" xml:base="/blog/test-for">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+      <id>/test-for-</id>
+      <content type="html" xml:base="/test-for">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
@@ -136,11 +136,11 @@
   
     <entry>
       <title type="html">I Have a Dream</title>
-      <link href="/blog/i-have-a-dream" rel="alternate" type="text/html" title="I Have a Dream" />
+      <link href="/i-have-a-dream" rel="alternate" type="text/html" title="I Have a Dream" />
       <published>1963-08-28T13:18:00+03:00</published>
       <updated>1963-08-28T13:18:00+03:00</updated>
-      <id>/blog/i-have-a-dream</id>
-      <content type="html" xml:base="/blog/i-have-a-dream">&lt;p&gt;I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.&lt;/p&gt;
+      <id>/i-have-a-dream</id>
+      <content type="html" xml:base="/i-have-a-dream">&lt;p&gt;I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.&lt;/p&gt;
 
 &lt;p&gt;Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity.&lt;/p&gt;
 

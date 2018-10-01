@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
-  <link href="/blog/tag/android/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2018-10-01T11:21:55+03:00</updated>
-  <id>/blog/tag/android/feed.xml</id>
+  <link href="/tag/android/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2018-10-01T13:19:37+03:00</updated>
+  <id>/tag/android/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">தமிழில் ஒரு டெஸ்ட்</title>
-      <link href="/blog/test-for" rel="alternate" type="text/html" title="தமிழில் ஒரு டெஸ்ட்" />
+      <link href="/test-for" rel="alternate" type="text/html" title="தமிழில் ஒரு டெஸ்ட்" />
       <published>2017-07-27T13:00:00+03:00</published>
       <updated>2017-07-27T13:00:00+03:00</updated>
-      <id>/blog/test-for-</id>
-      <content type="html" xml:base="/blog/test-for">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+      <id>/test-for-</id>
+      <content type="html" xml:base="/test-for">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
@@ -94,11 +94,11 @@
   
     <entry>
       <title type="html">Making your site private</title>
-      <link href="/blog/private-sites" rel="alternate" type="text/html" title="Making your site private" />
+      <link href="/private-sites" rel="alternate" type="text/html" title="Making your site private" />
       <published>2017-07-27T09:00:00+03:00</published>
       <updated>2017-07-27T09:00:00+03:00</updated>
-      <id>/blog/private-sites</id>
-      <content type="html" xml:base="/blog/private-sites">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
+      <id>/private-sites</id>
+      <content type="html" xml:base="/private-sites">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
 &lt;p&gt;If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
 &lt;p&gt;You can toggle this preference on at the bottom of Ghost's General Settings&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot;&gt;&lt;/p&gt;
