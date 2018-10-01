@@ -1,6 +1,6 @@
 google:
   name: google
-  description: You can find all Google related articles here.
+  description: இப்பகுதியில் Google சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/google.jpg
 microsoft:
   name: microsoft
