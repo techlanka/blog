@@ -5,7 +5,7 @@ paginate: 10 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog/
+baseurl: /
 
 # Website info
 title: techlanka.lk | எளிய தமிழில் தொழிநுட்ப செய்திகள்
