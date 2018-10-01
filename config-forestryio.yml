@@ -19,7 +19,7 @@ facebook: techlanka
 instagram: techlanka
 disqus: false
 disqus_shortname: techlanka-github-io
-google_analytics: UA-69281367-1
+google_analytics: UA-69281367-2
 permalink: "/:title"
 plugins:
 - jekyll-paginate
