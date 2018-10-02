@@ -385,7 +385,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    margin: 0 20px 0px;
+    margin: 0 20px 40px;
     min-height: 300px;
     background: #fff center center;
     background-size: cover;
@@ -928,7 +928,7 @@ Usage (In Ghost editor):
 .post-full-content h6 {
     margin: 0.5em 0 0.2em 0;
     font-size: 2.3rem;
-    font-weight: 300;
+    font-weight: 700;
 }
 @media (max-width: 500px) {
     .post-full-content h6 {
