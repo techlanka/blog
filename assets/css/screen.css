@@ -928,7 +928,7 @@ Usage (In Ghost editor):
 .post-full-content h6 {
     margin: 0.5em 0 0.2em 0;
     font-size: 2.3rem;
-    font-weight: 700;
+    font-weight: 300;
 }
 @media (max-width: 500px) {
     .post-full-content h6 {
