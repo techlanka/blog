@@ -1,44 +1,44 @@
 google:
   name: google
-  description: You can find all Google related articles here.
+  description: இப்பகுதியில் Google சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/google.jpg
 microsoft:
   name: microsoft
-  description: You can find all Microsoft related articles here.
+  description: இப்பகுதியில் Microsoft சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/microsoft.jpeg
 android:
   name: android
-  description: You can find all Android related articles here.
+  description: இப்பகுதியில் Android சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/android.jpg
 software:
   name: software
-  description: You can find all Software related articles here.
+  description: இப்பகுதியில் மென்பொருள் சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/programming.jpg
 gaming:
   name: gaming
-  description: You can find all Gaming related articles here.
+  description: இப்பகுதியில் Gaming சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/gaming.png
-artificial intelligence:
-  name: artificial intelligence
-  description: You can find all Artificial Intelligence (AI) related articles here.
+artificial-intelligence:
+  name: artificial-intelligence
+  description: இப்பகுதியில் AI சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/intelligence.jpeg
 apple:
   name: apple
-  description: You can find all Apple related articles here.
+  description: இப்பகுதியில் Apple சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/apple.jpg
-social media:
-  name: social media
-  description: You can find all Social Media related articles here.
+social-media:
+  name: social-media
+  description: இப்பகுதியில் Social Media சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/speeches.jpg
-tips & tricks:
-  name: tips & tricks
-  description: You can find all Tips & Tricks articles here.
+tips-&-tricks:
+  name: tips-&-tricks
+  description: இப்பகுதியில் தொழிநுட்ப Tips & Tricks சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/speeches.jpg
 reviews:
   name: reviews
-  description: You can find all products & Services reviews here.
+  description: இப்பகுதியில் தொழிநுட்ப சாதனங்களின் reviews சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/speeches.jpg
 security:
   name: security
-  description: You can find all Security related articles here.
+  description: இப்பகுதியில் Security சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/security.jpg

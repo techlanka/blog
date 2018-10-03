@@ -1,15 +1,15 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 10 # it will paginate after this number
+paginate: 50 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog/
+baseurl: /
 
 # Website info
 title: techlanka.lk | எளிய தமிழில் தொழிநுட்ப செய்திகள்
-description: Tamil Blog for Latest Technology News
+description: Latest Technology based news in Tamil
 cover: assets/images/blog-cover-3.jpg
 logo: assets/images/logo3.png
 logo_dark: assets/images/favicon1.png
@@ -19,7 +19,6 @@ source_url: https://github.com/jekyller/jasper2/
 
 
 # Social info
-home: home.html
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
@@ -34,7 +33,7 @@ disqus: False
 disqus_shortname: techlanka-github-io # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-109601699-2 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
