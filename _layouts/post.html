@@ -12,7 +12,7 @@ into the {body} of the default.hbs template -->
 
 <header class="site-header outer">
     <div class="inner">
-        {% include site-nav.html %}
+        {% include site-nav-for-tag.html %}
     </div>
 </header>
 
@@ -71,7 +71,7 @@ into the {body} of the default.hbs template -->
                             </section>
                         </section>
                         <div class="post-full-footer-right">
-                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Read More</a>
+                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">View Profile</a>
                         </div>
                     {% endif %}
                 {% endfor %}
