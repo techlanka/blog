@@ -540,7 +540,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-template .site-main,
 .page-template .site-main {
     padding-bottom: 4vw;
-    background: #dfdfdf;
+    background: #fff;
 }
 
 .post-full {
