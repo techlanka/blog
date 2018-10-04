@@ -5,7 +5,7 @@ navigation: True
 title: Delegate the domain to Another Name Server
 date: 2018-09-06 10:00:40
 cover: assets/images/tags.jpg
-tags: [Getting started]
+tags: [Tips & Tricks]
 class: post-template
 subclass: 'post tag-tips & tricks'
 author: mirshad
