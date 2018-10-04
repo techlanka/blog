@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/tag/tips-&-tricks/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-10-03T18:19:44+03:00</updated>
+  <updated>2018-10-04T07:19:02+00:00</updated>
   <id>/tag/tips-&amp;-tricks/feed.xml</id>
 
   
@@ -44,53 +44,54 @@
 
   
     <entry>
-      <title type="html">Using the Ghost editor</title>
-      <link href="/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" />
-      <published>2017-07-27T12:00:00+03:00</published>
-      <updated>2017-07-27T12:00:00+03:00</updated>
-      <id>/the-editor</id>
-      <content type="html" xml:base="/the-editor">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
-&lt;p&gt;When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.&lt;/p&gt;
-&lt;p&gt;At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a &lt;strong&gt;?&lt;/strong&gt; icon, which contains more advanced shortcuts.&lt;/p&gt;
-&lt;p&gt;For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used.&lt;/p&gt;
-&lt;h2 id=&quot;formattingtext&quot;&gt;Formatting text&lt;/h2&gt;
-&lt;p&gt;The most common shortcuts are of course, &lt;strong&gt;bold&lt;/strong&gt; text, &lt;em&gt;italic&lt;/em&gt; text, and &lt;a href=&quot;https://example.com&quot;&gt;hyperlinks&lt;/a&gt;. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;CMD/Ctrl + B&lt;/code&gt; for Bold&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;CMD/Ctrl + I&lt;/code&gt; for Italic&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;CMD/Ctrl + K&lt;/code&gt; for a Link&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;CMD/Ctrl + H&lt;/code&gt; for a Heading (Press multiple times for h2/h3/h4/etc)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story.&lt;/p&gt;
-&lt;h2 id=&quot;insertingimages&quot;&gt;Inserting images&lt;/h2&gt;
-&lt;p&gt;Images in Markdown look just the same as links, except they're prefixed with an exclamation mark, like this:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;![Image description](/path/to/image.jpg)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/computer.jpg&quot; alt=&quot;Computer&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Important Note:&lt;/strong&gt; Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files &lt;strong&gt;before&lt;/strong&gt; uploading them to Ghost.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;makinglists&quot;&gt;Making lists&lt;/h2&gt;
-&lt;p&gt;Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use &lt;code&gt;*&lt;/code&gt; or &lt;code&gt;-&lt;/code&gt; or &lt;code&gt;+&lt;/code&gt;. Like this:&lt;/p&gt;
+      <title type="html">Delegate the domain to Another Name Server</title>
+      <link href="/MX-Delegate-the-domain-to-Another-NameServer" rel="alternate" type="text/html" title="Delegate the domain to Another Name Server" />
+      <published>2018-09-06T10:00:40+00:00</published>
+      <updated>2018-09-06T10:00:40+00:00</updated>
+      <id>/MX-Delegate-the-domain-to-Another-NameServer</id>
+      <content type="html" xml:base="/MX-Delegate-the-domain-to-Another-NameServer">&lt;h2 id=&quot;you-can-delegate-your-lk-domain-to-any-other-name-server-and-take-control-of-your-dns-to-do-this-you-need-to-go-to-the-domain-settings-on-domainslk-site-and-select-the-type-you-need-to-add-to-name-serverchange-the-dns-server-that-supports-the-domainchanging-this-will-result-in-deleting-all-your-existing-resource-records&quot;&gt;You can delegate your LK domain to any other Name server and take control of your DNS. To do this, you need to go to the domain settings on domains.lk site and ‘select the type you need to add’ to Name Server.change the DNS server that supports the domain.(Changing this will result in deleting all your existing Resource Records).&lt;/h2&gt;
+
+&lt;h4 id=&quot;you-can-choose-any-of-the-name-server-providers-some-best-known-providers-are-listed-below&quot;&gt;You can choose any of the Name Server Providers, some best known providers are listed below.&lt;/h4&gt;
+
+&lt;p&gt;Cloudflare
+ClouDNS
+DNSMadeEasy
+Dyn
+Route53
+UltraDNS
+Verisign
+Zoho&lt;/p&gt;
+
+&lt;h4 id=&quot;after-delegating-the-domain&quot;&gt;After delegating the domain:&lt;/h4&gt;
+
+&lt;p&gt;You can manage your domain’s DNS records in your NS service providers DNS editor.
+Primary DNS server – “dns1.techlanka.lk.” (The dot in the end is NOT a mistake
+Secondary DNS server – “dns2.techlanka.lk.” 
+Important:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Crack the eggs over a bowl&lt;/li&gt;
-&lt;li&gt;Whisk them together&lt;/li&gt;
-&lt;li&gt;Make an omellete&lt;/li&gt;
+  &lt;li&gt;There’s no compulsory to add more than one DNS server, it depends on your Domain provider.&lt;/li&gt;
+  &lt;li&gt;If the delegation settings have a field for entering the IP addresses, leave them empty.&lt;/li&gt;
+  &lt;li&gt;Wait for the changes to take effect in the DNS (this may take up to 24 hours)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;or&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Remember to buy milk&lt;/li&gt;
-&lt;li&gt;Feed the cat&lt;/li&gt;
-&lt;li&gt;Come up with idea for next story&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;addingquotes&quot;&gt;Adding quotes&lt;/h2&gt;
-&lt;p&gt;When you want to pull out a particularly good except in the middle of a piece, you can use &lt;code&gt;&amp;gt;&lt;/code&gt; at the beginning of a paragraph to turn it into a Blockquote. You might've seen this formatting before in email clients.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A well placed quote guides a reader through a story, helping them to understand the most important points being made&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;All themes handles blockquotes slightly differently. Sometimes they'll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly.&lt;/p&gt;
-&lt;h2 id=&quot;dividingthingsup&quot;&gt;Dividing things up&lt;/h2&gt;
-&lt;p&gt;If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping &lt;code&gt;---&lt;/code&gt; on a new line will create a sleak divider, anywhere you want it.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the &lt;a href=&quot;/advanced-markdown/&quot;&gt;Advanced Markdown Guide&lt;/a&gt; - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of &lt;a href=&quot;/using-tags/&quot;&gt;how to use Ghost tags&lt;/a&gt;.&lt;/p&gt;</content>
+
+&lt;h4 id=&quot;create-a-cname-record-with-specific-content-to-lk-domain&quot;&gt;Create a CNAME record with specific content to LK domain&lt;/h4&gt;
+
+&lt;p&gt;In LK domain control panel the way of adding CNAMEs is quite different,
+For example, instead of adding the host @ in the Name field, you need yo add ‘techlanka.lk.’ 
+same applies for when you add www it should be as ‘www.techlanka.lk.’
+Create a new CNAME record with the following field values (the field names may differ for different control panels):&lt;/p&gt;
+
+&lt;p&gt;Name – A sub-domain of your domain with the same name as the string shown on the confirmation page.&lt;/p&gt;
+
+&lt;p&gt;For example, the confirmation page shows the string “yamail-123456abcdef”, and you want to confirm the domain “techlanka.lk”. In this case, you should set the CNAME record like this,:
+“yamail-123456abcdef.techlanka.lk.” (with a dot at the end).
+In some control panels, the dot at the end is added automatically, or you don’t need to enter the name of the domain being confirmed. In this case you have adda a dot manually for LK domains.&lt;/p&gt;
+
+&lt;p&gt;Value –
+“mail.techlanka.lk.” 
+The dot at the end of the server name is required for LK Domain.&lt;/p&gt;
+
+&lt;p&gt;To check the CNAME record, click the domain again in the list of domains, then click Check. Keep in mind that it may take up to 24 hours for DNS changes to take effect.&lt;/p&gt;</content>
 
       
       
@@ -107,11 +108,11 @@
       
 
       
-        <category term="tips &amp; tricks" />
+        <category term="Tips &amp; Tricks" />
       
 
       
-        <summary type="html">Ghost uses a language called Markdown to format text. When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause. At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a ? icon, which contains more advanced shortcuts. For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used. Formatting text The most common shortcuts are of course, bold text, italic text, and hyperlinks. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts. CMD/Ctrl + B for Bold CMD/Ctrl + I for Italic CMD/Ctrl + K for a Link CMD/Ctrl + H for a Heading (Press multiple times for h2/h3/h4/etc) With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story. Inserting images Images in Markdown look just the same as links, except they're prefixed with an exclamation mark, like this: ![Image description](/path/to/image.jpg) Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown. Important Note: Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files before uploading them to Ghost. Making lists Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use * or - or +. Like this: Crack the eggs over a bowl Whisk them together Make an omellete or Remember to buy milk Feed the cat Come up with idea for next story Adding quotes When you want to pull out a particularly good except in the middle of a piece, you can use &amp;gt; at the beginning of a paragraph to turn it into a Blockquote. You might've seen this formatting before in email clients. A well placed quote guides a reader through a story, helping them to understand the most important points being made All themes handles blockquotes slightly differently. Sometimes they'll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly. Dividing things up If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping --- on a new line will create a sleak divider, anywhere you want it. This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the Advanced Markdown Guide - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of how to use Ghost tags.</summary>
+        <summary type="html">You can delegate your LK domain to any other Name server and take control of your DNS. To do this, you need to go to the domain settings on domains.lk site and ‘select the type you need to add’ to Name Server.change the DNS server that supports the domain.(Changing this will result in deleting all your existing Resource Records).</summary>
       
 
       

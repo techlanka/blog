@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/author/imran/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-10-03T18:19:44+03:00</updated>
+  <updated>2018-10-04T07:19:02+00:00</updated>
   <id>/author/imran/feed.xml</id>
 
   
@@ -46,8 +46,8 @@
     <entry>
       <title type="html">இன்டெல் 9வது ஜென். புரோஸசர்கள் (9th generation processors) அக்டோபரில் அறிமுகம்.</title>
       <link href="/launching-9th-generation-processors" rel="alternate" type="text/html" title="இன்டெல் 9வது ஜென். புரோஸசர்கள் (9th generation processors) அக்டோபரில் அறிமுகம்." />
-      <published>2018-09-18T13:18:00+03:00</published>
-      <updated>2018-09-18T13:18:00+03:00</updated>
+      <published>2018-09-18T10:18:00+00:00</published>
+      <updated>2018-09-18T10:18:00+00:00</updated>
       <id>/launching-9th-generation-processors</id>
       <content type="html" xml:base="/launching-9th-generation-processors">&lt;p&gt;Intel launching its 9th generation processors - new Core i9, i7 and i5 processors on October 1st with 8 cores.&lt;/p&gt;
 
@@ -88,8 +88,8 @@
     <entry>
       <title type="html">தமிழில் ஒரு டெஸ்ட்</title>
       <link href="/test-for" rel="alternate" type="text/html" title="தமிழில் ஒரு டெஸ்ட்" />
-      <published>2017-07-27T13:00:00+03:00</published>
-      <updated>2017-07-27T13:00:00+03:00</updated>
+      <published>2017-07-27T10:00:00+00:00</published>
+      <updated>2017-07-27T10:00:00+00:00</updated>
       <id>/test-for-</id>
       <content type="html" xml:base="/test-for">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
@@ -137,8 +137,8 @@
     <entry>
       <title type="html">I Have a Dream</title>
       <link href="/i-have-a-dream" rel="alternate" type="text/html" title="I Have a Dream" />
-      <published>1963-08-28T13:18:00+03:00</published>
-      <updated>1963-08-28T13:18:00+03:00</updated>
+      <published>1963-08-28T10:18:00+00:00</published>
+      <updated>1963-08-28T10:18:00+00:00</updated>
       <id>/i-have-a-dream</id>
       <content type="html" xml:base="/i-have-a-dream">&lt;p&gt;I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.&lt;/p&gt;
 

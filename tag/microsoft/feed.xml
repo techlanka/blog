@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/tag/microsoft/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-10-03T18:19:44+03:00</updated>
+  <updated>2018-10-04T07:19:02+00:00</updated>
   <id>/tag/microsoft/feed.xml</id>
 
   
@@ -46,8 +46,8 @@
     <entry>
       <title type="html">Setting up your own Ghost theme</title>
       <link href="/themes" rel="alternate" type="text/html" title="Setting up your own Ghost theme" />
-      <published>2017-07-27T07:00:00+03:00</published>
-      <updated>2017-07-27T07:00:00+03:00</updated>
+      <published>2017-07-27T04:00:00+00:00</published>
+      <updated>2017-07-27T04:00:00+00:00</updated>
       <id>/themes</id>
       <content type="html" xml:base="/themes">&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
 &lt;p&gt;Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.&lt;/p&gt;

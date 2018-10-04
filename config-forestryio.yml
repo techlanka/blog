@@ -50,4 +50,4 @@ exclude:
 - changelog.md
 - "*.Rmd"
 - ".git*"
-timezone: Asia/Kuwait
+timezone: Etc/UTC
