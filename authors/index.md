@@ -14,6 +14,7 @@ techlanka.lk தனது இணையத்தளத்திட்கு உ�
 
 ###### துவக்கம் மற்றும் மொழிபெயர்ப்பிக்கான வழிமுறை
 
+
 1. Request for an Author Account
 2. Add to Chrome as Extension [Tamil Typing tool](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) or [Online Tool](https://www.google.com/intl/ta/inputtools/try/) to use it online
 
