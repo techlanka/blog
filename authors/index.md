@@ -15,6 +15,9 @@ techlanka.lk தனது இணையத்தளத்திட்கு உ�
 ###### துவக்கம் மற்றும் மொழிபெயர்ப்பிக்கான வழிமுறை
 
 
-*. உங்களுக்கான Author Account ஒன்றை பெற்றுக்கொள்ளல்.
-*. techlanka.lk மூலமாக free email ID ஒன்றை பெற்றுக்கொள்ளல்.
-*. Add to Chrome as Extension [Tamil Typing tool](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) or [Online Tool](https://www.google.com/intl/ta/inputtools/try/) to use it online
+1. உங்களுக்கான Author Account ஒன்றை பெற்றுக்கொள்ளல்.
+
+2. techlanka.lk மூலமாக free email ID ஒன்றை பெற்றுக்கொள்ளல்.
+
+3. Add to Chrome as Extension [Tamil Typing tool](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) or [Online Tool](https://www.google.com/intl/ta/inputtools/try/) to use it online
+
