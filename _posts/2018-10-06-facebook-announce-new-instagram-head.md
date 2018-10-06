@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: 'assets/images/Adam-Mosseri.jpg'
 navigation: True
-title: இன்ஸ்டாகிராமின் புதிய தலைவராக ஆதாம் முசேரி தேர்வு!
+title: Instagramமின் புதிய தலைவராக Adam Mosseri தேர்வு!
 date: 2018-10-06 18:30:00
 tags: [Social media]
 class: post-template
