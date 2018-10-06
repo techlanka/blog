@@ -37,6 +37,8 @@ techlanka.lk தனது இணையத்தளத்திட்கு உ�
 
 <center><button class="subscribe-email" type="submit" enabled><a href="MAiLtO:authors@techlanka.lk?subject=Invitation%20request%20for%20an%20Author%20account&amp;body=Hi%2C%0A%0AI%20would%20like%20to%20be%20a%20part%20of%20the%20Techlanka.LK%20team.%0A%0AName%3A%20%5BName%5D%0AAddress%3A%20%5BAddress%5D%0AContact%20No%3A%20%5BPhone%5D%0A%0A%5BRemarks%5D%0A%0A" target="_blank" rel="noopener"><span>Request an Invitation </span></a></button></center>
 
+
+
 கீழ்காணும் source linkகலை technews தகவல்கள் பெற்றுக்கொள்ள உபயோகப்படுத்தலாம்.
 
     https://www.theverge.com/tech
