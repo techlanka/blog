@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/Adam-Mosseri.jpg'
+cover: 'assets/images/Adam-Mosseri.jpeg'
 navigation: True
 title: Instagramமின் புதிய தலைவராக Adam Mosseri தேர்வு!
 date: 2018-10-06 18:30:00
