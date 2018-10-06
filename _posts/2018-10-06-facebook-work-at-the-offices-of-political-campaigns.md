@@ -5,7 +5,7 @@ cover: assets/images/fa-politics.png
 navigation: True
 title: அரசியல் பிரச்சாரங்களிலிருந்து விலகுவதாக பேஸ்புக் அறிவிப்பு
 date: 2018-10-06 18:03:00
-tags: [Social Media]
+tags: [Social media]
 class: post-template
 subclass: 'post tag-speeches'
 author: mirshad
