@@ -11,6 +11,7 @@ subclass: 'post tag-speeches'
 author: mirshad
 ---
 
+The social network used to offer dedicated staff to political campaigns to help them develop their online advertising campaigns.
 முன்னர் ஒன்லைன் பிரச்சாரங்களில் சமூக வலைத்தளங்கள் பரவலாகப் பயன்படுத்தப்பட்டிருந்தது.
 
 டோனால்ட் ரம்பின் டிஜிட்டல் இயக்குனர், 2016 இல் நடைபெற்ற தேர்தலில் அவரின் வெற்றிக்கு பேஸ்புக் பெரிதும் துணைநின்றதாக செய்தி வெளியிட்டிருந்தார்.
