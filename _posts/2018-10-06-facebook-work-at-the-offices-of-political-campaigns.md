@@ -7,7 +7,7 @@ title: அரசியல் பிரச்சாரங்களிலிரு
 date: 2018-10-06 18:03:00
 tags: [Social media]
 class: post-template
-subclass: 'post tag-speeches'
+subclass: 'post tag-social-media'
 author: mirshad
 ---
 
