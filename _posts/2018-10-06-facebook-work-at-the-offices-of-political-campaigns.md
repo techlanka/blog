@@ -4,13 +4,12 @@ current: post
 cover: 'assets/images/fa-politics.png'
 navigation: True
 title: அரசியல் பிரச்சாரங்களிலிருந்து விலகுவதாக பேஸ்புக் அறிவிப்பு
-date: 2018-10-06 18:03:00
+date: 2018-10-05 18:03:00
 tags: [Social media]
 class: post-template
 subclass: 'post'
 author: mirshad
 ---
-
 The social network used to offer dedicated staff to political campaigns to help them develop their online advertising campaigns.
 
 முன்னர் ஒன்லைன் பிரச்சாரங்களில் சமூக வலைத்தளங்கள் பரவலாகப் பயன்படுத்தப்பட்டிருந்தது.
