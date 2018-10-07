@@ -42,3 +42,7 @@ security:
   name: security
   description: இப்பகுதியில் Security சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/security.jpg
+mobiles:
+  name: mobiles
+  description: இப்பகுதியில் Mobiles சம்பந்தமான postகலை காணலாம்.
+  cover: assers/images/android.jpg
