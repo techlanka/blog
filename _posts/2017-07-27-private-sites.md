@@ -7,7 +7,6 @@ title: பொதுத்தன்மைகள் நிறைந்த நப�
 date: 2018-07-25 13:03:00
 tags: [Social media]
 class: post-template
-subclass: 'post'
 author: imran
 ---
 Facebook test on making new friends who have mutual tastes.

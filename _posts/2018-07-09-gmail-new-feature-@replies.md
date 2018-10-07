@@ -7,9 +7,7 @@ title: ஜிமெயிலிலும் இப்போது @ உடன்
 date: 2018-08-24 13:18:00 +0000
 tags: google
 class: post-template
-subclass: 'post'
 author: mirshad
-
 ---
 Now Gmail lets you ‘@’ mention people to link them with their email ID in email's body.
 

@@ -7,7 +7,6 @@ title: வேடிக்கையான டுவீட் பதில்க�
 date: 2018-09-17 12:18:00
 tags: [Social media]
 class: post-template
-subclass: 'post'
 author: mirshad
 ---
 Look these funny Twitter responses for a user who killed mosquito and posted it on twitter.

@@ -7,13 +7,9 @@ date: 2018-09-06 10:00:40
 cover: assets/images/tags.jpg
 tags: [Tips & Tricks]
 class: post-template
-subclass: 'post tag-tips & tricks'
 author: mirshad
 ---
-
-
 You can delegate your LK domain to any other Name server and take control of your DNS. To do this, you need to go to the domain settings on domains.lk site and 'select the type you need to add' to Name Server.change the DNS server that supports the domain.(Changing this will result in deleting all your existing Resource Records).
----
 
 #### You can choose any of the Name Server Providers, some best known providers are listed below.
 

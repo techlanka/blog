@@ -7,7 +7,6 @@ title: அலெக்சாவுடன் தமிழில் பேசல�
 date: 2018-09-18 10:40:00
 tags: [Artificial intelligence]
 class: post-template
-subclass: 'post'
 author: mirshad
 ---
 
