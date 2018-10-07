@@ -5,9 +5,8 @@ cover: assets/images/world_bank_president_famine_twitter.jpg
 navigation: True
 title: உணவுத் தட்டுப்பாடை நீக்க அமேசான், மைக்ரோசாப்ட், கூகுள் கைக்கோர்ப்பு!
 date: 2018-10-07 14:30:00
-tags: 
+tags: mobiles
 class: post-template
-subclass: 'post'
 author: mirshad
 ---
 Tech giants Microsoft, Amazon, and Google are joining forces with international organisations to help identify and head off famines in developing nations using data analysis and artificial intelligence, a new initiative unveiled Sunday.
