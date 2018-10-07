@@ -7,7 +7,7 @@ title: உணவுத் தட்டுப்பாடை நீக்க Amaz
 date: 2018-10-07 14:30:00 +0000
 tags:
 - microsoft
-- social media
+- Social media
 class: post-template
 author: mirshad
 
