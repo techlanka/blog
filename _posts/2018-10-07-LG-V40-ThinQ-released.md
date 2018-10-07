@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/lg-v40-thinq.jpg
 navigation: True
-title:  Notch Display மற்றும் 5 Cameraகளுடன் வெளியானது LG V40 ThinQ.
+title: Notch Display மற்றும் 5 Cameraகளுடன் வெளியானது LG V40 ThinQ.
 date: 2018-10-07 12:05:00
 tags: mobiles
 class: post-template
