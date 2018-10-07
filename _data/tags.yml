@@ -25,7 +25,7 @@ artificial-intelligence:
 apple:
   name: apple
   description: இப்பகுதியில் Apple சம்பந்தமான postகலை காணலாம்.
-  cover: assets/images/apple.jpg
+  cover: assets/images/apple.png
 social-media:
   name: social-media
   description: இப்பகுதியில் Social Media சம்பந்தமான postகலை காணலாம்.
