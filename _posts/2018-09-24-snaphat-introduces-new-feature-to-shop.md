@@ -7,7 +7,6 @@ title: SnapChatடில் Amazon ஷாப்பிங்! புதிய வ
 date: 2018-09-24 10:05:00
 tags: [Social media]
 class: post-template
-subclass: 'post'
 author: imran
 ---
 

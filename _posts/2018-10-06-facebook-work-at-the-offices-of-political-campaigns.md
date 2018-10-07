@@ -7,7 +7,6 @@ title: அரசியல் பிரச்சாரங்களிலிரு
 date: 2018-10-05 18:03:00
 tags: [Social media]
 class: post-template
-subclass: 'post'
 author: mirshad
 ---
 The social network used to offer dedicated staff to political campaigns to help them develop their online advertising campaigns.
