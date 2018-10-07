@@ -5,7 +5,7 @@ cover: 'assets/images/facebook-meetup.png'
 navigation: True
 title: பொதுத்தன்மைகள் நிறைந்த நபர்களை நண்பர்களாக்க ஃபேஸ்புக் புதிய சோதனை
 date: 2018-07-25 13:03:00
-tags: [Social media]
+tags: security
 class: post-template
 author: imran
 ---
