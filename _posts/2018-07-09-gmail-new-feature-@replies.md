@@ -7,7 +7,7 @@ title: ஜிமெயிலிலும் இப்போது @ உடன்
 date: 2018-08-24 13:18:00 +0000
 tags: google
 class: post-template
-subclass: post tag-fiction
+subclass: 'post'
 author: mirshad
 
 ---
