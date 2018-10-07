@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/tag/tips-&-tricks/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-10-07T12:23:13+00:00</updated>
+  <updated>2018-10-07T12:29:21+00:00</updated>
   <id>/tag/tips-&amp;-tricks/feed.xml</id>
 
   
@@ -49,7 +49,7 @@
       <published>2018-09-06T10:00:40+00:00</published>
       <updated>2018-09-06T10:00:40+00:00</updated>
       <id>/MX-Delegate-the-domain-to-Another-NameServer</id>
-      <content type="html" xml:base="/MX-Delegate-the-domain-to-Another-NameServer">&lt;h2 id=&quot;you-can-delegate-your-lk-domain-to-any-other-name-server-and-take-control-of-your-dns-to-do-this-you-need-to-go-to-the-domain-settings-on-domainslk-site-and-select-the-type-you-need-to-add-to-name-serverchange-the-dns-server-that-supports-the-domainchanging-this-will-result-in-deleting-all-your-existing-resource-records&quot;&gt;You can delegate your LK domain to any other Name server and take control of your DNS. To do this, you need to go to the domain settings on domains.lk site and ‘select the type you need to add’ to Name Server.change the DNS server that supports the domain.(Changing this will result in deleting all your existing Resource Records).&lt;/h2&gt;
+      <content type="html" xml:base="/MX-Delegate-the-domain-to-Another-NameServer">&lt;p&gt;You can delegate your LK domain to any other Name server and take control of your DNS. To do this, you need to go to the domain settings on domains.lk site and ‘select the type you need to add’ to Name Server.change the DNS server that supports the domain.(Changing this will result in deleting all your existing Resource Records).&lt;/p&gt;
 
 &lt;h4 id=&quot;you-can-choose-any-of-the-name-server-providers-some-best-known-providers-are-listed-below&quot;&gt;You can choose any of the Name Server Providers, some best known providers are listed below.&lt;/h4&gt;
 

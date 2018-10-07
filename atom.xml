@@ -131,7 +131,7 @@
       <item>
         <title>Delegate the domain to Another Name Server</title>
         
-          <description>&lt;h2 id=&quot;you-can-delegate-your-lk-domain-to-any-other-name-server-and-take-control-of-your-dns-to-do-this-you-need-to-go-to-the-domain-settings-on-domainslk-site-and-select-the-type-you-need-to-add-to-name-serverchange-the-dns-server-that-supports-the-domainchanging-this-will-result-in-deleting-all-your-existing-resource-records&quot;&gt;You can delegate your LK domain to any other Name server and take control of your DNS. To do this, you need to go to the domain settings on domains.lk site and ‘select the type you need to add’ to Name Server.change the DNS server that supports the domain.(Changing this will result in deleting all your existing Resource Records).&lt;/h2&gt;
+          <description>&lt;p&gt;You can delegate your LK domain to any other Name server and take control of your DNS. To do this, you need to go to the domain settings on domains.lk site and ‘select the type you need to add’ to Name Server.change the DNS server that supports the domain.(Changing this will result in deleting all your existing Resource Records).&lt;/p&gt;
 
 </description>
         
