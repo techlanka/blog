@@ -9,6 +9,7 @@ tags: android
 class: post-template
 subclass: 'post'
 author: imran
+
 ---
 LG has taken the wraps off the LG V40 ThinQ, revealing a huge phone with a gorgeous 6.4-inch display, all the power you could want, and five camera lenses.
 
