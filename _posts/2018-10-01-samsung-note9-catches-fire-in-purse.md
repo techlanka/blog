@@ -5,7 +5,7 @@ cover: assets/images/note9-fire.jpg
 navigation: True
 title: பெண்ணின் பர்ஸில் பற்றியெரிந்த Samsung Galaxy Note-9
 date: 2018-10-01 19:03:56
-tags: android
+tags: mobiles
 class: post-template
 author: mirshad
 ---
