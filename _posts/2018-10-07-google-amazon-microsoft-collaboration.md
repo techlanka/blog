@@ -6,7 +6,6 @@ navigation: true
 title: உணவுத் தட்டுப்பாடை நீக்க Amazon, Microsoft, Google கைக்கோர்ப்பு!
 date: 2018-10-07 14:30:00 +0000
 tags:
-- microsoft
 - Social media
 class: post-template
 author: mirshad
