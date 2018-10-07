@@ -9,7 +9,7 @@ microsoft:
 android:
   name: android
   description: இப்பகுதியில் Android சம்பந்தமான postகலை காணலாம்.
-  cover: assets/images/android.jpg
+  cover: assets/images/android.jpeg
 software:
   name: software
   description: இப்பகுதியில் மென்பொருள் சம்பந்தமான postகலை காணலாம்.
