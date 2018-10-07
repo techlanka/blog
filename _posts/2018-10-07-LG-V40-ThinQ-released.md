@@ -1,13 +1,13 @@
 ---
 layout: post
 current: post
-cover: assets/images/lg-v40-thinq.jpg
-navigation: true
+cover: 'assets/images/lg-v40-thinq.jpg'
+navigation: True
 title: 5 கேமராக்கள் மற்றும் நாட்ச் டிஸ்பிளேயுடன் வெளியானது LG V40 ThinQ.
 date: 2018-10-07 12:05:00
 tags: [android]
 class: post-template
-subclass: post
+subclass: 'post'
 author: imran
 ---
 LG has taken the wraps off the LG V40 ThinQ, revealing a huge phone with a gorgeous 6.4-inch display, all the power you could want, and five camera lenses.
