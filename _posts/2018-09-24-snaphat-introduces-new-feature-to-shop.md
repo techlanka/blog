@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover :  assets/images/Snap-Inc.jpg
+cover: assets/images/Snap-Inc.jpg
 navigation: True
 title: SnapChatடில் Amazon ஷாப்பிங்! புதிய வசதி அறிமுகம்
 date: 2018-09-24 10:05:00
