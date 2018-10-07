@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/lg-v40-thinq.jpg'
+cover: assets/images/lg-v40-thinq.jpg
 navigation: True
 title: 5 கேமராக்கள் மற்றும் நாட்ச் டிஸ்பிளேயுடன் வெளியானது LG V40 ThinQ.
 date: 2018-10-07 12:05:00
