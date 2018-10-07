@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/iphone-large-screen.jpg
 navigation: True
-title: அதிக ஸ்க்ரீன் ஸ்பேஸ் கொண்ட ஐபோன் வெளியாகிறதா? கசியும் தகவல்கள்!
+title: அதிக Screen Space கொண்ட iPhone வெளியாகிறதா? கசியும் தகவல்கள்!
 date: 2018-07-28 23:03:00
 tags: mobiles
 class: post-template
