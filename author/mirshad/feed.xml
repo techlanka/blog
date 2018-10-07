@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/author/mirshad/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-10-06T16:51:39+00:00</updated>
+  <updated>2018-10-07T07:22:17+00:00</updated>
   <id>/author/mirshad/feed.xml</id>
 
   
@@ -42,6 +42,48 @@
   
   
 
+  
+    <entry>
+      <title type="html">Instagramமின் புதிய தலைவராக Adam Mosseri தேர்வு!</title>
+      <link href="/facebook-announce-new-instagram-head" rel="alternate" type="text/html" title="Instagramமின் புதிய தலைவராக Adam Mosseri தேர்வு!" />
+      <published>2018-10-06T18:30:00+00:00</published>
+      <updated>2018-10-06T18:30:00+00:00</updated>
+      <id>/facebook-announce-new-instagram-head</id>
+      <content type="html" xml:base="/facebook-announce-new-instagram-head">&lt;p&gt;Facebook on Monday announced Adam Mosseri will take over as the head of Instagram.&lt;/p&gt;
+
+&lt;p&gt;பேஸ்புக் நிறுவனத்தில் கடந்த 10 வருடங்களாக பணிபுரிந்து வந்த Adam Mosseriயை, இன்ஸ்டாகிராமின் புதிய தலைவராக பேஸ்புக் நிறுவனம் தேர்ந்தெடுத்துள்ளது.&lt;/p&gt;
+
+&lt;p&gt;கடந்த வாரம் இன்ஸ்டாகிராம் தலைவர் திடீரென தனது பதவியை ராஜினாமா செய்வதாக அறிவித்தார். இதனைத்தொடர்ந்து instagramமின் இணை நிறுவனர் மைக் கிரிஜர், கடந்த திங்களன்று ஆதாம் முசேரியை புதிய தலைவராக தனது நிறுனத்தின் இணைய பக்கத்தில் அறிவித்தார்.&lt;/p&gt;
+
+&lt;p&gt;Adam Mosseri (35) பேஸ்புக் நிறுவனத்தில் டிசைனராக தனது பணியை தொடங்கினார். இந்தப் பதவிக்கு ஆதாம் முசேரி பொருத்தமானவராக இருப்பார் என பேஸ்புக் நிறுவனம் தெரிவித்துள்ளது.&lt;/p&gt;
+
+&lt;p&gt;பேஸ்புக் நிறுவனம் கடந்த 2010 ஆம் ஆண்டு இன்ஸ்டாகிராமினை 1 மில்லியின் டாலருக்கு வாங்கியது. அதுவே பேஸ்புக் நிறுவனம் முதன் முதலில் அதிக விலை கொடுத்து பெற்ற சமூக வலைதளம் என்பது குறிப்பிடத்தக்கது.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Mirshad Makeen</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Social media" />
+      
+
+      
+        <summary type="html">Facebook on Monday announced Adam Mosseri will take over as the head of Instagram.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">அரசியல் பிரச்சாரங்களிலிருந்து விலகுவதாக facebook அறிவிப்பு</title>
@@ -578,82 +620,6 @@ The dot at the end of the server name is required for LK Domain.&lt;/p&gt;
 
       
         <summary type="html">Sometimes you might want to put your site behind closed doors If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase. You can toggle this preference on at the bottom of Ghost's General Settings Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you're working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar. Do remember though, this is not secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for very basic privacy.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Advanced Markdown tips</title>
-      <link href="/advanced-markdown" rel="alternate" type="text/html" title="Advanced Markdown tips" />
-      <published>2017-07-27T05:00:00+00:00</published>
-      <updated>2017-07-27T05:00:00+00:00</updated>
-      <id>/advanced-markdown</id>
-      <content type="html" xml:base="/advanced-markdown">&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
-&lt;p&gt;If you've gotten pretty comfortable with &lt;a href=&quot;/the-editor/&quot;&gt;all the basics&lt;/a&gt; of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-&lt;p&gt;As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.&lt;/p&gt;
-&lt;h2 id=&quot;specialformatting&quot;&gt;Special formatting&lt;/h2&gt;
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;s&gt;strike through&lt;/s&gt;&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;highlight&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;writingcodeblocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using &lt;a href=&quot;http://prismjs.com/&quot;&gt;Prism.js&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;fullbleedimages&quot;&gt;Full bleed images&lt;/h2&gt;
-&lt;p&gt;One neat trick which you can use in Markdown to distinguish between different types of images is to add a &lt;code&gt;#hash&lt;/code&gt; value to the end of the source URL, and then target images containing the hash with special styling. For example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/walking.jpg#full&quot; alt=&quot;walking&quot;&gt;&lt;/p&gt;
-&lt;p&gt;which is styled with...&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;img[src$=&amp;quot;#full&amp;quot;] {
-    max-width: 100vw;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles.&lt;/p&gt;
-&lt;h2 id=&quot;referencelists&quot;&gt;Reference lists&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The quick brown &lt;a href=&quot;https://en.wikipedia.org/wiki/Fox&quot; title=&quot;Wikipedia: Fox&quot;&gt;fox&lt;/a&gt;, jumped over the lazy &lt;a href=&quot;https://en.wikipedia.org/wiki/Dog&quot; title=&quot;Wikipedia: Dog&quot;&gt;dog&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-&lt;h2 id=&quot;creatingfootnotes&quot;&gt;Creating footnotes&lt;/h2&gt;
-&lt;p&gt;The quick brown fox&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; jumped over the lazy dog&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;Footnotes are a great way to add additional contextual details when appropriate. Ghost will automatically add footnote content to the very end of your post.&lt;/p&gt;
-&lt;h2 id=&quot;fullhtml&quot;&gt;Full HTML&lt;/h2&gt;
-&lt;p&gt;Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;hr class=&quot;footnotes-sep&quot;&gt;
-&lt;section class=&quot;footnotes&quot;&gt;
-&lt;ol class=&quot;footnotes-list&quot;&gt;
-&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Foxes are red &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Dogs are usually not red &lt;a href=&quot;#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="security" />
-      
-
-      
-        <summary type="html">There are lots of powerful things you can do with the Ghost editor If you've gotten pretty comfortable with all the basics of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown! As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using. Special formatting As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example: strike through highlight *escaped characters* Writing code blocks There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, like this. Larger snippets of code can be displayed across multiple lines using triple back ticks: .my-link { text-decoration: underline; } If you want to get really fancy, you can even add syntax highlighting using Prism.js. Full bleed images One neat trick which you can use in Markdown to distinguish between different types of images is to add a #hash value to the end of the source URL, and then target images containing the hash with special styling. For example: which is styled with... img[src$=&amp;quot;#full&amp;quot;] { max-width: 100vw; } This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles. Reference lists The quick brown fox, jumped over the lazy dog. Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference. Creating footnotes The quick brown fox[1] jumped over the lazy dog[2]. Footnotes are a great way to add additional contextual details when appropriate. Ghost will automatically add footnote content to the very end of your post. Full HTML Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example: Foxes are red ↩︎ Dogs are usually not red ↩︎</summary>
       
 
       
