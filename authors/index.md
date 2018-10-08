@@ -40,8 +40,11 @@ techlanka.lk தனது இணையத்தளத்திட்கு உ�
 <br>
 கீழ்காணும் source linkகலை technews தகவல்கள் பெற்றுக்கொள்ள உபயோகப்படுத்தலாம்.
 
+    https://news.google.com/
     https://www.theverge.com/tech
+    https://news.softpedia.com/
     https://techcrunch.com/
     https://www.xda-developers.com/
-    https://news.google.com/
-    https://news.softpedia.com/
+    
+    
+    
