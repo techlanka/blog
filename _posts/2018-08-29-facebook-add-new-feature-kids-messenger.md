@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/messenger-for-kids.jpg
+cover: assets/images/messenger-for-kids.jpeg
 navigation: true
 title: சிறுவர்களுக்கான facebook messenger, புதிய அறிமுகம்
 date: 2018-08-29 22:33:00
