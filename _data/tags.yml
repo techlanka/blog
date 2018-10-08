@@ -46,3 +46,7 @@ mobiles:
   name: mobiles
   description: இப்பகுதியில் Mobiles சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/android.jpg
+business:
+  name: business
+  description: இப்பகுதியில் Business சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/business.jpg
