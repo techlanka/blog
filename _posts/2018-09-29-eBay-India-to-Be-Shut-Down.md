@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/ebay-shuts-in-india.jpg
+cover: assets/images/ebay-shuts-in-india.JPG
 navigation: true
 title: மூடப்படும் Ebay India இணையதளம்..புதிய திட்டத்தோடு களமிறங்கும் Flipkart
 date: 2018-09-29 12:33:00
