@@ -37,7 +37,6 @@ techlanka.lk தனது இணையத்தளத்திட்கு உ�
 
 <center><button class="subscribe-email" type="submit" enabled><a href="mailto:authors@techlanka.lk?subject=Invitation%20request%20for%20an%20Author%20account&body=Hi%2C%0AI%20would%20like%20to%20be%20an%20author%20at%20Techlanka.LK%20team.%0A%0AName%3A%20%5BName%20Here%5D%0AAddress%3A%20%5Bie.%20Kandy.LK%5D%0AContact%20No%3A%20%5BWhatsApp%20preferred%5D%0AFacebook%3A%20%5BUsername%5D%0ATwitter%3A%20%5BUsername%5D%0AURL%20%3A%20%5BIf%20available%5D%0A%0AAdd%20a%20Profile%20Picture%20in%20JPG%20or%20PNG%20format." ><span>Request an Invitation </span></a></button></center>
 <br>
-<br>
 கீழ்காணும் source linkகலை technews தகவல்கள் பெற்றுக்கொள்ள உபயோகப்படுத்தலாம்.
 
     https://news.google.com/
