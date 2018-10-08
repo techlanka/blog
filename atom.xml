@@ -158,20 +158,6 @@
     
       
       <item>
-        <title>Configure Unicenta oPOS with MySQL Database Server.</title>
-        
-          <description>&lt;p&gt;Unicenta’s default configuration when freshly installed is set to use the Derby Database Server. A database server embedded inside of Unicenta. This is only good for testing and experimental purposes. But when you’re ready to deploy your Unicenta box, you should be using it with an external Database Server like MySQL.&lt;/p&gt;
-</description>
-        
-        <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
-        <link>
-        /configuring-unicenta-pos-mysql-database</link>
-        <guid isPermaLink="true">/configuring-unicenta-pos-mysql-database</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>Dataவை தேடுவதற்கு தனி Search Engineனை அறிமுகப்படுத்தியது Google</title>
         
           <description>&lt;p&gt;Google on Thursday launched a new search engine for the scientific community that will help them make sense of millions of datasets present online.&lt;/p&gt;
@@ -182,21 +168,6 @@
         <link>
         /Google-Dataset-Search-New-Search-Engine</link>
         <guid isPermaLink="true">/Google-Dataset-Search-New-Search-Engine</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Delegate the domain to Another Name Server</title>
-        
-          <description>&lt;p&gt;You can delegate your LK domain to any other Name server and take control of your DNS. To do this, you need to go to the domain settings on domains.lk site and ‘select the type you need to add’ to Name Server.change the DNS server that supports the domain.(Changing this will result in deleting all your existing Resource Records).&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 06 Sep 2018 10:00:40 +0000</pubDate>
-        <link>
-        /MX-Delegate-the-domain-to-Another-NameServer</link>
-        <guid isPermaLink="true">/MX-Delegate-the-domain-to-Another-NameServer</guid>
       </item>
       
     

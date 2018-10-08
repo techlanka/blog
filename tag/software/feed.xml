@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/tag/software/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-10-08T09:31:42+00:00</updated>
+  <updated>2018-10-08T09:32:50+00:00</updated>
   <id>/tag/software/feed.xml</id>
 
   
@@ -69,40 +69,6 @@
 
       
         <summary type="html">Intel launching its 9th generation processors - new Core i9, i7 and i5 processors on October 1st with 8 cores.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Configure Unicenta oPOS with MySQL Database Server.</title>
-      <link href="/configuring-unicenta-pos-mysql-database" rel="alternate" type="text/html" title="Configure Unicenta oPOS with MySQL Database Server." />
-      <published>2018-09-10T00:00:00+00:00</published>
-      <updated>2018-09-10T00:00:00+00:00</updated>
-      <id>/configuring-unicenta-pos-mysql-database</id>
-      <content type="html" xml:base="/configuring-unicenta-pos-mysql-database">&lt;p&gt;Unicenta’s default configuration when freshly installed is set to use the Derby Database Server. A database server embedded inside of Unicenta. This is only good for testing and experimental purposes. But when you’re ready to deploy your Unicenta box, you should be using it with an external Database Server like MySQL.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="software" />
-      
-
-      
-        <summary type="html">Unicenta’s default configuration when freshly installed is set to use the Derby Database Server. A database server embedded inside of Unicenta. This is only good for testing and experimental purposes. But when you’re ready to deploy your Unicenta box, you should be using it with an external Database Server like MySQL.</summary>
       
 
       
