@@ -1,0 +1,25 @@
+layout: page
+permalink: /authors/
+title: Authors
+navigation: true
+logo: assets/images/favicon.png
+class: page-template
+subclass: post page
+---
+
+<div id="archives">
+{% for tag in site.authors %}
+  <div class="archive-group">
+    {% capture author_name %}{{ tag | first }}{% endcapture %}
+    <div id="#{{ author_name | slugize }}"></div>
+    <p></p>
+    <h3 class="author-head">{{ author_name }}</h3>
+    <a name="{{ author_name | slugize }}"></a>
+    {% for post in site.authors[author_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{author.location}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>
