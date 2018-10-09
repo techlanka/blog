@@ -24,6 +24,7 @@ permalink: "/:title"
 plugins:
 - jekyll-paginate
 - jekyll-feed
+- jekyll-sitemap
 feed:
   path: feed.xml
 safe: false
