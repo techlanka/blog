@@ -13,7 +13,6 @@ subclass: post page
     {% capture author_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ author_name | slugize }}"></div>
     <p></p>
-    
     <h3 class="author-head">{{ author_name }}</h3>
     <a name="{{ author_name | slugize }}"></a>
     {% for post in site.authors[author_name] %}
