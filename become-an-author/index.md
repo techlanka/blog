@@ -1,6 +1,6 @@
 ---
 layout: page
-current: authors
+current: become-an-author
 title: Become An Author
 navigation: true
 logo: 'assets/images/favicon.png'
