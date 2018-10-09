@@ -1,25 +1,44 @@
+---
 layout: page
-permalink: /authors/
-title: Authors
-navigation: true
-logo: assets/images/favicon.png
-class: page-template
-subclass: post page
+current: authors
+title: Meet the Authors
+cover: false
+class: 'tag-template'
+navigation: True
+logo: 'assets/images/favicon1.png'
 ---
 
-<div id="archives">
-{% for tag in site.authors %}
-  <div class="archive-group">
-    {% capture author_name %}{{ tag | first }}{% endcapture %}
-    <div id="#{{ author_name | slugize }}"></div>
-    <p></p>
-    <h3 class="author-head">{{ author_name }}</h3>
-    <a name="{{ author_name | slugize }}"></a>
-    {% for post in site.authors[author_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{author.location}}</a></h4>
-    </article>
-    {% endfor %}
-  </div>
-{% endfor %}
-</div>
+<!-- default -->
+<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
+
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+<!-- #tag -->
+{% include dynamic_tag_info.html %}
+<header class="site-header outer {% if cover or page.cover %}" style="background-image: url({{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%}) {% else %}no-cover{% endif %}">
+    <div class="inner">
+        {% include site-nav-for-tag.html %}
+        <div class="site-header-content">
+            <h1 class="site-title">{{ page.authors | capitalizeall }}</h1>
+            <h2 class="site-description">
+                {% if author_description %}
+                    {{ author_description }}
+                {% elsif page.author %}
+    			    A collection of {{ paginator.total_authors }} posts
+                {% endif %}
+            </h2>
+        </div>
+    </div>
+</header>
+<!-- tag -->
+
+<!-- The main content area -->
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+        <div class="post-feed">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            {%  include post-card.html %}
+        </div>
+    </div>
+</main>
+
+<!-- /post -->
