@@ -1,7 +1,7 @@
 ---
 layout: page
-current: contact
-title: Contact
+current: tags
+title: Tags
 navigation: true
 logo: assets/images/favicon.png
 class: page-template
