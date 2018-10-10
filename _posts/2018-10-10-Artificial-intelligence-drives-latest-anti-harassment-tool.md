@@ -1,9 +1,10 @@
 ---
-title: அடாவடித்தனம் பண்ணுவர்களை AIஇணை பயன்படுத்தி கண்டறியும் வசதி அறிமுகப்படுத்தும் Instagram.
-date: 2018-10-10 00:00:00 +0000
+
 layout: post
 current: post
+title: அடாவடித்தனம் பண்ணுவர்களை கண்டறியும் வசதி அறிமுகப்படுத்தும் Instagram
 cover: "/assets/images/instagram-pexels-stock.jpg"
+date: 2018-10-10 00:00:00 +0000
 navigation: true
 tags: [Artificial intelligence]
 class: post-template
