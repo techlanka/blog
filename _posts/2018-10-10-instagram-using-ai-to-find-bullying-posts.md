@@ -2,9 +2,9 @@
 layout: post
 current: post
 cover: assets/images/instagram-pexels-stock.jpg
-navigation: True
+navigation: true
 title: அடாவடித்தனம் பண்ணுவர்களை AIஇணை பயன்படுத்தி கண்டறியும் வசதி அறிமுகப்படுத்தும் Instagram.
-date: 2018-10-10 10:35:00
+date: 2018-10-10 10:35:00 +0000
 tags: [Artificial intelligence]
 class: post-template
 author: mirshad
