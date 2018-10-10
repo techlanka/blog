@@ -9,6 +9,7 @@ tags: [Artificial intelligence]
 class: post-template
 author: mirshad
 ---
+
 Artificial intelligence drives the latest anti-harassment tool from the photo app.
 
 Instagram இனால் அறிமுகப்படுத்தும் புதியதொரு AI featured tool  மூலமாக பாவனையாளர்களை posts,images அல்லது commentகளின்  ஊடாக அடாவடி பண்ணுவர்களை கண்டறிந்து அதனை உடனே நீக்கும் வசதியை அடுத்த வாரத்தில் இருந்து நடைமுறைக்கு கொண்டுவர உள்ளதாக Instagramஇன் புதிய தலைவர் Adam Mosseri தெரிவித்துள்ளார்.
