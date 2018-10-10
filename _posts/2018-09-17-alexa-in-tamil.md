@@ -9,7 +9,6 @@ tags: [Artificial intelligence]
 class: post-template
 author: mirshad
 ---
-
 Alexa gets new skills and now customers in India can help Alexa learn Tamil, Hindi, and other Indian languages.
 
 அமேசான் நிறுவனத்தின் மெய்நிகர் உதவியாளரான‌ அலெக்சாவால் இனி தமிழ் மொழியிலும் பதிலளிக்க‌ முடியும். இனி முதல் இந்திய வாடிக்கையாளர்கள், அலெக்சா (Amazon’s digital assistant Alexa) பயன்படுத்தி பல்வேறு இந்திய மொழிகளில் பேச்சு பரிமாற்றம் செய்ய‌ முடியும் என்று தெரிவிக்கப்பட்டுள்ளது. செயற்கை அறிவுத்திறனுடன் (artificial intelligence) இயங்கும் அலெக்சா, தற்பொழுது ஆங்கிலத்தில் மட்டுமே பயனர்களுடன் பேச்சில் ஈடுபடுகிறது. ஆப்பிள் இன் சிரி மற்றும் கூகிள் அசிஸ்டண்ட் (Apple’s Siri and Google Assistant) போன்ற மெய்நிகர் உதவியாளர்களுக்கு (virtual assistants ) நிகராக‌ உள்ளது.
