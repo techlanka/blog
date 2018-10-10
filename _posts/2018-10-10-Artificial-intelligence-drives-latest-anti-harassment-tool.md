@@ -1,16 +1,13 @@
 ---
-title: அடாவடித்தனம் பண்ணுவர்களை AIஇணை பயன்படுத்தி கண்டறியும் வசதி அறிமுகப்படுத்தும்
-  Instagram.
+title: அடாவடித்தனம் பண்ணுவர்களை AIஇணை பயன்படுத்தி கண்டறியும் வசதி அறிமுகப்படுத்தும் Instagram.
 date: 2018-10-10 00:00:00 +0000
 layout: post
 current: post
 cover: "/assets/images/instagram-pexels-stock.jpg"
 navigation: true
-tags:
-- Artificial intelligence
+tags: [Artificial intelligence]
 class: post-template
 author: mirshad
-
 ---
 Artificial intelligence drives the latest anti-harassment tool from the photo app.
 
