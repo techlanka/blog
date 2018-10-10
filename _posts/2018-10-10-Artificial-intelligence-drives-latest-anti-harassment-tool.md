@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-title: அடாவடித்தனம் பண்ணுவர்களை கண்டறியும் வசதி அறிமுகப்படுத்தும் Instagram
+title: அடாவடித்தனம் பண்ணுவர்களை கண்டறியும் வசதியை அறிமுகப்படுத்தும் Instagram
 cover: assets/images/instagram-pexels-stock.jpg
 date: 2018-10-10 00:00:00 +0000
 navigation: true
@@ -12,7 +12,7 @@ author: mirshad
 ---
 Artificial intelligence drives the latest anti-harassment tool from the photo app.
 
-Instagram இனால் அறிமுகப்படுத்தும் புதியதொரு AI featured tool  மூலமாக பாவனையாளர்களை posts,images அல்லது commentகளின்  ஊடாக அடாவடி பண்ணுவர்களை கண்டறிந்து அதனை உடனே நீக்கும் வசதியை அடுத்த வாரத்தில் இருந்து நடைமுறைக்கு கொண்டுவர உள்ளதாக Instagramஇன் புதிய தலைவர் Adam Mosseri தெரிவித்துள்ளார்.
+Instagram இனால் அறிமுகப்படுத்தும் புதியதொரு AI featured tool மூலமாக பாவனையாளர்களை posts,images அல்லது commentகளின் ஊடாக அடாவடி பண்ணுவர்களை கண்டறிந்து அதனை உடனே நீக்கும் வசதியை அடுத்த வாரத்தில் இருந்து நடைமுறைக்கு கொண்டுவர உள்ளதாக Instagramஇன் புதிய தலைவர் Adam Mosseri தெரிவித்துள்ளார்.
 
 மேலும் அவர் தெரிவிக்கையில், instagram மூலமாக நாம் அன்பை பாய்ச்சி முடியுமான வரையில் அடாவடியை முடக்க முட்படுகிறோம். இந்த toolஇன் உதவியுடன் அதனை நனவாக்கலாம் என எண்ணுகிறோம். மேலும் புதிய camera effects களையும் அறிமுகப்படுத்தவுள்ளோம் என தெரிவித்தார்.
 
