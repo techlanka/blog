@@ -5,10 +5,12 @@ cover: assets/images/worlds-smallest-computer.jpg
 navigation: true
 title: அறிமுகமானது உலகின் மிகச் சிறிய கணினி, அரிசி பருக்கையை விட சிறியது!
 date: 2018-06-12 10:16:00 +0000
-tags: [Artificial intelligence]
+tags:
+- Artificial intelligence
 class: post-template
-logo: assets/images/ghost.png
+logo: ''
 author: mirshad
+
 ---
 The 'world's tiniest computer' is smaller than a grain of rice. Much smaller. Not to be outdone by the “world smallest computer” IBM revealed in March.
 
