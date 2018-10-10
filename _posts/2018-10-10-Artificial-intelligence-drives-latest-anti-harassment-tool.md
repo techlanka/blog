@@ -1,5 +1,4 @@
 ---
-
 layout: post
 current: post
 title: அடாவடித்தனம் பண்ணுவர்களை கண்டறியும் வசதியை அறிமுகப்படுத்தும் Instagram
@@ -9,6 +8,7 @@ navigation: true
 tags: [Artificial intelligence]
 class: post-template
 author: mirshad
+
 ---
 Artificial intelligence drives the latest anti-harassment tool from the photo app.
 
