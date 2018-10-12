@@ -8,4 +8,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-{% include authors.html %}
+{% include author.html %}
