@@ -19,10 +19,10 @@ logo: 'assets/images/favicon1.png'
         <div class="site-header-content">
             <h1 class="site-title">{{ page.authors | capitalizeall }}</h1>
             <h2 class="site-description">
-                {% if author_description %}
-                    {{ author_description }}
-                {% elsif page.author %}
-    			{ paginator.total_author }}
+                {% if author_name %}
+                    {{ author_name }}
+                {% elsif page.authors %}
+    			{ paginator.total_authors }}
                 {% endif %}
             </h2>
         </div>
