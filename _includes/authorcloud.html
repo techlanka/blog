@@ -1,16 +1,16 @@
-{% capture site_authors %}{% for author in site.authors %}{{ author | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% capture site_authors %}{% for authors in site.authors %}{{ authors | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign site_authors = site_authors | split: ',' %}
 
-{% assign author_count = 0 %}
-{% for author in site_authors %}
-{% assign author_count = author_count | plus: site.authors[author].size %}
+{% assign authors_count = 0 %}
+{% for authors in site_authors %}
+{% assign authors_count = authors_count | plus: site.authors[authors].size %}
 {% endfor %}
 
-{% for author in authors %}
-{% assign rel_author_size = site.authors[author].size | times: 2.5 | divided_by: author_count | plus: 1 %}
+{% for authors in authors %}
+{% assign rel_authors_size = site.authors[authors].size | times: 2.5 | divided_by: authors_count | plus: 1 %}
 <span style="white-space: nowrap; font-size: {{ rel_tag_size }}em;">
-  <a href="{{ site.url }}/author/{{ author | replace: " ", "-" | downcase }}" class="site-authors">{{ author | slugize }}
-  <span>({{ site.authors[author].size }})</span>
+  <a href="{{ site.url }}/authors/{{ authors | replace: " ", "-" | downcase }}" class="site-authors">{{ authors | slugize }}
+  <span>({{ site.authors[authors].size }})</span>
   </a>
 </span>
 {% endfor %}
