@@ -39,9 +39,11 @@ google_analytics: UA-109601699-2 # replace with your GA tracking identifier
 permalink: /:title
 # permalink: /author/:author
 # permalink: /tag/:tag
+# permalink: /authors/:authors
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
+# Authors' info in `_layout/authors.html`
 
 # gems and other configs
 plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
