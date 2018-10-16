@@ -69,6 +69,9 @@
 <lastmod>2018-10-10T03:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>/tags/</loc>
+</url>
+<url>
 <loc>/</loc>
 </url>
 <url>
@@ -103,9 +106,5 @@
 </url>
 <url>
 <loc>/tag/business/</loc>
-</url>
-<url>
-<loc>/tags/index.html</loc>
-<lastmod>2018-10-16T17:05:27+03:00</lastmod>
 </url>
 </urlset>
