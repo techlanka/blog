@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Chinaவில் மிகப்பெரிய டிஜிட்டல் Payment சேவையாக திகழும் Alipay மற்றும் WeChat Pay  மூலமாக Apple ID இணை பயன்படுத்தி நிதி மோசடி நிகழ்ந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
 
