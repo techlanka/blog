@@ -1,5 +1,14 @@
 ---
 published: true
+layout: post
+current: post
+cover: assets/images/alipay-hacked.jpg
+navigation: true
+title: Online Payment செய்யப்படும் வேளையில் Apple ID பயன்படுத்தி பண மோசடி!
+date: '2018-10-15 15:48:00 +0000'
+tags: security
+class: post-template
+author: mirshad
 ---
 Chinaவில் மிகப்பெரிய டிஜிட்டல் Payment சேவையாக திகழும் Alipay மற்றும் WeChat Pay  மூலமாக Apple ID இணை பயன்படுத்தி நிதி மோசடி நிகழ்ந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
 
