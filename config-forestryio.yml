@@ -26,6 +26,7 @@ plugins:
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-seo-tag
+- jemoji
 feed:
   path: feed.xml
 safe: false
