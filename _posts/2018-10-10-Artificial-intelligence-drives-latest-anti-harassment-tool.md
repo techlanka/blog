@@ -8,7 +8,6 @@ navigation: true
 tags: [Artificial intelligence]
 class: post-template
 author: mirshad
-
 ---
 Artificial intelligence drives the latest anti-harassment tool from the photo app.
 
