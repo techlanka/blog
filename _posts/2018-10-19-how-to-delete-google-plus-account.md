@@ -5,7 +5,7 @@ current: post
 cover: assets/images/google-plus-delete.jpg
 date: '2018-10-19 03:58:00 +0000'
 navigation: true
-tags: tips & tricks
+tags: [tips & tricks]
 class: post-template
 author: mirshad
 title: Google Plus Accountடை Delete செய்வது எப்படி?
