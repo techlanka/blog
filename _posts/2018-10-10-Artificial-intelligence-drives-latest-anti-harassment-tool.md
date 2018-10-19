@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-title: அடாவடித்தனம் பண்ணுவர்களை கண்டறியும் வசதியை அறிமுகப்படுத்தும் Instagram
+title: தவறாக instagram பயன்படுத்துவர்களை கண்டறியும் வசதி!
 cover: assets/images/instagram-pexels-stock.jpg
 date: 2018-10-10 00:00:00 +0000
 navigation: true
