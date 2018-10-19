@@ -3,7 +3,7 @@ published: true
 layout: post
 current: post
 cover: assets/images/apple_October15_event.jpg
-date: '2018-10-1 01:45:00 +0000'
+date: '2018-10-19 01:45:00 +0000'
 navigation: true
 tags: apple
 class: post-template
