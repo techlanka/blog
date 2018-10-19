@@ -3,7 +3,7 @@ published: true
 layout: post
 current: post
 cover: assets/images/Xiaomi-Mix-3.jpg
-date: '2018-10-19 11:45:00 +0000'
+date: '2018-10-18 11:45:00 +0000'
 navigation: true
 tags: mobiles
 class: post-template
