@@ -11,6 +11,8 @@ class: post-template
 author: mirshad
 title: உங்களின் facebook கணக்கும் hack செய்யப்பட்டுள்ளதா என்ற விவரங்களை அறிந்து கொள்ளுங்கள்.
 ---
+Facebook said Friday that hackers obtained a swath of information from more than 29 million accounts,Facebook said the FBI is currently investigating the hack. The social network chose not to reveal who may be behind the attack, saying there’s a possibility that smaller attacks of the same nature could happen.
+
 Facebook என்பது இன்றியமையாததாக இருக்கின்றது. உலகமும் முழுவதும் பரவலாக பயன்படுத்தும் சமூக வலைதளமாக மாறியுள்ளது. இந்நிலையில், facebookலிருந்து மீண்டும் மீண்டும் தனிபட்ட பயனர்களின் தகவல்கள் திருடப்பட்டு வருகின்றது. இது உலகம் முழுக்க அதிர்ச்சியளிக்கின்றது.
 
 மேலும் facebook இருந்து தனிப்பட்ட பயனர்களின் விவரங்களை எவ்வாறு அறிந்து கொள்வது உணர்ந்து கொள்ள வேண்டிய அவசியமாகின்றது. இந்நிலையில் அதன் வழிமுறைகளை காணலாம்.
