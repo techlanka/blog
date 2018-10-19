@@ -10,6 +10,8 @@ class: post-template
 author: mirshad
 title: 'Xiaomi Mi Mix 3, 10GB RAM கொண்ட உலகின் முதல் Smart Phone!'
 ---
+Xiaomi Mi Mix 3 launch is set for October 25 in China, as confirmed by the company earlier this week. The phone maker has already teased a lot of features of the upcoming premium smartphone.
+
 Xiaomi Mi Mix 3 Smart Phoneனானது சீனாவில் வரும் October.25ஆம் தேதி வெளியாவதாக அந்த நிறுவனத்தால் உறுதிப்படுத்தப்பட்டுள்ளது. இந்த Premium Smart Phoneனின் சிறப்பம்சம் குறித்து ஏற்கனவே பலமுறை இதன் உற்பத்தியாளர் தெரிவித்துள்ளார். Xiaomi Mi Mix 3, 10GB RAM மற்றும் 5G இணைப்புடன் வருகிறது. Xiaomi நிறுவன நிர்வாகி ஒருவர் Xiaomi Mi Mix 3 குறித்து மேலும் சில தகவல்களை வெளியிட்டுள்ளார். அதில், 1080x2340 Screen அளவு, 19.5:9 Aspect ratio மற்றும் 10GB RAM கொண்டுள்ளது உறுதிப்படுத்தப்பட்டுள்ளது.
 
 இந்த தகவல்களை Xiaomi நிறுவன தயாரிப்பு சந்தைப்படுத்துதல் இயக்குநர் சி சிகியூவான் உறுதிப்படுத்தியுள்ளார். மேலும், Xiaomi Mi Mix 3, சிறப்பம்சங்கள் குறித்து சிகியூவான் வெளியிட்ட தகவல்களின் Screenshotகளும் பரவி வருகின்றன. அதில், 1080x2340 Screen அளவு, 19.5:9 Aspect ratioோ மற்றும் 10GB RAM உள்ளிட்டவை குறிப்பிடப்பட்டுள்ளது.
