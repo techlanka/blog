@@ -11,6 +11,8 @@ class: post-template
 author: mirshad
 title: புதிய Updateடில் களக்க வரும் WhatsApp! சிறப்பு அம்சங்கள்!
 ---
+WhatsApp appears to be working on a feature that could help users link their accounts with other social media platforms like Instagram and Facebook.
+
 தற்போது புதிய updateடில் களமிறங்க WhatsApp தயாராகி விட்டது. மேலும் உலகளாவியரீதியில் அதிகமானனோர் பயன்படுத்தும் செயலிலயாக WhatsApp இருக்கின்றது. இதை மையமாக வைத்துதான் பொழுது போக்கு, வணிகம் உள்ளிட்ட பல்வேறு சேவைகளும் நடக்கின்றது.
 
 இந்நிலையில் WhatsApp புதிய updateடை கொடுப்பதாக அறிவித்துள்ளது. இதனால் ஏராளமானோர்களும் ஆவலுடன் காத்து இருக்கின்றனர். இதில் என்னென்ன விஷயங்கள் இருக்கின்றது என்று தெரிந்து கொள்ளலாமா!
