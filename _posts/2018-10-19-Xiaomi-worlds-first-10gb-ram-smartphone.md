@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 current: post
 cover: assets/images/Xiaomi-Mix-3.jpg
