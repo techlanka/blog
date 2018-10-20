@@ -3,7 +3,7 @@ published: true
 layout: post
 current: post
 cover: assets/images/xbox-one-x.jpg
-date: '2018-10-20 07:20:00 +0000'
+date: '2018-10-20 03:20:00 +0000'
 navigation: true
 tags:
   - gaming
