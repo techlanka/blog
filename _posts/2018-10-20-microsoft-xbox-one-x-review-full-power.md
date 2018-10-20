@@ -1,5 +1,4 @@
 ---
-published: true
 layout: post
 current: post
 cover: assets/images/xbox-one-x.jpg
