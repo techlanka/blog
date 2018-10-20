@@ -10,10 +10,9 @@ class: post-template
 author: mirshad
 title: அதிக சக்தி கொண்ட Microsoft Xbox One X PlayStation, ஒரு கண்ணோட்டம்!
 ---
+The world's most powerful console with 40% more power than any other console, experience immersive true 4K gaming. Games play better on Xbox One X.
 
-Microsoft நிறுவனத்தின் Xbox One X PlayStation கடந்த 2017ம் ஆண்டு நவம்பரில் அமெரிக்காவில் அறிமுகம் செய்யப்பட்டது.
-
-இதற்கு முந்தை Microsoft Xbox One X modelலை விட இதன் Hardwareரில் பல சிறப்பம்சங்கள் சேர்க்கப்பட்டுள்ளது. அதனால் இது வேகமாக அதிக சக்தியுடன் செயலபடக் கூடியதாகும்.
+Microsoft நிறுவனத்தின் Xbox One X PlayStation கடந்த 2017ம் ஆண்டு நவம்பரில் அமெரிக்காவில் அறிமுகம் செய்யப்பட்டது. இதற்கு முந்தை Microsoft Xbox One X modelலை விட இதன் Hardwareரில் பல சிறப்பம்சங்கள் சேர்க்கப்பட்டுள்ளது. அதனால் இது வேகமாக அதிக சக்தியுடன் செயலபடக் கூடியதாகும்.
 
 Microsoft Xbox One Xஸின் Power Adapter கச்சிதமாக X உபகரணத்திலேயே பொருத்தப்பட்டுள்ளது. இதன் முன் பகுதி மற்றும் மேல் பகுதியின் finishing அருமையான முறையில் உள்ளது. எந்த இடத்திலும் வைக்க கூடிய அளவக்கு அதிநவீன தோற்றம் கொண்டுள்ளது. வெப்பம் வெளியேறும் வகையில் unitடின் பக்கவாட்டில் வசதி அமைக்கப்பட்டுள்ளது.
 
