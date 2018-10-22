@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/author/imran/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-10-22T10:27:54+03:00</updated>
+  <updated>2018-10-22T12:12:12+03:00</updated>
   <id>/author/imran/feed.xml</id>
 
   
@@ -32,6 +32,48 @@
   
   
 
+  
+    <entry>
+      <title type="html">Online Payment செய்யப்படும் வேளையில் Apple ID பயன்படுத்தி பண மோசடி!</title>
+      <link href="/hackers-are-using-Apple-IDs-to-steal-money" rel="alternate" type="text/html" title="Online Payment செய்யப்படும் வேளையில் Apple ID பயன்படுத்தி பண மோசடி!" />
+      <published>2018-10-15T18:48:00+03:00</published>
+      <updated>2018-10-15T18:48:00+03:00</updated>
+      <id>/hackers-are-using-Apple-IDs-to-steal-money</id>
+      <content type="html" xml:base="/hackers-are-using-Apple-IDs-to-steal-money">&lt;p&gt;Ant Financial’s Alipay and Tencent Holdings Ltd. warned that cyber-attackers employed stolen Apple IDs to break into customers’ accounts and made off with an unknown amount of cash, in a rare security breach for China’s top digital payments providers.&lt;/p&gt;
+
+&lt;p&gt;Chinaவில் மிகப்பெரிய டிஜிட்டல் Payment சேவையாக திகழும் Alipay மற்றும் WeChat Pay  மூலமாக Apple ID இணை பயன்படுத்தி நிதி மோசடி நிகழ்ந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.&lt;/p&gt;
+
+&lt;p&gt;Apple நிறுவனம் இதுவரையில் தீர்வு காணாத பட்சத்தில், iPhone இன் ஊடாக Alipay பயன்படுத்தும் வாடிக்கையாளர்களுக்கு விழிப்புணர்ச்சியை ஏட்படுத்துவதோடு, Alipay மற்றும் WePay அல்லாத மற்றைய credit card பயன்படுத்தும் சேவைகள் Apple  ID யுடன் link செய்யும் பட்சத்தில் மிகவும் கவனமாக கையாலுமாறு வேண்டுகோள் விடுக்கப்பட்டுள்ளது.&lt;/p&gt;
+
+&lt;p&gt;சேவை மோசடி சம்பந்தமான முழுமையான தொகை இன்னும் கண்டறியப்படவில்லை, இருந்தும் சில transactions மூலமாக கிடைக்கப்பெற்ற தகவலை வைத்து 290 அமெரிக்கா டாலர் மோசடி என அறிவிக்கப்பட்டுள்ளது.&lt;/p&gt;
+
+&lt;p&gt;மேலும் இந்த மோசடித் தொகையை Apple நிறுவனம் உரிய நபருக்கு திருப்பி அளிக்க போவதுடன் Apple ID passwordஇணை reset  செய்யுமாறும் மற்றும் two factor authentication இட்டு accountஇணை மேலும் வலுவாக்குமாறும் வேண்டிகொள்கிறது.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Imran Yaseen</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="security" />
+      
+
+      
+        <summary type="html">Ant Financial’s Alipay and Tencent Holdings Ltd. warned that cyber-attackers employed stolen Apple IDs to break into customers’ accounts and made off with an unknown amount of cash, in a rare security breach for China’s top digital payments providers.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Notch Display மற்றும் 5 Cameraகளுடன் வெளியானது LG V40 ThinQ.</title>
