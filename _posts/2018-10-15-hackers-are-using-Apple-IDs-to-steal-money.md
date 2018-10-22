@@ -8,7 +8,7 @@ title: Online Payment செய்யப்படும் வேளையில
 date: '2018-10-15 15:48:00 +0000'
 tags: security
 class: post-template
-author: mirshad
+author: imran
 ---
 Ant Financial’s Alipay and Tencent Holdings Ltd. warned that cyber-attackers employed stolen Apple IDs to break into customers’ accounts and made off with an unknown amount of cash, in a rare security breach for China’s top digital payments providers.
 
