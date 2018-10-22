@@ -5,7 +5,7 @@ current: post
 cover: assets/images/alipay-hacked.jpg
 navigation: true
 title: Online Payment செய்யப்படும் வேளையில் Apple ID பயன்படுத்தி பண மோசடி!
-date: '2018-10-15 15:48:00 +0000'
+date: '2018-10-15 15:47:00 +0000'
 tags: security
 class: post-template
 author: imran
