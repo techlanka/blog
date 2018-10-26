@@ -8,7 +8,7 @@ navigation: true
 tags: business
 class: post-template
 author: mirshad
-title: Ebayவில் சர்வதேச அளவில் பொருட்களை விற்க இலங்கை அரசாங்கத்தின் அனுமதி!
+title: Ebayவில் சர்வதேச அளவில் பொருட்களை விற்க அனுமதி!
 ---
 The Finance and Mass Media Ministry announced that the Sri Lankans now can sell their products to overseas customers through e-commerce platforms such as eBay.
 
