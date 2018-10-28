@@ -2,7 +2,7 @@
 published: true
 layout: post
 current: post
-cover: assets/images/galaxy-s10.jpeg
+cover: assets/images/galaxy-s10.png
 date: '2018-10-27 16:40:00 +0000'
 navigation: true
 tags: mobiles
