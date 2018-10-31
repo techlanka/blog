@@ -2,7 +2,7 @@
 published: true
 layout: post
 current: post
-cover: assets/images/MacBook-Pro-2018.jpeg
+cover: assets/images/galaxy-s10.jpeg
 date: '2018-10-31 15:40:00 +0000'
 navigation: true
 tags: apple
