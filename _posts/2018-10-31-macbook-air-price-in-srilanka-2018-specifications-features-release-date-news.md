@@ -2,8 +2,8 @@
 published: true
 layout: post
 current: post
-cover: assets/images/galaxy-s10.jpeg
-date: '2018-10-31 15:40:00 +0000'
+cover: assets/images/MacBook-Pro-2018.jpg
+date: '2018-10-31 10:40:00 +0000'
 navigation: true
 tags: apple
 class: post-template
