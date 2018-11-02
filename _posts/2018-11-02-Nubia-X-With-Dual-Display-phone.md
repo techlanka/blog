@@ -3,9 +3,9 @@ published: true
 layout: post
 current: post
 cover: assets/images/Nubia-X.jpeg
-date: '2018-11-01 02:50:00 +0000'
+date: '2018-11-02 02:50:00 +0000'
 navigation: true
-tags: mobile
+tags: mobiles
 class: post-template
 author: mirshad
 title: Dual Display மற்றும் 8GB RAMமுடன் அறிமுகமானது Nubia X!
