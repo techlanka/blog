@@ -2,8 +2,8 @@
 published: true
 layout: post
 current: post
-cover: assets/images/Nubia-X-dual-display.jpeg
-date: '2018-11-02 02:50:00 +0000'
+cover: assets/images/Nubia-X.jpeg
+date: '2018-11-01 02:50:00 +0000'
 navigation: true
 tags: mobile
 class: post-template
