@@ -2,7 +2,7 @@
 published: true
 layout: post
 current: post
-cover: assets/images/micromax-android-tv.jpeg
+cover: assets/images/Micromax-UHD-TV-42.jpg
 date: '2018-11-03 09:50:00 +0000'
 navigation: true
 tags: technology
