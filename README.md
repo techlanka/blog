@@ -1,2 +1,0 @@
-# blog
-https://techlanka.lk
