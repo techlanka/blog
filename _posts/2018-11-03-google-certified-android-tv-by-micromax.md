@@ -16,7 +16,7 @@ Micromax Informatics on Friday launched its first Google-Certified Android TV in
 
 Micromax Informatics நிறுவனம் வெள்ளியன்று google சான்றிதழ் பெற்ற அதன் முதல் android TVயை இரு variantகளில் அறிமுகம் செய்துள்ளது. ஆனால், அதற்கு பெயரிடவில்லை. முறையே, 49inch மற்றும் 59inch.
 
-<p><img src="url({{ site.baseurl }}{{ page.cover }})" alt="Micromax Google Certified TV" /></p>
+<p><img src="blog/assets/images/micromax-android-tv.JPG" alt="Micromax Google Certified TV" /></p>
 
 தங்கள் நிறுவனத்தின் முதல் android TV குறித்து, அந்நிறுவனத்தின் இயக்குனர் Rogan Agarwal பேசுகையில், google சான்றிதழ் பெற்ற முதல் android TVயை அறிமுகம் செய்திருக்கிறோம். அதன் மூலம் எங்களுடைய வாடிக்கையாளர்களுக்கு என்றும் நினைவில் நிற்கக்கூடிய பட தரத்தையும், அனுபவத்தையும் google playயுடன் இணைந்து எண்ணற்ற optionகளை கொடுக்கிறோம். புதிய அறிமுகமான இந்த TV மூலம் பெரிய, தெளிவான, மிகத் துல்லியமான திரையில் படம் பார்த்ததற்கான அனுபவத்தை வாடிக்கையாளர்களுக்கு வழங்க விரும்புகிறோம். TV தயாரிப்பில் இந்தியாவில் எங்களின் நிலையை ஆணித்தரமாக நிலை நாட்ட முயற்சித்து வருகிறோம் என்று தெரிவித்தார்.
 
