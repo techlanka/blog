@@ -10,6 +10,7 @@ class: post-template
 author: mirshad
 title: Google சான்றிதழ் பெற்ற Micromaxஸின் முதல் Android TV!
 ---
+
 Micromax Informatics on Friday launched its first Google-Certified Android TV in two variants,which has no name specifed. The 49-inch and 55-inch 4K UHD HDR10 TV, they have taken a step further in providing consumers with memorable and stunning picture-quality experience.
 
 Micromax Informatics நிறுவனம் வெள்ளியன்று google சான்றிதழ் பெற்ற அதன் முதல் android TVயை இரு variantகளில் அறிமுகம் செய்துள்ளது. ஆனால், அதற்கு பெயரிடவில்லை. முறையே, 49inch மற்றும் 59inch.
