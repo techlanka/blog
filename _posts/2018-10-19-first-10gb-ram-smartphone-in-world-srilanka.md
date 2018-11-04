@@ -1,0 +1,21 @@
+---
+published: true
+layout: post
+current: post
+cover: assets/images/Xiaomi-Mix-3.jpg
+date: '2018-10-18 11:45:00 +0000'
+navigation: true
+tags: mobiles
+class: post-template
+author: mirshad
+title: Xiaomi Mi Mix 3, 10GB RAM கொண்ட உலகின் முதல் Smart Phone!
+---
+Xiaomi Mi Mix 3 launch is set for October 25 in China, as confirmed by the company earlier this week. The phone maker has already teased a lot of features of the upcoming premium smartphone.
+
+Xiaomi Mi Mix 3 Smart Phoneனானது சீனாவில் வரும் October.25ஆம் தேதி வெளியாவதாக அந்த நிறுவனத்தால் உறுதிப்படுத்தப்பட்டுள்ளது. இந்த Premium Smart Phoneனின் சிறப்பம்சம் குறித்து ஏற்கனவே பலமுறை இதன் உற்பத்தியாளர் தெரிவித்துள்ளார். Xiaomi Mi Mix 3, 10GB RAM மற்றும் 5G இணைப்புடன் வருகிறது. Xiaomi நிறுவன நிர்வாகி ஒருவர் Xiaomi Mi Mix 3 குறித்து மேலும் சில தகவல்களை வெளியிட்டுள்ளார். அதில், 1080x2340 Screen அளவு, 19.5:9 Aspect ratio மற்றும் 10GB RAM கொண்டுள்ளது உறுதிப்படுத்தப்பட்டுள்ளது.
+
+இந்த தகவல்களை Xiaomi நிறுவன தயாரிப்பு சந்தைப்படுத்துதல் இயக்குநர் சி சிகியூவான் உறுதிப்படுத்தியுள்ளார். மேலும், Xiaomi Mi Mix 3, சிறப்பம்சங்கள் குறித்து சிகியூவான் வெளியிட்ட தகவல்களின் Screenshotகளும் பரவி வருகின்றன. அதில், 1080x2340 Screen அளவு, 19.5:9 Aspect ratioோ மற்றும் 10GB RAM உள்ளிட்டவை குறிப்பிடப்பட்டுள்ளது.
+
+Xiaomi Mi Mix 3 Smart Phoneனில் 10GB RAM உள்ள தகவல்கள் ஏற்கனவே வெளிவந்தாலும், Xiaomi நிறுவனத்தின் சர்வதேச செய்தித் தொடர்பாளர் டோனோவன் சங் தனது twitter பதிவில் குறிப்பிட்டதன் மூலம் அதிகாரப்பூர்வமாக உறுதிப்படுத்தப்பட்டது. இதே போல் சிறப்பம்சங்கள் கொண்ட போனை ஒப்போ அறிமுகப்படுத்துவதாக இருந்தது இருப்பனும் அது வெளியாவது குறித்து எந்த தகவலும் இல்லை, எனவே 10GB RAM கொண்ட உலகின் முதல் Smart Phone என்ற பெருமை Xiaomiயையே சேர்கிறது.
+
+இதனிடையே Xiaomi Mi Mix 3 Smart Phoneனின் கைமுறை Camera உள்ளிட்ட சில விவரங்கள் கசிந்துள்ளன. அதில், இந்த போன் Notch Display கொண்டுள்ளது. Windows 10 Computerரை Face lock கொண்டு Unlock செய்கிறது. மேலும், In-Dispalay Fingerprint Sensor கொண்டுள்ளதாக தெரிகிறது. எனினும் இந்த தகவல்கள் உறுதிப்படுத்தப்படவில்லை. Xiaomi Mi Mix 3 விலை குறித்த தகவல்கள் வதந்திகளாக பரவிவருகின்றன.

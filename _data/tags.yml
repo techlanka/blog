@@ -1,0 +1,52 @@
+google:
+  name: google
+  description: இப்பகுதியில் Google சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/google.jpg
+microsoft:
+  name: microsoft
+  description: இப்பகுதியில் Microsoft சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/microsoft.jpeg
+android:
+  name: android
+  description: இப்பகுதியில் Android சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/android.jpg
+software:
+  name: software
+  description: இப்பகுதியில் மென்பொருள் சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/programming.jpg
+gaming:
+  name: gaming
+  description: இப்பகுதியில் Gaming சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/gaming.png
+artificial-intelligence:
+  name: artificial-intelligence
+  description: இப்பகுதியில் AI சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/intelligence.jpeg
+apple:
+  name: apple
+  description: இப்பகுதியில் Apple சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/apple.png
+social-media:
+  name: social-media
+  description: இப்பகுதியில் Social Media சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/speeches.jpg
+tips-&-tricks:
+  name: tips-&-tricks
+  description: இப்பகுதியில் தொழிநுட்ப Tips & Tricks சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/tips&tricks.jpg
+reviews:
+  name: reviews
+  description: இப்பகுதியில் தொழிநுட்ப சாதனங்களின் reviews சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/speeches.jpg
+security:
+  name: security
+  description: இப்பகுதியில் Security சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/security.jpg
+mobiles:
+  name: mobiles
+  description: இப்பகுதியில் Mobiles சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/android.jpg
+business:
+  name: business
+  description: இப்பகுதியில் Business சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/business.jpg
