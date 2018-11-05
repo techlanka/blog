@@ -8,8 +8,8 @@ navigation: true
 tags: [tips & tricks]
 class: post-template
 author: mirshad
-title: WhatsAppஇன் புதிய தொழிநுட்பம் “நம்பரை சேமிக்காமல்” Message பண்ணும் வசதி!
----
+title: WhatsAppஇன் புதிய தொழிநுட்பம் “Number சேமிக்காமல்” Message அனுப்பலாம்!
+--- 
 Do you know how to send WhatsApp message without saving number on Android? If not, you are at right place. WhatsApp has really changed the way we communicate and many people are more comfortable using WhatsApp than making a call or even sending an SMS.
 
 Smartphone இல்லாதவர்கள் கூட இருக்கலாம். smartphoneனில் வாட்ஸ் அப் இல்லாதவர்கள் இருப்பது அரிதுதான். Messaging applicationகளில் முன்னணியில் இருக்கும் WhatsApp, பயனாளர்களின் வசதிக்கேற்ப அவ்வபோது வசதிகளை மேம்படுத்திக்கொண்டே இருக்கிறது.
