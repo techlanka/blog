@@ -2,7 +2,7 @@
 published: true
 layout: post
 current: post
-cover: assets/images/dark-mode-one.jpeg
+cover: assets/images/dark-mode-one.jpg
 date: '2018-11-11 19:45:00 +0000'
 navigation: true
 tags: google
@@ -16,7 +16,7 @@ Google has finally confirmed that dark mode on Android phones uses less power an
 
 இந்த வாரம் நடைபெற்ற Android Developers மாநாட்டில் smartphoneகள் பேட்டரி வாழ்க்கை குறித்த முக்கிய தகவல்களை வெளியிட்டது.
 
-<p><img src="https://techlanka.lk/assets/images/Dark-Mode.jpeg" alt="Google's Dark Mode for Android" /></p>
+<p><img src="https://techlanka.lk/assets/images/Dark-Mode.jpg" alt="Google's Dark Mode for Android" /></p>
 
 அப்போது, Appsகள் அதிகப்படியான பேட்டரி பவரை பயன்படுத்துவதை எவ்வாறு தவிர்க்கலாம் என்பது குறித்து google, android developerகளிடம் பேசியது. OS மற்றும் Appsகளின் theme நிறத்தை ஒட்டுமொத்தமாக கருப்பு நிறமாக மாற்றிவிடும்.
 
