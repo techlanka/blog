@@ -3,7 +3,7 @@ published: true
 layout: post
 current: post
 cover: assets/images/whatsapp-new.jpg
-date: '2018-10-19 05:58:00 +0000'
+date: '2018-10-18 05:58:00 +0000'
 navigation: true
 tags:
   - social media
