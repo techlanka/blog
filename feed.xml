@@ -1,45 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<feed xmlns="http://www.w3.org/2005/Atom" >
-  <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
-  <link href="/author/mirshad/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-11-16T16:12:16+03:00</updated>
-  <id>/author/mirshad/feed.xml</id>
-
-  
-  
-  
-
-  
-    <title type="html">techlanka.lk | தமிழில் தொழிநுட்ப செய்திகள் | </title>
-  
-
-  
-    <subtitle>Latest Technology based news in Tamil</subtitle>
-  
-
-  
-
-  
-    
-      
-    
-      
-    
-  
-
-  
-  
-
-  
-    <entry>
-      <title type="html">Android Mobilesளுக்கு Extra Battery Life கொடுக்கும் Dark Mode!</title>
-      <link href="/google-dark-mode-battery-power-saver" rel="alternate" type="text/html" title="Android Mobilesளுக்கு Extra Battery Life கொடுக்கும் Dark Mode!" />
-      <published>2018-11-11T22:45:00+03:00</published>
-      <updated>2018-11-11T22:45:00+03:00</updated>
-      <id>/google-dark-mode-battery-power-saver</id>
-      <content type="html" xml:base="/google-dark-mode-battery-power-saver">&lt;p&gt;Google has finally confirmed that dark mode on Android phones uses less power and saves battery life. They did this at this week’s Android Dev Summit, speaking to developers about what they can do in their apps to avoid consuming massive amounts of battery life.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-16T16:12:16+03:00</updated><id>/</id><title type="html">techlanka.lk | தமிழில் தொழிநுட்ப செய்திகள்</title><subtitle>Latest Technology based news in Tamil</subtitle><entry><title type="html">Android Mobilesளுக்கு Extra Battery Life கொடுக்கும் Dark Mode!</title><link href="/google-dark-mode-battery-power-saver" rel="alternate" type="text/html" title="Android Mobilesளுக்கு Extra Battery Life கொடுக்கும் Dark Mode!" /><published>2018-11-11T22:45:00+03:00</published><updated>2018-11-11T22:45:00+03:00</updated><id>/google-dark-mode-battery-power-saver</id><content type="html" xml:base="/google-dark-mode-battery-power-saver">&lt;p&gt;Google has finally confirmed that dark mode on Android phones uses less power and saves battery life. They did this at this week’s Android Dev Summit, speaking to developers about what they can do in their apps to avoid consuming massive amounts of battery life.&lt;/p&gt;
 
 &lt;p&gt;இறுதியாக Android phoneகளில் Dark Modeடை பயன்படுத்தினால், பேட்டரி இயங்க குறைவான Powerரை எடுத்துக் கொண்டு அதன் வாழ்நாளை நீட்டிக்கும் என்பதை Google உறுதி செய்துள்ளது.&lt;/p&gt;
 
@@ -51,41 +10,7 @@
 
 &lt;p&gt;youtubeஐ dark modeடில் முழு வெளிச்சத்தில் பயன்படுத்தும்போது, 43 சதவீத குறைவான பவர் மட்டுமே தேவைப்படுகிறது என்பதை google விளக்கியது. app develpoers பாரம்பரியமாக பயன்படுத்தி வரும் வெள்ளை நிறம் மூலம் ஏற்படும் பிரச்சனைகளை google தெளிவு படுத்தியது.&lt;/p&gt;
 
-&lt;p&gt;மேலும் வெள்ளை நிறத்தை இரண்டாம் பட்ச நிறமாக பயன்படுத்த கூகுள் அறிவுறுத்தியது.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="google" />
-      
-
-      
-        <summary type="html">Google has finally confirmed that dark mode on Android phones uses less power and saves battery life. They did this at this week’s Android Dev Summit, speaking to developers about what they can do in their apps to avoid consuming massive amounts of battery life.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Dual Displayயுடன் Samsung W2019 Flip Phone அறிமுகமானது!</title>
-      <link href="/samsungs-dual-display-phone-released" rel="alternate" type="text/html" title="Dual Displayயுடன் Samsung W2019 Flip Phone அறிமுகமானது!" />
-      <published>2018-11-11T17:45:00+03:00</published>
-      <updated>2018-11-11T17:45:00+03:00</updated>
-      <id>/samsungs-dual-display-phone-released</id>
-      <content type="html" xml:base="/samsungs-dual-display-phone-released">&lt;p&gt;Samsung has officially unveiled the W2019 as its latest clamshell smartphone with all top-end specifications, including a couple of Super AMOLED display panels and a Snapdragon 845 SoC. The Samsung W2019 comes as a successor to the W2018 flip phone.&lt;/p&gt;
+&lt;p&gt;மேலும் வெள்ளை நிறத்தை இரண்டாம் பட்ச நிறமாக பயன்படுத்த கூகுள் அறிவுறுத்தியது.&lt;/p&gt;</content><author><name>Mirshad Makeen</name></author><category term="google" /><summary type="html">Google has finally confirmed that dark mode on Android phones uses less power and saves battery life. They did this at this week’s Android Dev Summit, speaking to developers about what they can do in their apps to avoid consuming massive amounts of battery life.</summary></entry><entry><title type="html">Dual Displayயுடன் Samsung W2019 Flip Phone அறிமுகமானது!</title><link href="/samsungs-dual-display-phone-released" rel="alternate" type="text/html" title="Dual Displayயுடன் Samsung W2019 Flip Phone அறிமுகமானது!" /><published>2018-11-11T17:45:00+03:00</published><updated>2018-11-11T17:45:00+03:00</updated><id>/samsungs-dual-display-phone-released</id><content type="html" xml:base="/samsungs-dual-display-phone-released">&lt;p&gt;Samsung has officially unveiled the W2019 as its latest clamshell smartphone with all top-end specifications, including a couple of Super AMOLED display panels and a Snapdragon 845 SoC. The Samsung W2019 comes as a successor to the W2018 flip phone.&lt;/p&gt;
 
 &lt;p&gt;Samsung தனது புதிய மாடலான Samsung W2019 flip phoneனை சீனாவில் அறிமுகப்படுத்தி உள்ளது. தென்கொரிய தயாரிப்பு நிறுவனமான Samsung, சாங்காய் நகரில் W2019 flip phoneனை அறிமுகம் செய்துள்ளது. W2018 வெற்றியை தொடர்ந்து இந்த W2019 flip phone வெளியாகிள்ளது.&lt;/p&gt;
 
@@ -101,41 +26,7 @@
 
 &lt;p&gt;இந்த வருடத்தில் வெளிவந்த Galaxy S9 mobileலில் கொண்டிருந்த snapdragon varient போல, W2019 mobileலிலும் snapdragon 845 கொண்டிருக்கலாம் என தெரிகிறது. இந்த smartphoneனாது metal body கொண்டுள்ளது.&lt;/p&gt;
 
-&lt;p&gt;Samsung நிறுவனம் சீனாவில் தனது flip phoneனை அறிமுகப்படுத்தி இரண்டு ஆண்டுகள் ஆகிறது. முதல் flip mobileலானது கடந்த நவம்பர் 2016ல் snapdragon 820 கொண்டு அறிமுகப்படுத்தப்பட்டது. இதன் தொடர்ச்சியாக கடந்த ஆண்டு W2018 modelலை வெளியட்டது. இதுவரை இந்த smartphoneனின் விலை குறித்து எந்த தகவலும் வெளியாகவில்லை.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="mobiles" />
-      
-
-      
-        <summary type="html">Samsung has officially unveiled the W2019 as its latest clamshell smartphone with all top-end specifications, including a couple of Super AMOLED display panels and a Snapdragon 845 SoC. The Samsung W2019 comes as a successor to the W2018 flip phone.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">WhatsAppஇன் புதிய தொழிநுட்பம் “Number சேமிக்காமல்” Message அனுப்பலாம்!</title>
-      <link href="/send-whatsapp-message-without-saving-number" rel="alternate" type="text/html" title="WhatsAppஇன் புதிய தொழிநுட்பம் “Number சேமிக்காமல்” Message அனுப்பலாம்!" />
-      <published>2018-11-04T19:50:00+03:00</published>
-      <updated>2018-11-04T19:50:00+03:00</updated>
-      <id>/send-whatsapp-message-without-saving-number</id>
-      <content type="html" xml:base="/send-whatsapp-message-without-saving-number">&lt;p&gt;Do you know how to send WhatsApp message without saving number on Android? If not, you are at right place. WhatsApp has really changed the way we communicate and many people are more comfortable using WhatsApp than making a call or even sending an SMS.&lt;/p&gt;
+&lt;p&gt;Samsung நிறுவனம் சீனாவில் தனது flip phoneனை அறிமுகப்படுத்தி இரண்டு ஆண்டுகள் ஆகிறது. முதல் flip mobileலானது கடந்த நவம்பர் 2016ல் snapdragon 820 கொண்டு அறிமுகப்படுத்தப்பட்டது. இதன் தொடர்ச்சியாக கடந்த ஆண்டு W2018 modelலை வெளியட்டது. இதுவரை இந்த smartphoneனின் விலை குறித்து எந்த தகவலும் வெளியாகவில்லை.&lt;/p&gt;</content><author><name>Mirshad Makeen</name></author><category term="mobiles" /><summary type="html">Samsung has officially unveiled the W2019 as its latest clamshell smartphone with all top-end specifications, including a couple of Super AMOLED display panels and a Snapdragon 845 SoC. The Samsung W2019 comes as a successor to the W2018 flip phone.</summary></entry><entry><title type="html">WhatsAppஇன் புதிய தொழிநுட்பம் “Number சேமிக்காமல்” Message அனுப்பலாம்!</title><link href="/send-whatsapp-message-without-saving-number" rel="alternate" type="text/html" title="WhatsAppஇன் புதிய தொழிநுட்பம் “Number சேமிக்காமல்” Message அனுப்பலாம்!" /><published>2018-11-04T19:50:00+03:00</published><updated>2018-11-04T19:50:00+03:00</updated><id>/send-whatsapp-message-without-saving-number</id><content type="html" xml:base="/send-whatsapp-message-without-saving-number">&lt;p&gt;Do you know how to send WhatsApp message without saving number on Android? If not, you are at right place. WhatsApp has really changed the way we communicate and many people are more comfortable using WhatsApp than making a call or even sending an SMS.&lt;/p&gt;
 
 &lt;p&gt;Smartphone இல்லாதவர்கள் கூட இருக்கலாம். smartphoneனில் வாட்ஸ் அப் இல்லாதவர்கள் இருப்பது அரிதுதான். Messaging applicationகளில் முன்னணியில் இருக்கும் WhatsApp, பயனாளர்களின் வசதிக்கேற்ப அவ்வபோது வசதிகளை மேம்படுத்திக்கொண்டே இருக்கிறது.&lt;/p&gt;
 
@@ -155,41 +46,7 @@
   &lt;li&gt;திரையில் Message என்று பச்சை நிற button தோன்றும். அதை அழுத்தவும்.&lt;/li&gt;
   &lt;li&gt;தானாக WhatsApp திறந்து அந்த எண்ணுக்கு message அனுப்பும் பக்கத்திற்கு செல்லும்.&lt;/li&gt;
   &lt;li&gt;https://wa.me/WhatsAppNumber இந்த லிங்கையும் பயன்படுத்தி மெசேஜ் அனுப்பலாம். WhatsAppNumber என்பதற்கு பதில் எண்ணை டைப் செய்து மெசேஜ் அனுப்பலாம்.&lt;/li&gt;
-&lt;/ol&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="tips &amp; tricks" />
-      
-
-      
-        <summary type="html">Do you know how to send WhatsApp message without saving number on Android? If not, you are at right place. WhatsApp has really changed the way we communicate and many people are more comfortable using WhatsApp than making a call or even sending an SMS.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Google சான்றிதழ் பெற்ற Micromaxஸின் முதல் Android TV!</title>
-      <link href="/google-certified-android-tv-by-micromax" rel="alternate" type="text/html" title="Google சான்றிதழ் பெற்ற Micromaxஸின் முதல் Android TV!" />
-      <published>2018-11-03T12:50:00+03:00</published>
-      <updated>2018-11-03T12:50:00+03:00</updated>
-      <id>/google-certified-android-tv-by-micromax</id>
-      <content type="html" xml:base="/google-certified-android-tv-by-micromax">&lt;p&gt;Micromax Informatics on Friday launched its first Google-Certified Android TV in two variants,which has no name specifed. The 49-inch and 55-inch 4K UHD HDR10 TV, they have taken a step further in providing consumers with memorable and stunning picture-quality experience.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Mirshad Makeen</name></author><category term="tips &amp; tricks" /><summary type="html">Do you know how to send WhatsApp message without saving number on Android? If not, you are at right place. WhatsApp has really changed the way we communicate and many people are more comfortable using WhatsApp than making a call or even sending an SMS.</summary></entry><entry><title type="html">Google சான்றிதழ் பெற்ற Micromaxஸின் முதல் Android TV!</title><link href="/google-certified-android-tv-by-micromax" rel="alternate" type="text/html" title="Google சான்றிதழ் பெற்ற Micromaxஸின் முதல் Android TV!" /><published>2018-11-03T12:50:00+03:00</published><updated>2018-11-03T12:50:00+03:00</updated><id>/google-certified-android-tv-by-micromax</id><content type="html" xml:base="/google-certified-android-tv-by-micromax">&lt;p&gt;Micromax Informatics on Friday launched its first Google-Certified Android TV in two variants,which has no name specifed. The 49-inch and 55-inch 4K UHD HDR10 TV, they have taken a step further in providing consumers with memorable and stunning picture-quality experience.&lt;/p&gt;
 
 &lt;p&gt;Micromax Informatics நிறுவனம் வெள்ளியன்று google சான்றிதழ் பெற்ற அதன் முதல் android TVயை இரு variantகளில் அறிமுகம் செய்துள்ளது. ஆனால், அதற்கு பெயரிடவில்லை. முறையே, 49inch மற்றும் 59inch.&lt;/p&gt;
 
@@ -201,41 +58,7 @@
 
 &lt;p&gt;உள்கட்டமைக்கப்பட்ட ChromeCast மற்றும் MHL இணைப்பு, Voice Searchடன் Google Assistant மற்றும் Wireless Smartphone Controlலைக் கொண்டுள்ளது. micromax தங்களுடைய தனித்துவமான ஒலியமைப்பை கொண்டுள்ளதாக தெரிவித்துள்ளது. இந்த TVயில் 2*12w Speakers உள்ளன. மின் திறன் Eco Energy சான்றிதழை பெற்றிருப்பதாக Micromax கூறியுள்ளது.&lt;/p&gt;
 
-&lt;p&gt;Micromaxஸின் Adroid TV இந்த மாதம் முதல் சந்தையில் கிடைக்கும் என்று அறிவித்துள்ளது. இந்த வார தொடக்கத்தில் Micromax நிறுவனம் android 8.1 oreoவில் இயங்கும் இரு smartphoneகளை அறிமுகம் செய்தது.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="technology" />
-      
-
-      
-        <summary type="html">Micromax Informatics on Friday launched its first Google-Certified Android TV in two variants,which has no name specifed. The 49-inch and 55-inch 4K UHD HDR10 TV, they have taken a step further in providing consumers with memorable and stunning picture-quality experience.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Dual Display மற்றும் 8GB RAMமுடன் அறிமுகமானது Nubia X!</title>
-      <link href="/Nubia-X-With-Dual-Display-phone" rel="alternate" type="text/html" title="Dual Display மற்றும் 8GB RAMமுடன் அறிமுகமானது Nubia X!" />
-      <published>2018-11-02T05:50:00+03:00</published>
-      <updated>2018-11-02T05:50:00+03:00</updated>
-      <id>/Nubia-X-With-Dual-Display-phone</id>
-      <content type="html" xml:base="/Nubia-X-With-Dual-Display-phone">&lt;p&gt;ZTE sub-brand Nubia on Tuesday launched Nubia X as its latest flagship in China. The key highlight of the smartphone is the presence of 6.26-inch and 5.1-inch dual displays.&lt;/p&gt;
+&lt;p&gt;Micromaxஸின் Adroid TV இந்த மாதம் முதல் சந்தையில் கிடைக்கும் என்று அறிவித்துள்ளது. இந்த வார தொடக்கத்தில் Micromax நிறுவனம் android 8.1 oreoவில் இயங்கும் இரு smartphoneகளை அறிமுகம் செய்தது.&lt;/p&gt;</content><author><name>Mirshad Makeen</name></author><category term="technology" /><summary type="html">Micromax Informatics on Friday launched its first Google-Certified Android TV in two variants,which has no name specifed. The 49-inch and 55-inch 4K UHD HDR10 TV, they have taken a step further in providing consumers with memorable and stunning picture-quality experience.</summary></entry><entry><title type="html">Dual Display மற்றும் 8GB RAMமுடன் அறிமுகமானது Nubia X!</title><link href="/Nubia-X-With-Dual-Display-phone" rel="alternate" type="text/html" title="Dual Display மற்றும் 8GB RAMமுடன் அறிமுகமானது Nubia X!" /><published>2018-11-02T05:50:00+03:00</published><updated>2018-11-02T05:50:00+03:00</updated><id>/Nubia-X-With-Dual-Display-phone</id><content type="html" xml:base="/Nubia-X-With-Dual-Display-phone">&lt;p&gt;ZTE sub-brand Nubia on Tuesday launched Nubia X as its latest flagship in China. The key highlight of the smartphone is the presence of 6.26-inch and 5.1-inch dual displays.&lt;/p&gt;
 
 &lt;p&gt;ZTE நிறுவனத்தின் துணை நிறுவனமான Nubia, அதன் புதிய modelலான Nubia X phoneனை சீனாவில் அறிமுகப்படுத்தியது. இந்த Smartphoneனின் முக்கிய சிறப்பம்சமே அதன் 6.26inch கொண்ட மற்றும் 5.1inch கொண்ட Dual Display. இந்த smartphoneனின் மற்றொரு முக்கிய சிறப்பம்சம் Snapdragon 845, Dual Camera, மற்றும் 8GB RAM உட்பட பல உள்ளன. இதில் முன் பக்கம் camera இல்லை, notch displayயும் இல்லை. Dual Display இருப்பதால் பின் பக்க cameraவிலே selfie எடுத்துக்கொள்ளலாம். இந்த mobile நான்கு கலர்களில் கிடைக்கிறது.&lt;/p&gt;
 
@@ -246,41 +69,7 @@
 
 &lt;p&gt;Dual Sim bகொண்ட Nubia X Smartphoneனானது UI 6.0.2 சார்ந்தத android 8.1 oreoவில் இயங்குகிறது. 6.26inch HD Display, 19:9 Aspect ratio என்ற விகிதத்தில் Primary Display,Corning Gorilla Glass 3 பாதுகாப்பு, 96 சதவீதம் NTSC colour gamutடை கொண்டுள்ளது.&lt;/p&gt;
 
-&lt;p&gt;Nubia X 64bit Qualcomm SnapDragon 845 SoC-யில் இயங்குகிறது. Adreno 630 GPU உடன் இணைந்து 6GB மற்றும் 8GB LPDDR4X RAM வழங்குகிறது. இந்த SMartphoneனில் இரட்டை Camera உள்ளது. Nubia X 64GB,128GB மற்றும் 256GB Storage வசதிகளுடன் வடிவமைக்கப்பட்டுள்ளது.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="mobiles" />
-      
-
-      
-        <summary type="html">ZTE sub-brand Nubia on Tuesday launched Nubia X as its latest flagship in China. The key highlight of the smartphone is the presence of 6.26-inch and 5.1-inch dual displays.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">13.3 inch retina displayயுடன் அறிமுகமானது MacBook Air 2018</title>
-      <link href="/macbook-air-price-in-srilanka-2018-specifications-features-release-date-news" rel="alternate" type="text/html" title="13.3 inch retina displayயுடன் அறிமுகமானது MacBook Air 2018" />
-      <published>2018-10-31T13:40:00+03:00</published>
-      <updated>2018-10-31T13:40:00+03:00</updated>
-      <id>/macbook-air-price-in-srilanka-2018-specifications-features-release-date-news</id>
-      <content type="html" xml:base="/macbook-air-price-in-srilanka-2018-specifications-features-release-date-news">&lt;p&gt;Apple’s New York event on last Tuesday saw the launch of the new MacBook Air, which hadn’t seen a refresh in design since 2010, with the last spec-bump announced at last year’s WWDC.&lt;/p&gt;
+&lt;p&gt;Nubia X 64bit Qualcomm SnapDragon 845 SoC-யில் இயங்குகிறது. Adreno 630 GPU உடன் இணைந்து 6GB மற்றும் 8GB LPDDR4X RAM வழங்குகிறது. இந்த SMartphoneனில் இரட்டை Camera உள்ளது. Nubia X 64GB,128GB மற்றும் 256GB Storage வசதிகளுடன் வடிவமைக்கப்பட்டுள்ளது.&lt;/p&gt;</content><author><name>Mirshad Makeen</name></author><category term="mobiles" /><summary type="html">ZTE sub-brand Nubia on Tuesday launched Nubia X as its latest flagship in China. The key highlight of the smartphone is the presence of 6.26-inch and 5.1-inch dual displays.</summary></entry><entry><title type="html">13.3 inch retina displayயுடன் அறிமுகமானது MacBook Air 2018</title><link href="/macbook-air-price-in-srilanka-2018-specifications-features-release-date-news" rel="alternate" type="text/html" title="13.3 inch retina displayயுடன் அறிமுகமானது MacBook Air 2018" /><published>2018-10-31T13:40:00+03:00</published><updated>2018-10-31T13:40:00+03:00</updated><id>/macbook-air-price-in-srilanka-2018-specifications-features-release-date-news</id><content type="html" xml:base="/macbook-air-price-in-srilanka-2018-specifications-features-release-date-news">&lt;p&gt;Apple’s New York event on last Tuesday saw the launch of the new MacBook Air, which hadn’t seen a refresh in design since 2010, with the last spec-bump announced at last year’s WWDC.&lt;/p&gt;
 
 &lt;p&gt;Apple, New York நகரில் நடைபெற்ற நிகழ்வில் தனது புதிய MacBook Air Laptopபை அறிமுகப்படுத்தியது. கடந்த 2010ல் வெளியிடப்பட்ட MacBook Air அப்போதிலிருந்து எந்த மாற்றமும் இல்லாமல் வெளியாகி வந்தது. இந்தநிலையில் தற்போது புதிய MacBook Air Retina Display, Touch ID, Image SIgnal உள்ளிட்ட பல்வேறு சிறப்பம்ச்சங்களுடன் அறிமுகமாகியுள்ளது.&lt;/p&gt;
 
@@ -292,122 +81,20 @@
 
 &lt;p&gt;புதிய MacBook Air ஆனது Backlit Keyboard கொண்டுள்ளது. இது ஒவ்வொரு பொத்தான்களுக்கும் பின்னால் தனித்தனி light கொண்டுள்ளது. முந்தைய modelகளை விட பெரிய Force Touch Trackpad வழங்கப்பட்டுள்ளது. மேலும், இதில் 13.3 inch Retina Display (2560x1600 Pixels) 16:10 Aspect Ratio கொண்டுள்ளது. இது 48 சதவீதம் அதிக Color தருகிறது. முந்தைய modelகலை விட 50 சதவீதம் மெல்லிதாக உள்ளது.&lt;/p&gt;
 
-&lt;p&gt;இதன் displayயில் 720P Face Time HD Camera உள்ளது. 3.5mm Headphone Jack கொண்டுள்ளது. Wi-Fi 802 11 AC மற்றும் Bluetooth v4.2 கொண்டுள்ளது. 50.3Wh திறன் கொண்டு ஒரு நாள் Battery Backup நீடிக்கிறது. முந்தைய modelலை விட 10 சதவிகிதம் சிறியதாகவும், 15.6mm தடிமனாகவும், 1.25KG எடை கொண்டுள்ளது.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="apple" />
-      
-
-      
-        <summary type="html">Apple’s New York event on last Tuesday saw the launch of the new MacBook Air, which hadn’t seen a refresh in design since 2010, with the last spec-bump announced at last year’s WWDC.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Galaxy S10இல் புது முயற்ச்சியுடன் களம் இறங்குகிறது Samsung நிறுவனம்.</title>
-      <link href="/samsung-about-to-launch-its-galaxy-s10" rel="alternate" type="text/html" title="Galaxy S10இல் புது முயற்ச்சியுடன் களம் இறங்குகிறது Samsung நிறுவனம்." />
-      <published>2018-10-27T19:40:00+03:00</published>
-      <updated>2018-10-27T19:40:00+03:00</updated>
-      <id>/samsung-about-to-launch-its-galaxy-s10</id>
-      <content type="html" xml:base="/samsung-about-to-launch-its-galaxy-s10">&lt;p&gt;Samsung developing its new trio of Galaxy S10 models. One of those models is reported to be launching as a 5G version in the United States.&lt;/p&gt;
+&lt;p&gt;இதன் displayயில் 720P Face Time HD Camera உள்ளது. 3.5mm Headphone Jack கொண்டுள்ளது. Wi-Fi 802 11 AC மற்றும் Bluetooth v4.2 கொண்டுள்ளது. 50.3Wh திறன் கொண்டு ஒரு நாள் Battery Backup நீடிக்கிறது. முந்தைய modelலை விட 10 சதவிகிதம் சிறியதாகவும், 15.6mm தடிமனாகவும், 1.25KG எடை கொண்டுள்ளது.&lt;/p&gt;</content><author><name>Mirshad Makeen</name></author><category term="apple" /><summary type="html">Apple’s New York event on last Tuesday saw the launch of the new MacBook Air, which hadn’t seen a refresh in design since 2010, with the last spec-bump announced at last year’s WWDC.</summary></entry><entry><title type="html">Galaxy S10இல் புது முயற்ச்சியுடன் களம் இறங்குகிறது Samsung நிறுவனம்.</title><link href="/samsung-about-to-launch-its-galaxy-s10" rel="alternate" type="text/html" title="Galaxy S10இல் புது முயற்ச்சியுடன் களம் இறங்குகிறது Samsung நிறுவனம்." /><published>2018-10-27T19:40:00+03:00</published><updated>2018-10-27T19:40:00+03:00</updated><id>/samsung-about-to-launch-its-galaxy-s10</id><content type="html" xml:base="/samsung-about-to-launch-its-galaxy-s10">&lt;p&gt;Samsung developing its new trio of Galaxy S10 models. One of those models is reported to be launching as a 5G version in the United States.&lt;/p&gt;
 
 &lt;p&gt;அண்மையில் CNETஇனில் வெளியிடப்பட்ட பதிவு ஒன்றில், Korea வில் உட்பத்தி செய்யப்படும் Samsung Phonesகளின் அடுத்த கட்டமாக Galaxy S10இன் மூன்று தரத்தில் modelகலை அறிமுகப்படுத்தவுள்ளது.&lt;/p&gt;
 
 &lt;p&gt;முதற்கட்டமாக Galaxy S10 5G Standard versionஇனை United Statesஇல் வெளியிட போவதாக குறிப்பிட்டுள்ளனர். இதனைப்பற்றி அதிக தகவல் கசியாத போதிலும் இதில் எதிர்பார்க்கப்படும் featuresகளை பல இணைய தளங்கள் வெளியிட்டுள்ளன. அதில் Curve வடிவில் ஆன S9 மாதிரியை கொண்ட 5.8 inch OLED Screen, Fingerprint sensorஇல் மாற்றங்கள்(On screen sensors), இது iPhone XSஇற்கு ஒற்றதாக இருக்கும் என குறிப்பிடப்பட்டுள்ளது.&lt;/p&gt;
 
-&lt;p&gt;Samsung S10 Plus என ஒரு பெரிய screen கொண்ட versionனையும் வெளியிடப்போவதாக தகவல்கள் கசிந்துள்ளது. இதில் Samsung  Budgeted version ஒன்றையும் வெளியிட தீர்மானங்கள் எடுக்கப்பட்டுள்ளது. ஆனால் இதில் curve screen எதிர் பார்க்க முடியாது.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="mobiles" />
-      
-
-      
-        <summary type="html">Samsung developing its new trio of Galaxy S10 models. One of those models is reported to be launching as a 5G version in the United States.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Microsoft அறிமுகப்படுத்தும் Power Bat அனலிட்டிக்ஸ்!</title>
-      <link href="/Cricket-Star-Anil-Kumble-Unveil-PowerBat-for-New-Analytics" rel="alternate" type="text/html" title="Microsoft அறிமுகப்படுத்தும் Power Bat அனலிட்டிக்ஸ்!" />
-      <published>2018-10-26T09:40:00+03:00</published>
-      <updated>2018-10-26T09:40:00+03:00</updated>
-      <id>/Cricket-Star-Anil-Kumble-Unveil-PowerBat-for-New-Analytics</id>
-      <content type="html" xml:base="/Cricket-Star-Anil-Kumble-Unveil-PowerBat-for-New-Analytics">&lt;p&gt;Microsoft and former Indian cricket captain Anil Kumble have developed a tech-enabled cricket bat that can provide more batting data to players and fans.&lt;/p&gt;
+&lt;p&gt;Samsung S10 Plus என ஒரு பெரிய screen கொண்ட versionனையும் வெளியிடப்போவதாக தகவல்கள் கசிந்துள்ளது. இதில் Samsung  Budgeted version ஒன்றையும் வெளியிட தீர்மானங்கள் எடுக்கப்பட்டுள்ளது. ஆனால் இதில் curve screen எதிர் பார்க்க முடியாது.&lt;/p&gt;</content><author><name>Mirshad Makeen</name></author><category term="mobiles" /><summary type="html">Samsung developing its new trio of Galaxy S10 models. One of those models is reported to be launching as a 5G version in the United States.</summary></entry><entry><title type="html">Microsoft அறிமுகப்படுத்தும் Power Bat அனலிட்டிக்ஸ்!</title><link href="/Cricket-Star-Anil-Kumble-Unveil-PowerBat-for-New-Analytics" rel="alternate" type="text/html" title="Microsoft அறிமுகப்படுத்தும் Power Bat அனலிட்டிக்ஸ்!" /><published>2018-10-26T09:40:00+03:00</published><updated>2018-10-26T09:40:00+03:00</updated><id>/Cricket-Star-Anil-Kumble-Unveil-PowerBat-for-New-Analytics</id><content type="html" xml:base="/Cricket-Star-Anil-Kumble-Unveil-PowerBat-for-New-Analytics">&lt;p&gt;Microsoft and former Indian cricket captain Anil Kumble have developed a tech-enabled cricket bat that can provide more batting data to players and fans.&lt;/p&gt;
 
 &lt;p&gt;Microsoft மற்றும் முன்னால் இந்திய cricket வீரர் Anil Kumble இணைந்து வழங்கும் tech-enabled கிரிக்கெட் bat சந்தைக்கு அறிமுகமாகிறது.
 The Power Bat என அழைக்கப்படும் இந்த சாதனம் வெறும் ஒரு சிறிய சதுர வடிவில் ஆன IoT-enabled ஸ்டிக்கர் Batஇன் மேலால் ஒட்டப்பட்டு காணப்படும். இது வேகம் மற்றும் தாக்கத்தை திருப்பம் (velocity and twist on impact)போன்றவற்றை மிகவும் துல்லியமாக காண்பிக்கும்.&lt;/p&gt;
 
 &lt;p&gt;இந்த ஸ்டிக்கர் ஆனது Microsoftஇன் Azure Sphere எனும் OS இனால் program செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. இது live matches நடைபெறும் போது பேட்டிங் ஷாட்ஸ்கலை 99.9% துல்லியமான முறையில் தகவல்களை readable formatஇல் Mobile Appஇல் மூலமாகவே பார்க்க கூடியதாக இருக்கும்.&lt;/p&gt;
 
-&lt;p&gt;இந்த ஸ்டிக்கரை எந்த ஒரு Batஇனிலும் பயன்படுத்தலாம்.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Artificial intelligence" />
-      
-
-      
-        <summary type="html">Microsoft and former Indian cricket captain Anil Kumble have developed a tech-enabled cricket bat that can provide more batting data to players and fans.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Ebayவில் சர்வதேச அளவில் பொருட்களை விற்க அனுமதி!</title>
-      <link href="/ebay-allowed-in-sale-from-srilanka" rel="alternate" type="text/html" title="Ebayவில் சர்வதேச அளவில் பொருட்களை விற்க அனுமதி!" />
-      <published>2018-10-24T09:40:00+03:00</published>
-      <updated>2018-10-24T09:40:00+03:00</updated>
-      <id>/ebay-allowed-in-sale-from-srilanka</id>
-      <content type="html" xml:base="/ebay-allowed-in-sale-from-srilanka">&lt;p&gt;The Finance and Mass Media Ministry announced that the Sri Lankans now can sell their products to overseas customers through e-commerce platforms such as eBay.&lt;/p&gt;
+&lt;p&gt;இந்த ஸ்டிக்கரை எந்த ஒரு Batஇனிலும் பயன்படுத்தலாம்.&lt;/p&gt;</content><author><name>Mirshad Makeen</name></author><category term="Artificial intelligence" /><summary type="html">Microsoft and former Indian cricket captain Anil Kumble have developed a tech-enabled cricket bat that can provide more batting data to players and fans.</summary></entry><entry><title type="html">Ebayவில் சர்வதேச அளவில் பொருட்களை விற்க அனுமதி!</title><link href="/ebay-allowed-in-sale-from-srilanka" rel="alternate" type="text/html" title="Ebayவில் சர்வதேச அளவில் பொருட்களை விற்க அனுமதி!" /><published>2018-10-24T09:40:00+03:00</published><updated>2018-10-24T09:40:00+03:00</updated><id>/ebay-allowed-in-sale-from-srilanka</id><content type="html" xml:base="/ebay-allowed-in-sale-from-srilanka">&lt;p&gt;The Finance and Mass Media Ministry announced that the Sri Lankans now can sell their products to overseas customers through e-commerce platforms such as eBay.&lt;/p&gt;
 
 &lt;p&gt;அதிக காலமாக சமூக வளையதளங்களான facebook மற்றும் ஏனையவைகளில் பரவலாக விவாதிக்கப்பட்ட ஒரு விடயமே Ebay, ஆம் இப்போது நீங்கள் Ebay மூலமாக உங்கள் பொருட்கள் மற்றும் சேவைகளை விற்க முடியும். இந்த விடயம் பற்றி ஒரு குறுகிய தகவலை techlanka.lk உங்களுக்கு தொகுத்து வழங்குகின்றது.&lt;/p&gt;
 
@@ -419,41 +106,7 @@ The Power Bat என அழைக்கப்படும் இந்த சா
 
 &lt;p&gt;E-commerce என்று வந்து விட்டாலே வெறும் Ebay மாத்திரமே என்று நினைத்து விடக்கூடாது.இது online மூலமாக இடம்பெறும் அனைத்து பரிவர்த்தனைகளுக்கும் பொறுந்தும்.&lt;/p&gt;
 
-&lt;p&gt;இவை அனைத்தும் ஒரு பக்கம் இருக்க, Paypal சேவையின் மூலமாக பணம் பெரும் கட்டுப்பாட்டில் எந்தவித மாற்றமும் ஏட்படவில்லை, Paypal மற்றும் Ebay இடையில் எந்தவித சம்பந்தமும் இல்லை என்பது குறிப்பிடத்தக்கது.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="business" />
-      
-
-      
-        <summary type="html">The Finance and Mass Media Ministry announced that the Sri Lankans now can sell their products to overseas customers through e-commerce platforms such as eBay.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">அதிக சக்தி கொண்ட Microsoft Xbox One X PlayStation, ஒரு கண்ணோட்டம்!</title>
-      <link href="/microsoft-xbox-one-x-review-full-power" rel="alternate" type="text/html" title="அதிக சக்தி கொண்ட Microsoft Xbox One X PlayStation, ஒரு கண்ணோட்டம்!" />
-      <published>2018-10-20T06:20:00+03:00</published>
-      <updated>2018-10-20T06:20:00+03:00</updated>
-      <id>/microsoft-xbox-one-x-review-full-power</id>
-      <content type="html" xml:base="/microsoft-xbox-one-x-review-full-power">&lt;p&gt;The world’s most powerful console with 40% more power than any other console, experience immersive true 4K gaming. Games play better on Xbox One X.&lt;/p&gt;
+&lt;p&gt;இவை அனைத்தும் ஒரு பக்கம் இருக்க, Paypal சேவையின் மூலமாக பணம் பெரும் கட்டுப்பாட்டில் எந்தவித மாற்றமும் ஏட்படவில்லை, Paypal மற்றும் Ebay இடையில் எந்தவித சம்பந்தமும் இல்லை என்பது குறிப்பிடத்தக்கது.&lt;/p&gt;</content><author><name>Mirshad Makeen</name></author><category term="business" /><summary type="html">The Finance and Mass Media Ministry announced that the Sri Lankans now can sell their products to overseas customers through e-commerce platforms such as eBay.</summary></entry><entry><title type="html">அதிக சக்தி கொண்ட Microsoft Xbox One X PlayStation, ஒரு கண்ணோட்டம்!</title><link href="/microsoft-xbox-one-x-review-full-power" rel="alternate" type="text/html" title="அதிக சக்தி கொண்ட Microsoft Xbox One X PlayStation, ஒரு கண்ணோட்டம்!" /><published>2018-10-20T06:20:00+03:00</published><updated>2018-10-20T06:20:00+03:00</updated><id>/microsoft-xbox-one-x-review-full-power</id><content type="html" xml:base="/microsoft-xbox-one-x-review-full-power">&lt;p&gt;The world’s most powerful console with 40% more power than any other console, experience immersive true 4K gaming. Games play better on Xbox One X.&lt;/p&gt;
 
 &lt;p&gt;Microsoft நிறுவனத்தின் Xbox One X PlayStation கடந்த 2017ம் ஆண்டு நவம்பரில் அமெரிக்காவில் அறிமுகம் செய்யப்பட்டது. இதற்கு முந்தை Microsoft Xbox One X modelலை விட இதன் Hardwareரில் பல சிறப்பம்சங்கள் சேர்க்கப்பட்டுள்ளது. அதனால் இது வேகமாக அதிக சக்தியுடன் செயலபடக் கூடியதாகும்.&lt;/p&gt;
 
@@ -465,32 +118,4 @@ The Power Bat என அழைக்கப்படும் இந்த சா
 
 &lt;p&gt;Microsoft நிச்சயம் மிருகபலம் கொண்ட ஒரு சக்தியை சிறிய வடிவத்தில் உருவாக்கியிருக்கும். எனினும் Xboxக்கு என்று பிரேத்யேக திறன்களை ஏற்படுத்த அது நீண்ட தூரம் செல்ல வேண்டியிருக்கும். Sony குறைந்த சக்தியை கொண்டது. எனினும் இது போன்ற காரணத்தால் Microsoftடை அது எளிதில் வீழ்த்திவிடும். Xbox One X என்பது அதிக சக்தி கொண்டது. சிறந்த திறன், 4K gameகளை விளையாடக் கூடிய திறன் கொண்டதாகும்.&lt;/p&gt;
 
-&lt;p&gt;இதன் விலை LKR ரூ.85,990 ஆகும். இது PlayStation Proவை விட அதிகம். எனினும் இது உயர் திறன் கொண்டது. வாடிக்கையாளர்கள் எளிதில் அணுகும் வகையில் பிரத்யேக பிரான்சிஸிகளை ஏற்படுத்தியுள்ளது. இந்த விஷயத்தில் Sony ராஜாவாக இருந்தாலும், ராஜா தன்னை பலம் கொண்டவன் என்று நிரூபிக்க சில விஷயங்கள் இருக்க வேண்டியது அவசியம்.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Mirshad Makeen</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="gaming" />
-      
-
-      
-        <summary type="html">The world’s most powerful console with 40% more power than any other console, experience immersive true 4K gaming. Games play better on Xbox One X.</summary>
-      
-
-      
-      
-    </entry>
-  
-</feed>
+&lt;p&gt;இதன் விலை LKR ரூ.85,990 ஆகும். இது PlayStation Proவை விட அதிகம். எனினும் இது உயர் திறன் கொண்டது. வாடிக்கையாளர்கள் எளிதில் அணுகும் வகையில் பிரத்யேக பிரான்சிஸிகளை ஏற்படுத்தியுள்ளது. இந்த விஷயத்தில் Sony ராஜாவாக இருந்தாலும், ராஜா தன்னை பலம் கொண்டவன் என்று நிரூபிக்க சில விஷயங்கள் இருக்க வேண்டியது அவசியம்.&lt;/p&gt;</content><author><name>Mirshad Makeen</name></author><category term="gaming" /><summary type="html">The world’s most powerful console with 40% more power than any other console, experience immersive true 4K gaming. Games play better on Xbox One X.</summary></entry></feed>

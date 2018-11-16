@@ -23,6 +23,7 @@ google_analytics: UA-109601699-2
 permalink: "/:title"
 plugins:
 - jekyll-paginate
+- jekyll-feed
 - jekyll-sitemap
 - jekyll-seo-tag
 - jemoji
