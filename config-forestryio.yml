@@ -1,0 +1,55 @@
+---
+markdown: kramdown
+highlighter: rouge
+paginate: 50
+language: en-uk
+baseurl: "/"
+title: techlanka.lk | தமிழில் தொழிநுட்ப செய்திகள்
+description: Latest Technology based news in Tamil
+cover: assets/images/blog-cover-3.jpg
+logo: assets/images/logo3.png
+logo_dark: assets/images/favicon1.png
+favicon: assets/images/favicon1.png
+production_url: https://techlanka.lk/
+source_url: https://github.com/techlanka/blog/
+navigation: true
+subscribers: true
+twitter: techlanka_lk
+facebook: techlanka
+instagram: techlanka
+disqus: false
+disqus_shortname: techlanka-github-io
+google_analytics: UA-109601699-2
+permalink: "/:title"
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-seo-tag
+- jemoji
+feed:
+  path: feed.xml
+safe: false
+lsi: false
+username: techlanka
+repo: blog
+branch: master
+relative_source: "../techlanka/"
+destination: "../gh-pages/"
+exclude:
+- assets/css
+- node_modules
+- vendor
+- ".travis.yml"
+- Gemfile
+- Gemfile.lock
+- GHOST.txt
+- gulpfile.js
+- LICENSE
+- package.json
+- Rakefile
+- README.md
+- script.py
+- changelog.md
+- "*.Rmd"
+- ".git*"
+timezone: Asia/Kuwait
