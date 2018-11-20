@@ -80,40 +80,39 @@ To protect against legal liability
 <h2 id="">Security Of Data</h2>
 The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
-****Service Providers****
+<h2 id="">Service Providers</h2>
 We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-*****Analytics*****
+<h3 id="">Analytics</h3>
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-******Google Analytics -******
+<h4 id="">Google Analytics -</h4>
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
-******Firebase -****** 
+<h4 id="">Firebase -</h4>
 Firebase is analytics service provided by Google Inc. You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=enWe also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245. For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
 
 
-****Links To Other Sites****
+<h2 id="">Links To Other Sites</h2>
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-
-****Children's Privacy****
+<h2 id="">Children's Privacy</h2>
 Our Service does not address anyone under the age of 13 ("Children").
 
 We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
 
-****Changes To This Privacy Policy****
+<h2 id="">Changes To This Privacy Policy</h2>
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and update the "Last Updated" at the bottom of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-*****Contact Us*****
+<h3 id="">Contact Us</h3>
 If you have any questions about this Privacy Policy, please contact us:
 
 By email: info@techlanka.lk
 
-*******Last Updated: 20/11/2018
+*Last Updated: 20/11/2018*
