@@ -19,9 +19,9 @@ We use your data to provide and improve the Service. By using the Service, you a
 <h2 id="informationcollectionanduse">Information Collection And Use</h2>
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
-****Types of Data Collected****
+<h2 id="typesofdatacollected">Types of Data Collected</h2>
 
-*****Personal Data*****
+<h3 id="personal">Personal Data</h3>
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
 ****Cookies and Usage Data****
