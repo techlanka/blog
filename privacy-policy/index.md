@@ -16,7 +16,7 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-****Information Collection And Use****
+<h1 Information Collection And Use </h1>
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
 ****Types of Data Collected****
