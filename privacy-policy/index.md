@@ -33,14 +33,14 @@ This Usage Data may include information such as your computer's Internet Protoco
 
 When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
 
-*****Tracking & Cookies Data*****
+<h6 id="">Tracking & Cookies Data</h6>
 We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
 Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
 You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-******Examples of Cookies we use:******
+*Examples of Cookies we use:*
 
 Session Cookies - We use Session Cookies to operate our Service.
 Preference Cookies - We use Preference Cookies to remember your preferences and various settings.
