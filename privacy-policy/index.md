@@ -40,8 +40,7 @@ Cookies are files with small amount of data which may include an anonymous uniqu
 
 You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-*Examples of Cookies we use:*
-
+**Examples of Cookies we use:**
 Session Cookies - We use Session Cookies to operate our Service.
 Preference Cookies - We use Preference Cookies to remember your preferences and various settings.
 Security Cookies - We use Security Cookies for security purposes.
@@ -82,7 +81,6 @@ The security of your data is important to us, but remember that no method of tra
 
 <h2 id="">Service Providers</h2>
 We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
-
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
 <h3 id="">Analytics</h3>
