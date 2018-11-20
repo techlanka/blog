@@ -46,7 +46,7 @@ Session Cookies - We use Session Cookies to operate our Service.
 Preference Cookies - We use Preference Cookies to remember your preferences and various settings.
 Security Cookies - We use Security Cookies for security purposes.
 
-****Use of Data****
+<h2 id="">Use of Data</h2>
 Techlanka Solutions uses the collected data for various purposes:
 
 To provide and maintain the Service
