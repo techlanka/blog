@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-#######Effective date: November 20, 2018
+*Effective date: November 20, 2018*
 
 Techlanka Solutions ("us", "we", or "our") operates the techlanka.lk and gadgetlanka.com website and the Tech Tamil, LK Updates Android Applications.
 
