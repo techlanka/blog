@@ -58,11 +58,8 @@ To detect, prevent and address technical issues
 
 <h2 id="">Transfer Of Data</h2>
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
-
 If you are located outside Sri Lanka and choose to provide information to us, please note that we transfer the data, including Personal Data, to Sri Lanka and process it there.
-
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
 Techlanka Solutions will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 <h2 id="">Disclosure Of Data</h2>
@@ -70,11 +67,11 @@ Techlanka Solutions will take all steps reasonably necessary to ensure that your
 <h3 id="">Legal Requirements</h3>
 Techlanka Solutions may disclose your Personal Data in the good faith belief that such action is necessary to:
 
-To comply with a legal obligation
-To protect and defend the rights or property of Techlanka Solutions
-To prevent or investigate possible wrongdoing in connection with the Service
-To protect the personal safety of users of the Service or the public
-To protect against legal liability
+**+**To comply with a legal obligation
+**+**To protect and defend the rights or property of Techlanka Solutions
+**+**To prevent or investigate possible wrongdoing in connection with the Service
+**+**To protect the personal safety of users of the Service or the public
+**+**To protect against legal liability
 
 <h2 id="">Security Of Data</h2>
 The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
