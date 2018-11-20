@@ -24,9 +24,9 @@ We collect several different types of information for various purposes to provid
 <h3 id="personal">Personal Data</h3>
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-****Cookies and Usage Data****
+<h3 id="">Cookies and Usage Data</h3>
 
-*****Usage Data*****
+<h6 id="">Usage Data</h6>
 We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
 
 This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
