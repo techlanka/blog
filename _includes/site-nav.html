@@ -26,8 +26,8 @@
     <div class="site-nav-right">
         <div class="social-links">
             {% if site.subscribers %}
-                <a class="social-link social-link-app" href="https://play.google.com/store/apps/details?id=com.lk.updates&hl=en" target="_blank" rel="noopener">{% include android.html %}
-                </a>
+             <a {{#ember-tooltip class="social-link social-link-app" href="https://play.google.com/store/apps/details?id=com.lk.updates&hl=en" target="_blank" rel="noopener">{% include android.html %}
+                {{/ember-tooltip}}</a>
             {% endif %}
             {% if site.facebook %}
                 <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
