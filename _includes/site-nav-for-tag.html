@@ -25,6 +25,10 @@
      <div
           class="site-nav-right">
           {% if site.subscribers %}
+                <a class="social-link social-link-app" href="https://play.google.com/store/apps/details?id=com.lk.updates&hl=en" target="_blank" rel="noopener">{% include android.html %}
+                </a>
+            {% endif %}
+          {% if site.subscribers %}
         <a class="social-link social-link-rss" href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ftechlanka.lk%2Ffeed.xml" target="_blank" rel="noopener">{% include rss.html %}
         </a>
         {% endif %}
