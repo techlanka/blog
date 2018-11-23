@@ -2,13 +2,13 @@
      <div class="site-nav-left">
                   <div class="social-links">
         {% if site.facebook %}
-                <a class="social-link social-link-fb" href="{{ site.baseurl }}">{% include homesvg.html %}</a>
+                <a class="social-link social-link-fb" title="Home" href="{{ site.baseurl }}">{% include homesvg.html %}</a>
             {% endif %}
              {% if site.facebook %}
-          <a class="social-link social-link-fb" href="{{ site.baseurl }}about/">{% include aboutsvg.html %}</a>
+          <a class="social-link social-link-fb" title="About Us" href="{{ site.baseurl }}about/">{% include aboutsvg.html %}</a>
             {% endif %}
              {% if site.facebook %}
-          <a class="social-link social-link-fb" href="{{ site.baseurl }}become-an-author/">{% include authorsvg.html %}</a>
+          <a class="social-link social-link-fb" title="Become an Author" href="{{ site.baseurl }}become-an-author/">{% include authorsvg.html %}</a>
             {% endif %}
              </div>
         {% if page.current != 'home' %}
