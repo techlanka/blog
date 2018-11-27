@@ -3,7 +3,7 @@ published: true
 layout: post
 current: post
 cover: assets/images/nasa-insight.jpg
-date: '2018-11-26 19:12:00 +0000'
+date: '2018-11-27 11:12:00 +0000'
 navigation: true
 tags: technology
 class: post-template
