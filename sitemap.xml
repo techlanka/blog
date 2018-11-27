@@ -141,10 +141,11 @@
 <lastmod>2018-11-11T22:45:00+03:00</lastmod>
 </url>
 <url>
-<loc>/</loc>
+<loc>/nasa-insight-craft-lands-on-mars-to-go-where-no-man-has-ever-gone</loc>
+<lastmod>2018-11-27T14:12:00+03:00</lastmod>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>/</loc>
 </url>
 <url>
 <loc>/privacy-policy/</loc>
@@ -156,10 +157,7 @@
 <loc>/become-an-author/</loc>
 </url>
 <url>
-<loc>/author/mirshad/</loc>
-</url>
-<url>
-<loc>/author/imran/</loc>
+<loc>/about/</loc>
 </url>
 <url>
 <loc>/tag/artificial-intelligence/</loc>
@@ -196,5 +194,11 @@
 </url>
 <url>
 <loc>/tag/technology/</loc>
+</url>
+<url>
+<loc>/author/mirshad/</loc>
+</url>
+<url>
+<loc>/author/imran/</loc>
 </url>
 </urlset>
