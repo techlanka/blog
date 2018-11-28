@@ -7,7 +7,7 @@ date: '2018-11-27 11:12:00 +0000'
 navigation: true
 tags: technology
 class: post-template
-author: mirshad
+author: imas
 title: செவ்வாய் கிரகத்தில் தடம் பதித்த நாசாவின் Insight!
 --- 
 NASA's InSight lander touched down safely on the Martian surface today (Nov. 26), pulling off the first successful Red Planet landing.
