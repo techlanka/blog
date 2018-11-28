@@ -2,13 +2,13 @@
      <div class="site-nav-left">
                   <div class="social-links">
         {% if site.facebook %}
-                <a class="social-link social-link-fb" href="{{ site.baseurl }}">{% include homesvg.html %}</a>
+                <a class="social-link social-link-fb" title="Home" href="{{ site.baseurl }}">{% include homesvg.html %}</a>
             {% endif %}
              {% if site.facebook %}
-          <a class="social-link social-link-fb" href="{{ site.baseurl }}about/">{% include aboutsvg.html %}</a>
+          <a class="social-link social-link-fb" title="About Us" href="{{ site.baseurl }}about/">{% include aboutsvg.html %}</a>
             {% endif %}
              {% if site.facebook %}
-          <a class="social-link social-link-fb" href="{{ site.baseurl }}become-an-author/">{% include authorsvg.html %}</a>
+          <a class="social-link social-link-fb" title="Become an Author" href="{{ site.baseurl }}become-an-author/">{% include authorsvg.html %}</a>
             {% endif %}
              </div>
         {% if page.current != 'home' %}
@@ -25,11 +25,11 @@
      <div
           class="site-nav-right">
           {% if site.subscribers %}
-                <a class="social-link social-link-app" href="https://play.google.com/store/apps/details?id=com.lk.updates&hl=en" target="_blank" rel="noopener">{% include android.html %}
+                <a class="social-link social-link-app" title="Get the Android App" href="https://play.google.com/store/apps/details?id=com.lk.updates&hl=en" target="_blank" rel="noopener">{% include android.html %}
                 </a>
             {% endif %}
           {% if site.subscribers %}
-        <a class="social-link social-link-rss" href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ftechlanka.lk%2Ffeed.xml" target="_blank" rel="noopener">{% include rss.html %}
+        <a class="social-link social-link-rss" title="Subscribe to RSS Feed" href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ftechlanka.lk%2Ffeed.xml" target="_blank" rel="noopener">{% include rss.html %}
         </a>
         {% endif %}
     </div>
