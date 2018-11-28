@@ -148,9 +148,6 @@
 <loc>/</loc>
 </url>
 <url>
-<loc>/about/</loc>
-</url>
-<url>
 <loc>/privacy-policy/</loc>
 </url>
 <url>
@@ -160,10 +157,7 @@
 <loc>/become-an-author/</loc>
 </url>
 <url>
-<loc>/author/mirshad/</loc>
-</url>
-<url>
-<loc>/author/imran/</loc>
+<loc>/about/</loc>
 </url>
 <url>
 <loc>/tag/artificial-intelligence/</loc>
@@ -200,5 +194,11 @@
 </url>
 <url>
 <loc>/tag/technology/</loc>
+</url>
+<url>
+<loc>/author/mirshad/</loc>
+</url>
+<url>
+<loc>/author/imran/</loc>
 </url>
 </urlset>
