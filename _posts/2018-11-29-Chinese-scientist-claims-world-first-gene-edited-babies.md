@@ -2,7 +2,7 @@
 published: true
 layout: post
 current: post
-cover: assets/images/chinese-genetic.jpeg
+cover: assets/images/chinese-genetic.jpg
 date: '2018-11-29 08:50:00 +0000'
 navigation: true
 tags: science
