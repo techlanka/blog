@@ -3,9 +3,9 @@ published: true
 layout: post
 current: post
 cover: assets/images/lg-16-lens-camera.jpeg
-date: '2018-11-29 07:42:00 +0000'
+date: '2018-11-29 06:42:00 +0000'
 navigation: true
-tags: technology
+tags: mobile
 class: post-template
 author: imran
 title: 16 Lens camera கொண்ட கைப்பேசியினை அறிமுகம் செய்யும் LG!
