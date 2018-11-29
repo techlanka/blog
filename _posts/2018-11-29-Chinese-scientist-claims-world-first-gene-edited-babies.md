@@ -7,7 +7,7 @@ date: '2018-11-29 08:50:00 +0000'
 navigation: true
 tags: technology
 class: post-template
-author: imran
+author: mirshad
 title: genes மாற்றம் செய்யப்பட்டு பிறந்த குழந்தைகள்: பரபரப்பை ஏற்படுத்தியுள்ள சீன விஞ்ஞானி!
 --- 
 The Chinese government has ordered an "immediate investigation" into the alleged delivery of the world's first genetically edited babies, as experts worldwide voiced outrage at such use of the technology.
