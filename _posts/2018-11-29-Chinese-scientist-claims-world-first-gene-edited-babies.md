@@ -5,7 +5,7 @@ current: post
 cover: assets/images/chinese-genetic.jpg
 date: '2018-11-29 08:50:00 +0000'
 navigation: true
-tags: science
+tags: technology
 class: post-template
 author: imran
 title: genes மாற்றம் செய்யப்பட்டு பிறந்த குழந்தைகள்: பரபரப்பை ஏற்படுத்தியுள்ள சீன விஞ்ஞானி!
