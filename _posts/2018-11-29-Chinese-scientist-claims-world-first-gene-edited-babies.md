@@ -8,8 +8,9 @@ navigation: true
 tags: technology
 class: post-template
 author: mirshad
-title: genes மாற்றம் செய்யப்பட்டு பிறந்த குழந்தைகள்: பரபரப்பை ஏற்படுத்தியுள்ள சீன விஞ்ஞானி!
+title: Genes மாற்றம் செய்யப்பட்டு பிறந்த குழந்தைகள்: பரபரப்பை ஏற்படுத்தியுள்ள சீன விஞ்ஞானி!
 --- 
+
 The Chinese government has ordered an "immediate investigation" into the alleged delivery of the world's first genetically edited babies, as experts worldwide voiced outrage at such use of the technology.
 
 உலகிலேயே முதன் முறையாக பரம்பரை அலகில்(genes) மாற்றம் செய்யப்பட்ட இரு குழந்தைகள் பிறந்துள்ளன. சீனாவை சேர்ந்த விஞ்ஞானி ஒருவரே இச் சாதனை நிகழ்த்தியுள்ளார். எனினும் இச் செயலானது மருத்துவ விதிமுறைகளை மீறும் செயல் என்பதால் விசாரணை மேற்கொள்ள உத்தரவிடப்பட்டுள்ளது.
