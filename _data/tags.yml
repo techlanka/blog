@@ -50,3 +50,7 @@ business:
   name: business
   description: இப்பகுதியில் Business சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/business.jpg
+science:
+  name: science
+  description: இப்பகுதியில் Science சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/science.png
