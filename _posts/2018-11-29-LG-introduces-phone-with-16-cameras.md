@@ -7,7 +7,7 @@ date: '2018-11-29 07:42:00 +0000'
 navigation: true
 tags: technology
 class: post-template
-author: imaas
+author: imran
 title: 16 Lens camera கொண்ட கைப்பேசியினை அறிமுகம் செய்யும் LG!
 --- 
 A recent patent from the company shows off a plan to put 16 cameras into a phone. The company would arrange the cameras in a four by four grid with the goal of capturing images and video from multiple perspectives.
