@@ -5,7 +5,7 @@ current: post
 cover: assets/images/project-fi-mir.jpg
 date: '2018-11-28 22:12:00 +0000'
 navigation: true
-tags: technology
+tags: software
 class: post-template
 author: imaas
 title: விரைவில் எதிர்பாருங்கள் Google இன் “Project Fi” தொழில்நுட்பம்!
