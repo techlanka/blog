@@ -3,7 +3,7 @@ published: true
 layout: post
 current: post
 cover: assets/images/chinese-genetic.jpg
-date: '2018-11-29 08:50:00 +0000'
+date: '2018-11-29 08:30:00 +0000'
 navigation: true
 tags: technology
 class: post-template
