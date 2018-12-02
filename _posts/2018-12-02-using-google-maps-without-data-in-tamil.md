@@ -2,7 +2,7 @@
 published: true
 layout: post
 current: post
-cover: assets/images/google-maps-offline-2.jpeg
+cover: assets/images/google-maps-offline-2.jpg
 date: '2018-12-02 11:00:00 +0000'
 navigation: true
 tags: [tips & tricks]
