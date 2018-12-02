@@ -10,6 +10,7 @@ class: post-template
 author: imaas
 title: Google Mapஇனை Internet இன்றி எவ்வாறு பயன்படுத்தலாம் என்று உங்களுக்கு தெரியுமா?
 ---
+If you're going where the Internet is slow, mobile data is expensive, or you can't get online, you can save an area from Google Maps to your phone or tablet and use it when you're offline.
 
 இன்று Google Map இன் பயன்பாடாந்து அனைவரின் மத்தியில் பிரபலமான Navigation App ஆக உள்ளது. இணையதல (Internet) வசதி இருந்தால் மட்டுமே இதனை உபயோகிக்கலாம் என்றிருந்த கோட்பாட்டினை மாற்றியது Google நிறுவனம்.
 
