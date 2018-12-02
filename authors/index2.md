@@ -7,3 +7,4 @@ logo: 'assets/images/favicon.png'
 class: page-template
 subclass: 'post page'
 ---
+HI
