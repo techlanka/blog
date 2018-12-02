@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="/author/imaas/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-12-02T14:52:24+03:00</updated>
+  <updated>2018-12-02T15:51:03+03:00</updated>
   <id>/author/imaas/feed.xml</id>
 
   
@@ -34,6 +34,50 @@
   
   
 
+  
+    <entry>
+      <title type="html">Google Mapஇனை Internet இன்றி எவ்வாறு பயன்படுத்தலாம் என்று உங்களுக்கு தெரியுமா?</title>
+      <link href="/using-google-maps-without-data-in-tamil" rel="alternate" type="text/html" title="Google Mapஇனை Internet இன்றி எவ்வாறு பயன்படுத்தலாம் என்று உங்களுக்கு தெரியுமா?" />
+      <published>2018-12-02T14:00:00+03:00</published>
+      <updated>2018-12-02T14:00:00+03:00</updated>
+      <id>/using-google-maps-without-data-in-tamil</id>
+      <content type="html" xml:base="/using-google-maps-without-data-in-tamil">&lt;p&gt;இன்று Google Map இன் பயன்பாடாந்து அனைவரின் மத்தியில் பிரபலமான Navigation App ஆக உள்ளது. இணையதல (Internet) வசதி இருந்தால் மட்டுமே இதனை உபயோகிக்கலாம் என்றிருந்த கோட்பாட்டினை மாற்றியது Google நிறுவனம்.&lt;/p&gt;
+
+&lt;p&gt;புரியவில்லையா???&lt;/p&gt;
+
+&lt;p&gt;அதாவது இணையதல வசதி இல்லாத சந்தர்ப்பங்களிலும் கூட உங்கள் கையடக்கதொலைபேசியில் Navigation வசதியினை Google Maps Offline இன் மூலம் உங்களுக்கு தருகின்றது.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://techlanka.lk/assets/images/Google-offline-maps.png&quot; alt=&quot;LG Introduces 16 Camera Phone&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;நீங்கள் தொலைதூர பகுதிக்கு (Remote Area) செல்கின்றீர்கள் என்று வைத்துகொள்வோம், நீங்கள் செல்லும் இடத்தில் இணையதல வசதி அரிதாகவோ, முற்றிலும் இல்லாமலோ இருக்கலாம் அல்லவா? இவ்வாறான சந்தர்ப்பங்களில் Google Maps Offline வசதியின் உதவி இன்றியமையாததாய் இருக்கும்.&lt;/p&gt;
+
+&lt;p&gt;Google Maps Offline வசதி மட்டுபடுத்தப்பட்டதாகவே காணப்படுகிறது, காரணம் என்னவென்றால், நாம் இணையதல வசதி இல்லாத நேரத்தில் அல்லவா இதனை பயன்படுத்த போகின்றோம். ஆகவே Public Transport, Walking Directions (நடை திசைகள்) மற்றும் Traffic Data (பயணிக்கும் பாதையில் ஏற்பட்டிருக்கும் வாகன நெரிசல் தகவல்கள்) போன்ற வசதியினை பெற்றுக்கொள்ள முடியாது இருப்பினும் Navigation வசதியினை மிக துல்லியமாக பெற்றுகொள்ள கூடியதாய் இருக்கும்.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Mohamed Imaas</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tips &amp; tricks" />
+      
+
+      
+        <summary type="html">இன்று Google Map இன் பயன்பாடாந்து அனைவரின் மத்தியில் பிரபலமான Navigation App ஆக உள்ளது. இணையதல (Internet) வசதி இருந்தால் மட்டுமே இதனை உபயோகிக்கலாம் என்றிருந்த கோட்பாட்டினை மாற்றியது Google நிறுவனம்.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">விரைவில் எதிர்பாருங்கள் Google இன் “Project Fi” தொழில்நுட்பம்!</title>
