@@ -8,7 +8,6 @@ class: page-template
 subclass: 'post page'
 ---
 
-{{!< default}}
 <header class="site-header outer">
   <div class="inner">
     {% raw %}{{> "site-nav"}}
