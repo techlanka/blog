@@ -3,7 +3,7 @@ published: true
 layout: post
 current: post
 cover: assets/images/google-maps-offline-2.jpeg
-date: '2018-12-02 12:00:00 +0000'
+date: '2018-12-02 11:00:00 +0000'
 navigation: true
 tags: [tips & tricks]
 class: post-template
