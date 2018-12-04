@@ -5,7 +5,7 @@ current: post
 cover: assets/images/LG-gram-Laptops.jpg
 date: '2018-12-04 11:20:00 +0000'
 navigation: true
-tags: [tips & tricks]
+tags: technology
 class: post-template
 author: mirshad
 title: நீண்ட நாட்களுக்கு பிறகு LG அறிமுகம் செய்யும் புதிய Laptop Modelகள்.!
