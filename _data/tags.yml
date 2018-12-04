@@ -1,3 +1,7 @@
+technology:
+  name: technology
+  description: இப்பகுதியில் Technology சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/technology.jpeg
 google:
   name: google
   description: இப்பகுதியில் Google சம்பந்தமான postகலை காணலாம்.
