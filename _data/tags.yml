@@ -58,3 +58,7 @@ science:
   name: science
   description: இப்பகுதியில் Science சம்பந்தமான postகலை காணலாம்.
   cover: assets/images/science.png
+mutlimedia:
+  name: multimedia
+  description: இப்பகுதியில் Multimedia சம்பந்தமான postகலை காணலாம்.
+  cover: assets/images/multimedia-cover.jpeg
