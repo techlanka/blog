@@ -10,7 +10,7 @@ class: post-template
 author: suhail
 title: Mark Zuckerberg Facebook நிறுவனத்தின் பொறுப்பில் இருந்து நீக்கப்படுகிறாரா?
 ---
-Microsoft has unveiled brand new icons for all the apps in its Office productivity suite.
+Microsoft is modernizing its Office icons as part of a broader focus on design for its various Office apps. It’s the first time the Office icons have changed in five years.
 
 2013 பிறகு முதல் முறையாக, மைக்ரோசாஃப்ட் ஆபிஸ் சின்னங்கள் மறுவடிவமைப்பு செய்யப்பட்டுள்ளன: வீடியோவைப் பார்க்கவும்.
 
