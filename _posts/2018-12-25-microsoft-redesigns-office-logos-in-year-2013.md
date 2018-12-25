@@ -2,7 +2,7 @@
 published: true
 layout: post
 current: post
-cover: assets/images/mark-zucker-fired.jpg
+cover: assets/images/redesign-icon-office.jpg
 date: '2018-12-25 3:30:00 +0000'
 navigation: true
 tags: [multimedia]
