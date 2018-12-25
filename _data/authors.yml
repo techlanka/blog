@@ -31,3 +31,15 @@ imaas:
   facebook: ismath.imaas
   twitter: Iam_Imaas 
   cover: False
+suhail:
+    username: suhail
+    name: Suhail Ameer
+    location: Kandy, LK
+    url_full: False
+    url: False
+    bio: I’m a Web Designer and back-end Web Developing with over 2 years of professional experience in the Design Industry.
+    picture: assets/images/suhail.jpg
+    facebook: suhailbroadband
+    twitter: suhailonline4u
+    cover: False
+    
