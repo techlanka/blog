@@ -8,7 +8,7 @@ navigation: true
 tags: [multimedia]
 class: post-template
 author: suhail
-title: Mark Zuckerberg Facebook நிறுவனத்தின் பொறுப்பில் இருந்து நீக்கப்படுகிறாரா?
+title: Microsoft Office சின்னங்கள் மீழ் மறுவடிவமைப்பு!
 ---
 Microsoft is modernizing its Office icons as part of a broader focus on design for its various Office apps. It’s the first time the Office icons have changed in five years.
 
