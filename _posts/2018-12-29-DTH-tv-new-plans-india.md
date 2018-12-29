@@ -2,7 +2,7 @@
 published: true
 layout: post
 current: post
-cover: assets/images/DTH-new.jpeg
+cover: assets/images/DTH-new.jpg
 date: '2018-12-29 14:20:00 +0000'
 navigation: true
 tags: [multimedia]
