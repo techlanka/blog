@@ -3,6 +3,7 @@ markdown: kramdown
 highlighter: rouge
 paginate: 50
 language: en-uk
+words_per_minute: 200
 baseurl: "/"
 title: techlanka.lk | தமிழில் தொழிநுட்ப செய்திகள்
 description: Latest Technology based news in Tamil
