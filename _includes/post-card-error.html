@@ -1,3 +1,5 @@
+{% assign words_per_minute = site.words_per_minute | default: 200 %}
+
 {% assign count = 0 %}
 {% for post in site.posts %}
     {% assign count = count | plus: 1 %}
