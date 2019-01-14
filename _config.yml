@@ -25,7 +25,7 @@ subscribers: True # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: techlanka_lk # replace by your username
 facebook: techlanka # replace by your username
-instagram: techlanka #
+instagram: techlanka.lk #
 linkedin: company/techlanka #
 android: 
 home:
