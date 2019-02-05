@@ -45,7 +45,7 @@ permalink: /:title
 # permalink: /authors/:authors
 
 # gems and other configs
-plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap, jekyll-seo-tag, jemoji]
+plugins: [jekyll-authors, jekyll-paginate, jekyll-feed, jekyll-sitemap, jekyll-seo-tag, jemoji]
 
 feed:
   path: feed.xml
